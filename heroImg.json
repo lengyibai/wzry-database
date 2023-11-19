@@ -564,6 +564,21 @@
       "id": 113,
       "name": "莱西奥",
       "headImg": "https://lyb.cbb.plus/wzry-material/heros/laixiao_touxiang_0.jpg"
+    },
+    {
+      "id": 114,
+      "name": "姬小满",
+      "headImg": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_touxiang_0.jpg"
+    },
+    {
+      "id": 115,
+      "name": "亚连",
+      "headImg": "https://lyb.cbb.plus/wzry-material/heros/yalian_touxiang_0.jpg"
+    },
+    {
+      "id": 116,
+      "name": "朵利亚",
+      "headImg": "https://lyb.cbb.plus/wzry-material/heros/duoliya_touxiang_0.jpg"
     }
   ]
 }

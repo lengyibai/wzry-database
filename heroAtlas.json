@@ -5100,6 +5100,55 @@
           "posterBig": "https://lyb.cbb.plus/wzry-material/heros/laixiao_haibao_2_big.jpg"
         }
       ]
+    },
+    {
+      "id": 114,
+      "name": "姬小满",
+      "gender": "女",
+      "profession": ["战士"],
+      "coverBlur": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_haibao_cover_blur.jpg",
+      "cover": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_haibao_cover.jpg",
+      "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_haibao_0_blur.jpg",
+      "posterBig": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_haibao_0_big.jpg",
+      "skins": [
+        {
+          "id": 1141,
+          "name": "零食大作战",
+          "cover": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_haibao_1_small.jpg",
+          "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_haibao_1_blur.jpg",
+          "posterBig": "https://lyb.cbb.plus/wzry-material/heros/jixiaoman_haibao_1_big.jpg"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "亚连",
+      "gender": "男",
+      "profession": ["战士"],
+      "coverBlur": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_cover_blur.jpg",
+      "cover": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_cover.jpg",
+      "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_0_blur.jpg",
+      "posterBig": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_0_big.jpg",
+      "skins": [
+        {
+          "id": 1151,
+          "name": "破局者",
+          "cover": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_1_small.jpg",
+          "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_1_blur.jpg",
+          "posterBig": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_1_big.jpg"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "朵利亚",
+      "gender": "女",
+      "profession": ["辅助"],
+      "coverBlur": "https://lyb.cbb.plus/wzry-material/heros/duoliya_haibao_cover_blur.jpg",
+      "cover": "https://lyb.cbb.plus/wzry-material/heros/duoliya_haibao_cover.jpg",
+      "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/duoliya_haibao_0_blur.jpg",
+      "posterBig": "https://lyb.cbb.plus/wzry-material/heros/duoliya_haibao_0_big.jpg",
+      "skins": []
     }
   ]
 }

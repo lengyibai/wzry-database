@@ -8561,6 +8561,22 @@
       "gender": "男"
     },
     {
+      "id": 1151,
+      "hero": 115,
+      "num": 1,
+      "price": "60",
+      "type": 1,
+      "name": "破局者",
+      "poster": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_1.jpg",
+      "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_1_blur.jpg",
+      "posterBig": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_1_big.jpg",
+      "cover": "https://lyb.cbb.plus/wzry-material/heros/yalian_haibao_1_small.jpg",
+      "headImg": "https://lyb.cbb.plus/wzry-material/heros/yalian_touxiang_1.jpg",
+      "profession": ["战士"],
+      "heroName": "亚连",
+      "gender": "男"
+    },
+    {
       "id": 446,
       "hero": 44,
       "num": 6,
