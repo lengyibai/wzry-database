@@ -3,7 +3,7 @@
     {
       "id": 5401,
       "heroName": "赵云",
-      "num": "1",
+      "num": 1,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_1_blur.jpg",
@@ -19,7 +19,7 @@
     {
       "id": 5402,
       "heroName": "赵云",
-      "num": "2",
+      "num": 2,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_2_blur.jpg",
@@ -35,7 +35,7 @@
     {
       "id": 5403,
       "heroName": "赵云",
-      "num": "3",
+      "num": 3,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_3_blur.jpg",
@@ -51,7 +51,7 @@
     {
       "id": 5404,
       "heroName": "赵云",
-      "num": "4",
+      "num": 4,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_4_blur.jpg",
@@ -67,7 +67,7 @@
     {
       "id": 5405,
       "heroName": "赵云",
-      "num": "5",
+      "num": 5,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_5_blur.jpg",
@@ -83,7 +83,7 @@
     {
       "id": 5406,
       "heroName": "赵云",
-      "num": "6",
+      "num": 6,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_6_blur.jpg",
@@ -99,7 +99,7 @@
     {
       "id": 5407,
       "heroName": "赵云",
-      "num": "7",
+      "num": 7,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_7_blur.jpg",
@@ -115,7 +115,7 @@
     {
       "id": 5408,
       "heroName": "赵云",
-      "num": "8",
+      "num": 8,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_8.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_8_blur.jpg",
@@ -131,7 +131,7 @@
     {
       "id": 5409,
       "heroName": "赵云",
-      "num": "9",
+      "num": 9,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_9.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhaoyun_haibao_9_blur.jpg",
@@ -147,7 +147,7 @@
     {
       "id": 5341,
       "heroName": "妲己",
-      "num": "1",
+      "num": 1,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_1_blur.jpg",
@@ -163,7 +163,7 @@
     {
       "id": 5342,
       "heroName": "妲己",
-      "num": "2",
+      "num": 2,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_2_blur.jpg",
@@ -179,7 +179,7 @@
     {
       "id": 5343,
       "heroName": "妲己",
-      "num": "3",
+      "num": 3,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_3_blur.jpg",
@@ -195,7 +195,7 @@
     {
       "id": 5344,
       "heroName": "妲己",
-      "num": "4",
+      "num": 4,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_4_blur.jpg",
@@ -211,7 +211,7 @@
     {
       "id": 5345,
       "heroName": "妲己",
-      "num": "5",
+      "num": 5,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_5_blur.jpg",
@@ -227,7 +227,7 @@
     {
       "id": 5346,
       "heroName": "妲己",
-      "num": "6",
+      "num": 6,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_6_blur.jpg",
@@ -243,7 +243,7 @@
     {
       "id": 5347,
       "heroName": "妲己",
-      "num": "7",
+      "num": 7,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_7_blur.jpg",
@@ -259,7 +259,7 @@
     {
       "id": 5348,
       "heroName": "妲己",
-      "num": "8",
+      "num": 8,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_8.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daji_haibao_8_blur.jpg",
@@ -275,7 +275,7 @@
     {
       "id": 5141,
       "heroName": "高渐离",
-      "num": "1",
+      "num": 1,
       "hero": 514,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_1_blur.jpg",
@@ -291,7 +291,7 @@
     {
       "id": 5142,
       "heroName": "高渐离",
-      "num": "2",
+      "num": 2,
       "hero": 514,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_2_blur.jpg",
@@ -307,7 +307,7 @@
     {
       "id": 5143,
       "heroName": "高渐离",
-      "num": "3",
+      "num": 3,
       "hero": 514,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_3_blur.jpg",
@@ -323,7 +323,7 @@
     {
       "id": 5144,
       "heroName": "高渐离",
-      "num": "4",
+      "num": 4,
       "hero": 514,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gaojianli_haibao_4_blur.jpg",
@@ -339,7 +339,7 @@
     {
       "id": 1201,
       "heroName": "白起",
-      "num": "1",
+      "num": 1,
       "hero": 120,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_1_blur.jpg",
@@ -355,7 +355,7 @@
     {
       "id": 1202,
       "heroName": "白起",
-      "num": "2",
+      "num": 2,
       "hero": 120,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_2_blur.jpg",
@@ -371,7 +371,7 @@
     {
       "id": 1203,
       "heroName": "白起",
-      "num": "3",
+      "num": 3,
       "hero": 120,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_3_blur.jpg",
@@ -387,7 +387,7 @@
     {
       "id": 1204,
       "heroName": "白起",
-      "num": "4",
+      "num": 4,
       "hero": 120,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/baiqi_haibao_4_blur.jpg",
@@ -403,7 +403,7 @@
     {
       "id": 1361,
       "heroName": "武则天",
-      "num": "1",
+      "num": 1,
       "hero": 136,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wuzetian_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wuzetian_haibao_1_blur.jpg",
@@ -419,7 +419,7 @@
     {
       "id": 1362,
       "heroName": "武则天",
-      "num": "2",
+      "num": 2,
       "hero": 136,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wuzetian_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wuzetian_haibao_2_blur.jpg",
@@ -435,7 +435,7 @@
     {
       "id": 1363,
       "heroName": "武则天",
-      "num": "3",
+      "num": 3,
       "hero": 136,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wuzetian_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wuzetian_haibao_3_blur.jpg",
@@ -451,7 +451,7 @@
     {
       "id": 1461,
       "heroName": "露娜",
-      "num": "1",
+      "num": 1,
       "hero": 146,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_1_blur.jpg",
@@ -467,7 +467,7 @@
     {
       "id": 1462,
       "heroName": "露娜",
-      "num": "2",
+      "num": 2,
       "hero": 146,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_2_blur.jpg",
@@ -483,7 +483,7 @@
     {
       "id": 1463,
       "heroName": "露娜",
-      "num": "3",
+      "num": 3,
       "hero": 146,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_3_blur.jpg",
@@ -499,7 +499,7 @@
     {
       "id": 1464,
       "heroName": "露娜",
-      "num": "4",
+      "num": 4,
       "hero": 146,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_4_blur.jpg",
@@ -515,7 +515,7 @@
     {
       "id": 1465,
       "heroName": "露娜",
-      "num": "5",
+      "num": 5,
       "hero": 146,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_5_blur.jpg",
@@ -531,7 +531,7 @@
     {
       "id": 1466,
       "heroName": "露娜",
-      "num": "6",
+      "num": 6,
       "hero": 146,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/luna_haibao_6_blur.jpg",
@@ -547,7 +547,7 @@
     {
       "id": 1551,
       "heroName": "廉颇",
-      "num": "1",
+      "num": 1,
       "hero": 155,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lianpo_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lianpo_haibao_1_blur.jpg",
@@ -563,7 +563,7 @@
     {
       "id": 1552,
       "heroName": "廉颇",
-      "num": "2",
+      "num": 2,
       "hero": 155,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lianpo_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lianpo_haibao_2_blur.jpg",
@@ -579,7 +579,7 @@
     {
       "id": 1553,
       "heroName": "廉颇",
-      "num": "3",
+      "num": 3,
       "hero": 155,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lianpo_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lianpo_haibao_3_blur.jpg",
@@ -595,7 +595,7 @@
     {
       "id": 5481,
       "heroName": "嬴政",
-      "num": "1",
+      "num": 1,
       "hero": 548,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_1_blur.jpg",
@@ -611,7 +611,7 @@
     {
       "id": 5482,
       "heroName": "嬴政",
-      "num": "2",
+      "num": 2,
       "hero": 548,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_2_blur.jpg",
@@ -627,7 +627,7 @@
     {
       "id": 5483,
       "heroName": "嬴政",
-      "num": "3",
+      "num": 3,
       "hero": 548,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_3_blur.jpg",
@@ -643,7 +643,7 @@
     {
       "id": 5484,
       "heroName": "嬴政",
-      "num": "4",
+      "num": 4,
       "hero": 548,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yingzheng_haibao_4_blur.jpg",
@@ -659,7 +659,7 @@
     {
       "id": 1591,
       "heroName": "阿轲",
-      "num": "1",
+      "num": 1,
       "hero": 159,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_1_blur.jpg",
@@ -675,7 +675,7 @@
     {
       "id": 1592,
       "heroName": "阿轲",
-      "num": "2",
+      "num": 2,
       "hero": 159,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_2_blur.jpg",
@@ -691,7 +691,7 @@
     {
       "id": 1593,
       "heroName": "阿轲",
-      "num": "3",
+      "num": 3,
       "hero": 159,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_3_blur.jpg",
@@ -707,7 +707,7 @@
     {
       "id": 1594,
       "heroName": "阿轲",
-      "num": "4",
+      "num": 4,
       "hero": 159,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_4_blur.jpg",
@@ -723,7 +723,7 @@
     {
       "id": 1595,
       "heroName": "阿轲",
-      "num": "5",
+      "num": 5,
       "hero": 159,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ake_haibao_5_blur.jpg",
@@ -739,7 +739,7 @@
     {
       "id": 1271,
       "heroName": "甄姬",
-      "num": "1",
+      "num": 1,
       "hero": 127,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_1_blur.jpg",
@@ -755,7 +755,7 @@
     {
       "id": 1272,
       "heroName": "甄姬",
-      "num": "2",
+      "num": 2,
       "hero": 127,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_2_blur.jpg",
@@ -771,7 +771,7 @@
     {
       "id": 1273,
       "heroName": "甄姬",
-      "num": "3",
+      "num": 3,
       "hero": 127,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_3_blur.jpg",
@@ -787,7 +787,7 @@
     {
       "id": 1274,
       "heroName": "甄姬",
-      "num": "4",
+      "num": 4,
       "hero": 127,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_4_blur.jpg",
@@ -803,7 +803,7 @@
     {
       "id": 1275,
       "heroName": "甄姬",
-      "num": "5",
+      "num": 5,
       "hero": 127,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_5_blur.jpg",
@@ -819,7 +819,7 @@
     {
       "id": 1276,
       "heroName": "甄姬",
-      "num": "6",
+      "num": 6,
       "hero": 127,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_6_blur.jpg",
@@ -835,7 +835,7 @@
     {
       "id": 1391,
       "heroName": "老夫子",
-      "num": "1",
+      "num": 1,
       "hero": 139,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_1_blur.jpg",
@@ -851,7 +851,7 @@
     {
       "id": 1392,
       "heroName": "老夫子",
-      "num": "2",
+      "num": 2,
       "hero": 139,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_2_blur.jpg",
@@ -867,7 +867,7 @@
     {
       "id": 1393,
       "heroName": "老夫子",
-      "num": "3",
+      "num": 3,
       "hero": 139,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_3_blur.jpg",
@@ -883,7 +883,7 @@
     {
       "id": 1394,
       "heroName": "老夫子",
-      "num": "4",
+      "num": 4,
       "hero": 139,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_4_blur.jpg",
@@ -899,7 +899,7 @@
     {
       "id": 1395,
       "heroName": "老夫子",
-      "num": "5",
+      "num": 5,
       "hero": 139,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/laofuzi_haibao_5_blur.jpg",
@@ -915,7 +915,7 @@
     {
       "id": 1481,
       "heroName": "姜子牙",
-      "num": "1",
+      "num": 1,
       "hero": 148,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jiangziya_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jiangziya_haibao_1_blur.jpg",
@@ -931,7 +931,7 @@
     {
       "id": 1482,
       "heroName": "姜子牙",
-      "num": "2",
+      "num": 2,
       "hero": 148,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jiangziya_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jiangziya_haibao_2_blur.jpg",
@@ -947,7 +947,7 @@
     {
       "id": 5381,
       "heroName": "小乔",
-      "num": "1",
+      "num": 1,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_1_blur.jpg",
@@ -963,7 +963,7 @@
     {
       "id": 5382,
       "heroName": "小乔",
-      "num": "2",
+      "num": 2,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_2_blur.jpg",
@@ -979,7 +979,7 @@
     {
       "id": 5383,
       "heroName": "小乔",
-      "num": "3",
+      "num": 3,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_3_blur.jpg",
@@ -995,7 +995,7 @@
     {
       "id": 5384,
       "heroName": "小乔",
-      "num": "4",
+      "num": 4,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_4_blur.jpg",
@@ -1011,7 +1011,7 @@
     {
       "id": 5385,
       "heroName": "小乔",
-      "num": "5",
+      "num": 5,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_5_blur.jpg",
@@ -1027,7 +1027,7 @@
     {
       "id": 5386,
       "heroName": "小乔",
-      "num": "6",
+      "num": 6,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_6_blur.jpg",
@@ -1043,7 +1043,7 @@
     {
       "id": 5387,
       "heroName": "小乔",
-      "num": "7",
+      "num": 7,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiaoqiao_haibao_7_blur.jpg",
@@ -1059,7 +1059,7 @@
     {
       "id": 5441,
       "heroName": "鲁班七号",
-      "num": "1",
+      "num": 1,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_1_blur.jpg",
@@ -1075,7 +1075,7 @@
     {
       "id": 5442,
       "heroName": "鲁班七号",
-      "num": "2",
+      "num": 2,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_2_blur.jpg",
@@ -1091,7 +1091,7 @@
     {
       "id": 5443,
       "heroName": "鲁班七号",
-      "num": "3",
+      "num": 3,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_3_blur.jpg",
@@ -1107,7 +1107,7 @@
     {
       "id": 5444,
       "heroName": "鲁班七号",
-      "num": "4",
+      "num": 4,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_4_blur.jpg",
@@ -1123,7 +1123,7 @@
     {
       "id": 5445,
       "heroName": "鲁班七号",
-      "num": "5",
+      "num": 5,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_5_blur.jpg",
@@ -1139,7 +1139,7 @@
     {
       "id": 5446,
       "heroName": "鲁班七号",
-      "num": "6",
+      "num": 6,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_6_blur.jpg",
@@ -1155,7 +1155,7 @@
     {
       "id": 5447,
       "heroName": "鲁班七号",
-      "num": "7",
+      "num": 7,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_7_blur.jpg",
@@ -1171,7 +1171,7 @@
     {
       "id": 5448,
       "heroName": "鲁班七号",
-      "num": "8",
+      "num": 8,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_8.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_8_blur.jpg",
@@ -1187,7 +1187,7 @@
     {
       "id": 1171,
       "heroName": "钟无艳",
-      "num": "1",
+      "num": 1,
       "hero": 117,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_1_blur.jpg",
@@ -1203,7 +1203,7 @@
     {
       "id": 1172,
       "heroName": "钟无艳",
-      "num": "2",
+      "num": 2,
       "hero": 117,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_2_blur.jpg",
@@ -1219,7 +1219,7 @@
     {
       "id": 1173,
       "heroName": "钟无艳",
-      "num": "3",
+      "num": 3,
       "hero": 117,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_3_blur.jpg",
@@ -1235,7 +1235,7 @@
     {
       "id": 1174,
       "heroName": "钟无艳",
-      "num": "4",
+      "num": 4,
       "hero": 117,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongwuyan_haibao_4_blur.jpg",
@@ -1251,7 +1251,7 @@
     {
       "id": 1331,
       "heroName": "狄仁杰",
-      "num": "1",
+      "num": 1,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_1_blur.jpg",
@@ -1267,7 +1267,7 @@
     {
       "id": 1332,
       "heroName": "狄仁杰",
-      "num": "2",
+      "num": 2,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_2_blur.jpg",
@@ -1283,7 +1283,7 @@
     {
       "id": 1333,
       "heroName": "狄仁杰",
-      "num": "3",
+      "num": 3,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_3_blur.jpg",
@@ -1299,7 +1299,7 @@
     {
       "id": 1334,
       "heroName": "狄仁杰",
-      "num": "4",
+      "num": 4,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_4_blur.jpg",
@@ -1315,7 +1315,7 @@
     {
       "id": 1335,
       "heroName": "狄仁杰",
-      "num": "5",
+      "num": 5,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_5_blur.jpg",
@@ -1331,7 +1331,7 @@
     {
       "id": 1336,
       "heroName": "狄仁杰",
-      "num": "6",
+      "num": 6,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_6_blur.jpg",
@@ -1347,7 +1347,7 @@
     {
       "id": 1337,
       "heroName": "狄仁杰",
-      "num": "7",
+      "num": 7,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_7_blur.jpg",
@@ -1363,7 +1363,7 @@
     {
       "id": 1338,
       "heroName": "狄仁杰",
-      "num": "8",
+      "num": 8,
       "hero": 133,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_8.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/direnjie_haibao_8_blur.jpg",
@@ -1379,7 +1379,7 @@
     {
       "id": 1561,
       "heroName": "张良",
-      "num": "1",
+      "num": 1,
       "hero": 156,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_1_blur.jpg",
@@ -1395,7 +1395,7 @@
     {
       "id": 1562,
       "heroName": "张良",
-      "num": "2",
+      "num": 2,
       "hero": 156,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_2_blur.jpg",
@@ -1411,7 +1411,7 @@
     {
       "id": 1563,
       "heroName": "张良",
-      "num": "3",
+      "num": 3,
       "hero": 156,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_3_blur.jpg",
@@ -1427,7 +1427,7 @@
     {
       "id": 1564,
       "heroName": "张良",
-      "num": "4",
+      "num": 4,
       "hero": 156,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_4_blur.jpg",
@@ -1443,7 +1443,7 @@
     {
       "id": 1565,
       "heroName": "张良",
-      "num": "5",
+      "num": 5,
       "hero": 156,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_5_blur.jpg",
@@ -1459,7 +1459,7 @@
     {
       "id": 1566,
       "heroName": "张良",
-      "num": "6",
+      "num": 6,
       "hero": 156,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangliang_haibao_6_blur.jpg",
@@ -1475,7 +1475,7 @@
     {
       "id": 5421,
       "heroName": "墨子",
-      "num": "1",
+      "num": 1,
       "hero": 542,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_1_blur.jpg",
@@ -1491,7 +1491,7 @@
     {
       "id": 5422,
       "heroName": "墨子",
-      "num": "2",
+      "num": 2,
       "hero": 542,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_2_blur.jpg",
@@ -1507,7 +1507,7 @@
     {
       "id": 5423,
       "heroName": "墨子",
-      "num": "3",
+      "num": 3,
       "hero": 542,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_3_blur.jpg",
@@ -1523,7 +1523,7 @@
     {
       "id": 5424,
       "heroName": "墨子",
-      "num": "4",
+      "num": 4,
       "hero": 542,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mozi_haibao_4_blur.jpg",
@@ -1539,7 +1539,7 @@
     {
       "id": 5451,
       "heroName": "庄周",
-      "num": "1",
+      "num": 1,
       "hero": 545,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_1_blur.jpg",
@@ -1555,7 +1555,7 @@
     {
       "id": 5452,
       "heroName": "庄周",
-      "num": "2",
+      "num": 2,
       "hero": 545,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_2_blur.jpg",
@@ -1571,7 +1571,7 @@
     {
       "id": 5453,
       "heroName": "庄周",
-      "num": "3",
+      "num": 3,
       "hero": 545,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_3_blur.jpg",
@@ -1587,7 +1587,7 @@
     {
       "id": 5454,
       "heroName": "庄周",
-      "num": "4",
+      "num": 4,
       "hero": 545,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_4_blur.jpg",
@@ -1603,7 +1603,7 @@
     {
       "id": 5455,
       "heroName": "庄周",
-      "num": "5",
+      "num": 5,
       "hero": 545,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_5_blur.jpg",
@@ -1619,7 +1619,7 @@
     {
       "id": 5456,
       "heroName": "庄周",
-      "num": "6",
+      "num": 6,
       "hero": 545,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_6_blur.jpg",
@@ -1635,7 +1635,7 @@
     {
       "id": 5457,
       "heroName": "庄周",
-      "num": "7",
+      "num": 7,
       "hero": 545,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhuangzhou_haibao_7_blur.jpg",
@@ -1651,7 +1651,7 @@
     {
       "id": 1181,
       "heroName": "孙膑",
-      "num": "1",
+      "num": 1,
       "hero": 118,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_1_blur.jpg",
@@ -1667,7 +1667,7 @@
     {
       "id": 1182,
       "heroName": "孙膑",
-      "num": "2",
+      "num": 2,
       "hero": 118,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_2_blur.jpg",
@@ -1683,7 +1683,7 @@
     {
       "id": 1183,
       "heroName": "孙膑",
-      "num": "3",
+      "num": 3,
       "hero": 118,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_3_blur.jpg",
@@ -1699,7 +1699,7 @@
     {
       "id": 1184,
       "heroName": "孙膑",
-      "num": "4",
+      "num": 4,
       "hero": 118,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_4_blur.jpg",
@@ -1715,7 +1715,7 @@
     {
       "id": 1185,
       "heroName": "孙膑",
-      "num": "5",
+      "num": 5,
       "hero": 118,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_5_blur.jpg",
@@ -1731,7 +1731,7 @@
     {
       "id": 1186,
       "heroName": "孙膑",
-      "num": "6",
+      "num": 6,
       "hero": 118,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunbin_haibao_6_blur.jpg",
@@ -1747,7 +1747,7 @@
     {
       "id": 1291,
       "heroName": "典韦",
-      "num": "1",
+      "num": 1,
       "hero": 129,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_1_blur.jpg",
@@ -1763,7 +1763,7 @@
     {
       "id": 1292,
       "heroName": "典韦",
-      "num": "2",
+      "num": 2,
       "hero": 129,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_2_blur.jpg",
@@ -1779,7 +1779,7 @@
     {
       "id": 1293,
       "heroName": "典韦",
-      "num": "3",
+      "num": 3,
       "hero": 129,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_3_blur.jpg",
@@ -1795,7 +1795,7 @@
     {
       "id": 1294,
       "heroName": "典韦",
-      "num": "4",
+      "num": 4,
       "hero": 129,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_4_blur.jpg",
@@ -1811,7 +1811,7 @@
     {
       "id": 1295,
       "heroName": "典韦",
-      "num": "5",
+      "num": 5,
       "hero": 129,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dianwei_haibao_5_blur.jpg",
@@ -1827,7 +1827,7 @@
     {
       "id": 1341,
       "heroName": "达摩",
-      "num": "1",
+      "num": 1,
       "hero": 134,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_1_blur.jpg",
@@ -1843,7 +1843,7 @@
     {
       "id": 1342,
       "heroName": "达摩",
-      "num": "2",
+      "num": 2,
       "hero": 134,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_2_blur.jpg",
@@ -1859,7 +1859,7 @@
     {
       "id": 1343,
       "heroName": "达摩",
-      "num": "3",
+      "num": 3,
       "hero": 134,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_3_blur.jpg",
@@ -1875,7 +1875,7 @@
     {
       "id": 1344,
       "heroName": "达摩",
-      "num": "4",
+      "num": 4,
       "hero": 134,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_4_blur.jpg",
@@ -1891,7 +1891,7 @@
     {
       "id": 1345,
       "heroName": "达摩",
-      "num": "5",
+      "num": 5,
       "hero": 134,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/damo_haibao_5_blur.jpg",
@@ -1907,7 +1907,7 @@
     {
       "id": 1501,
       "heroName": "韩信",
-      "num": "1",
+      "num": 1,
       "hero": 150,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_1_blur.jpg",
@@ -1923,7 +1923,7 @@
     {
       "id": 1502,
       "heroName": "韩信",
-      "num": "2",
+      "num": 2,
       "hero": 150,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_2_blur.jpg",
@@ -1939,7 +1939,7 @@
     {
       "id": 1503,
       "heroName": "韩信",
-      "num": "3",
+      "num": 3,
       "hero": 150,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_3_blur.jpg",
@@ -1955,7 +1955,7 @@
     {
       "id": 1504,
       "heroName": "韩信",
-      "num": "4",
+      "num": 4,
       "hero": 150,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_4_blur.jpg",
@@ -1971,7 +1971,7 @@
     {
       "id": 1505,
       "heroName": "韩信",
-      "num": "5",
+      "num": 5,
       "hero": 150,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_5_blur.jpg",
@@ -1987,7 +1987,7 @@
     {
       "id": 1506,
       "heroName": "韩信",
-      "num": "6",
+      "num": 6,
       "hero": 150,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/hanxin_haibao_6_blur.jpg",
@@ -2003,7 +2003,7 @@
     {
       "id": 1661,
       "heroName": "亚瑟",
-      "num": "1",
+      "num": 1,
       "hero": 166,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_1_blur.jpg",
@@ -2019,7 +2019,7 @@
     {
       "id": 1662,
       "heroName": "亚瑟",
-      "num": "2",
+      "num": 2,
       "hero": 166,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_2_blur.jpg",
@@ -2035,7 +2035,7 @@
     {
       "id": 1663,
       "heroName": "亚瑟",
-      "num": "3",
+      "num": 3,
       "hero": 166,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_3_blur.jpg",
@@ -2051,7 +2051,7 @@
     {
       "id": 1664,
       "heroName": "亚瑟",
-      "num": "4",
+      "num": 4,
       "hero": 166,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yase_haibao_4_blur.jpg",
@@ -2067,7 +2067,7 @@
     {
       "id": 5211,
       "heroName": "孙尚香",
-      "num": "1",
+      "num": 1,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_1_blur.jpg",
@@ -2083,7 +2083,7 @@
     {
       "id": 5212,
       "heroName": "孙尚香",
-      "num": "2",
+      "num": 2,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_2_blur.jpg",
@@ -2099,7 +2099,7 @@
     {
       "id": 5213,
       "heroName": "孙尚香",
-      "num": "3",
+      "num": 3,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_3_blur.jpg",
@@ -2115,7 +2115,7 @@
     {
       "id": 5214,
       "heroName": "孙尚香",
-      "num": "4",
+      "num": 4,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_4_blur.jpg",
@@ -2131,7 +2131,7 @@
     {
       "id": 5215,
       "heroName": "孙尚香",
-      "num": "5",
+      "num": 5,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_5_blur.jpg",
@@ -2147,7 +2147,7 @@
     {
       "id": 5216,
       "heroName": "孙尚香",
-      "num": "6",
+      "num": 6,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_6_blur.jpg",
@@ -2163,7 +2163,7 @@
     {
       "id": 5217,
       "heroName": "孙尚香",
-      "num": "7",
+      "num": 7,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_7_blur.jpg",
@@ -2179,7 +2179,7 @@
     {
       "id": 5218,
       "heroName": "孙尚香",
-      "num": "8",
+      "num": 8,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_8.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_8_blur.jpg",
@@ -2195,7 +2195,7 @@
     {
       "id": 5219,
       "heroName": "孙尚香",
-      "num": "9",
+      "num": 9,
       "hero": 521,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_9.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunshangxiang_haibao_9_blur.jpg",
@@ -2211,7 +2211,7 @@
     {
       "id": 5641,
       "heroName": "刘禅",
-      "num": "1",
+      "num": 1,
       "hero": 564,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_1_blur.jpg",
@@ -2227,7 +2227,7 @@
     {
       "id": 5642,
       "heroName": "刘禅",
-      "num": "2",
+      "num": 2,
       "hero": 564,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_2_blur.jpg",
@@ -2243,7 +2243,7 @@
     {
       "id": 5643,
       "heroName": "刘禅",
-      "num": "3",
+      "num": 3,
       "hero": 564,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_3_blur.jpg",
@@ -2259,7 +2259,7 @@
     {
       "id": 5644,
       "heroName": "刘禅",
-      "num": "4",
+      "num": 4,
       "hero": 564,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_4_blur.jpg",
@@ -2275,7 +2275,7 @@
     {
       "id": 5645,
       "heroName": "刘禅",
-      "num": "5",
+      "num": 5,
       "hero": 564,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liushan_haibao_5_blur.jpg",
@@ -2291,7 +2291,7 @@
     {
       "id": 1191,
       "heroName": "扁鹊",
-      "num": "1",
+      "num": 1,
       "hero": 119,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bianque_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bianque_haibao_1_blur.jpg",
@@ -2307,7 +2307,7 @@
     {
       "id": 1192,
       "heroName": "扁鹊",
-      "num": "2",
+      "num": 2,
       "hero": 119,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bianque_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bianque_haibao_2_blur.jpg",
@@ -2323,7 +2323,7 @@
     {
       "id": 1193,
       "heroName": "扁鹊",
-      "num": "3",
+      "num": 3,
       "hero": 119,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bianque_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bianque_haibao_3_blur.jpg",
@@ -2339,7 +2339,7 @@
     {
       "id": 1301,
       "heroName": "宫本武藏",
-      "num": "1",
+      "num": 1,
       "hero": 130,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_1_blur.jpg",
@@ -2355,7 +2355,7 @@
     {
       "id": 1302,
       "heroName": "宫本武藏",
-      "num": "2",
+      "num": 2,
       "hero": 130,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_2_blur.jpg",
@@ -2371,7 +2371,7 @@
     {
       "id": 1303,
       "heroName": "宫本武藏",
-      "num": "3",
+      "num": 3,
       "hero": 130,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_3_blur.jpg",
@@ -2387,7 +2387,7 @@
     {
       "id": 1304,
       "heroName": "宫本武藏",
-      "num": "4",
+      "num": 4,
       "hero": 130,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_4_blur.jpg",
@@ -2403,7 +2403,7 @@
     {
       "id": 1305,
       "heroName": "宫本武藏",
-      "num": "5",
+      "num": 5,
       "hero": 130,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongbenwuzang_haibao_5_blur.jpg",
@@ -2419,7 +2419,7 @@
     {
       "id": 1351,
       "heroName": "项羽",
-      "num": "1",
+      "num": 1,
       "hero": 135,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_1_blur.jpg",
@@ -2435,7 +2435,7 @@
     {
       "id": 1352,
       "heroName": "项羽",
-      "num": "2",
+      "num": 2,
       "hero": 135,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_2_blur.jpg",
@@ -2451,7 +2451,7 @@
     {
       "id": 1353,
       "heroName": "项羽",
-      "num": "3",
+      "num": 3,
       "hero": 135,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_3_blur.jpg",
@@ -2467,7 +2467,7 @@
     {
       "id": 1354,
       "heroName": "项羽",
-      "num": "4",
+      "num": 4,
       "hero": 135,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_4_blur.jpg",
@@ -2483,7 +2483,7 @@
     {
       "id": 1355,
       "heroName": "项羽",
-      "num": "5",
+      "num": 5,
       "hero": 135,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_5_blur.jpg",
@@ -2499,7 +2499,7 @@
     {
       "id": 1356,
       "heroName": "项羽",
-      "num": "6",
+      "num": 6,
       "hero": 135,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiangyu_haibao_6_blur.jpg",
@@ -2515,7 +2515,7 @@
     {
       "id": 1441,
       "heroName": "程咬金",
-      "num": "1",
+      "num": 1,
       "hero": 144,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_1_blur.jpg",
@@ -2531,7 +2531,7 @@
     {
       "id": 1442,
       "heroName": "程咬金",
-      "num": "2",
+      "num": 2,
       "hero": 144,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_2_blur.jpg",
@@ -2547,7 +2547,7 @@
     {
       "id": 1443,
       "heroName": "程咬金",
-      "num": "3",
+      "num": 3,
       "hero": 144,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_3_blur.jpg",
@@ -2563,7 +2563,7 @@
     {
       "id": 1444,
       "heroName": "程咬金",
-      "num": "4",
+      "num": 4,
       "hero": 144,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_4_blur.jpg",
@@ -2579,7 +2579,7 @@
     {
       "id": 1445,
       "heroName": "程咬金",
-      "num": "5",
+      "num": 5,
       "hero": 144,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_5_blur.jpg",
@@ -2595,7 +2595,7 @@
     {
       "id": 1446,
       "heroName": "程咬金",
-      "num": "6",
+      "num": 6,
       "hero": 144,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_6_blur.jpg",
@@ -2611,7 +2611,7 @@
     {
       "id": 1447,
       "heroName": "程咬金",
-      "num": "7",
+      "num": 7,
       "hero": 144,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengyaojin_haibao_7_blur.jpg",
@@ -2627,7 +2627,7 @@
     {
       "id": 1521,
       "heroName": "王昭君",
-      "num": "1",
+      "num": 1,
       "hero": 152,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_1_blur.jpg",
@@ -2643,7 +2643,7 @@
     {
       "id": 1522,
       "heroName": "王昭君",
-      "num": "2",
+      "num": 2,
       "hero": 152,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_2_blur.jpg",
@@ -2659,7 +2659,7 @@
     {
       "id": 1523,
       "heroName": "王昭君",
-      "num": "3",
+      "num": 3,
       "hero": 152,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_3_blur.jpg",
@@ -2675,7 +2675,7 @@
     {
       "id": 1524,
       "heroName": "王昭君",
-      "num": "4",
+      "num": 4,
       "hero": 152,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_4_blur.jpg",
@@ -2691,7 +2691,7 @@
     {
       "id": 1525,
       "heroName": "王昭君",
-      "num": "5",
+      "num": 5,
       "hero": 152,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_5_blur.jpg",
@@ -2707,7 +2707,7 @@
     {
       "id": 1526,
       "heroName": "王昭君",
-      "num": "6",
+      "num": 6,
       "hero": 152,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_6_blur.jpg",
@@ -2723,7 +2723,7 @@
     {
       "id": 1527,
       "heroName": "王昭君",
-      "num": "7",
+      "num": 7,
       "hero": 152,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/wangzhaojun_haibao_7_blur.jpg",
@@ -2739,7 +2739,7 @@
     {
       "id": 1421,
       "heroName": "安琪拉",
-      "num": "1",
+      "num": 1,
       "hero": 142,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_1_blur.jpg",
@@ -2755,7 +2755,7 @@
     {
       "id": 1422,
       "heroName": "安琪拉",
-      "num": "2",
+      "num": 2,
       "hero": 142,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_2_blur.jpg",
@@ -2771,7 +2771,7 @@
     {
       "id": 1423,
       "heroName": "安琪拉",
-      "num": "3",
+      "num": 3,
       "hero": 142,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_3_blur.jpg",
@@ -2787,7 +2787,7 @@
     {
       "id": 1424,
       "heroName": "安琪拉",
-      "num": "4",
+      "num": 4,
       "hero": 142,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_4_blur.jpg",
@@ -2803,7 +2803,7 @@
     {
       "id": 1425,
       "heroName": "安琪拉",
-      "num": "5",
+      "num": 5,
       "hero": 142,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/anqila_haibao_5_blur.jpg",
@@ -2819,7 +2819,7 @@
     {
       "id": 1281,
       "heroName": "曹操",
-      "num": "1",
+      "num": 1,
       "hero": 128,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_1_blur.jpg",
@@ -2835,7 +2835,7 @@
     {
       "id": 1282,
       "heroName": "曹操",
-      "num": "2",
+      "num": 2,
       "hero": 128,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_2_blur.jpg",
@@ -2851,7 +2851,7 @@
     {
       "id": 1283,
       "heroName": "曹操",
-      "num": "3",
+      "num": 3,
       "hero": 128,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_3_blur.jpg",
@@ -2867,7 +2867,7 @@
     {
       "id": 1284,
       "heroName": "曹操",
-      "num": "4",
+      "num": 4,
       "hero": 128,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_4_blur.jpg",
@@ -2883,7 +2883,7 @@
     {
       "id": 1285,
       "heroName": "曹操",
-      "num": "5",
+      "num": 5,
       "hero": 128,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_5_blur.jpg",
@@ -2899,7 +2899,7 @@
     {
       "id": 1241,
       "heroName": "周瑜",
-      "num": "1",
+      "num": 1,
       "hero": 124,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_1_blur.jpg",
@@ -2915,7 +2915,7 @@
     {
       "id": 1242,
       "heroName": "周瑜",
-      "num": "2",
+      "num": 2,
       "hero": 124,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_2_blur.jpg",
@@ -2931,7 +2931,7 @@
     {
       "id": 1243,
       "heroName": "周瑜",
-      "num": "3",
+      "num": 3,
       "hero": 124,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_3_blur.jpg",
@@ -2947,7 +2947,7 @@
     {
       "id": 1244,
       "heroName": "周瑜",
-      "num": "4",
+      "num": 4,
       "hero": 124,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhouyu_haibao_4_blur.jpg",
@@ -2963,7 +2963,7 @@
     {
       "id": 1681,
       "heroName": "牛魔",
-      "num": "1",
+      "num": 1,
       "hero": 168,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_1_blur.jpg",
@@ -2979,7 +2979,7 @@
     {
       "id": 1682,
       "heroName": "牛魔",
-      "num": "2",
+      "num": 2,
       "hero": 168,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_2_blur.jpg",
@@ -2995,7 +2995,7 @@
     {
       "id": 1683,
       "heroName": "牛魔",
-      "num": "3",
+      "num": 3,
       "hero": 168,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_3_blur.jpg",
@@ -3011,7 +3011,7 @@
     {
       "id": 1684,
       "heroName": "牛魔",
-      "num": "4",
+      "num": 4,
       "hero": 168,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/niumo_haibao_4_blur.jpg",
@@ -3027,7 +3027,7 @@
     {
       "id": 1671,
       "heroName": "孙悟空",
-      "num": "1",
+      "num": 1,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_1_blur.jpg",
@@ -3043,7 +3043,7 @@
     {
       "id": 1672,
       "heroName": "孙悟空",
-      "num": "2",
+      "num": 2,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_2_blur.jpg",
@@ -3059,7 +3059,7 @@
     {
       "id": 1673,
       "heroName": "孙悟空",
-      "num": "3",
+      "num": 3,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_3_blur.jpg",
@@ -3075,7 +3075,7 @@
     {
       "id": 1674,
       "heroName": "孙悟空",
-      "num": "4",
+      "num": 4,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_4_blur.jpg",
@@ -3091,7 +3091,7 @@
     {
       "id": 1675,
       "heroName": "孙悟空",
-      "num": "5",
+      "num": 5,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_5_blur.jpg",
@@ -3107,7 +3107,7 @@
     {
       "id": 1676,
       "heroName": "孙悟空",
-      "num": "6",
+      "num": 6,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_6_blur.jpg",
@@ -3123,7 +3123,7 @@
     {
       "id": 1677,
       "heroName": "孙悟空",
-      "num": "7",
+      "num": 7,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_7_blur.jpg",
@@ -3139,7 +3139,7 @@
     {
       "id": 1678,
       "heroName": "孙悟空",
-      "num": "8",
+      "num": 8,
       "hero": 167,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_8.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunwukong_haibao_8_blur.jpg",
@@ -3155,7 +3155,7 @@
     {
       "id": 1211,
       "heroName": "芈月",
-      "num": "1",
+      "num": 1,
       "hero": 121,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_1_blur.jpg",
@@ -3171,7 +3171,7 @@
     {
       "id": 1212,
       "heroName": "芈月",
-      "num": "2",
+      "num": 2,
       "hero": 121,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_2_blur.jpg",
@@ -3187,7 +3187,7 @@
     {
       "id": 1213,
       "heroName": "芈月",
-      "num": "3",
+      "num": 3,
       "hero": 121,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_3_blur.jpg",
@@ -3203,7 +3203,7 @@
     {
       "id": 1214,
       "heroName": "芈月",
-      "num": "4",
+      "num": 4,
       "hero": 121,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_4_blur.jpg",
@@ -3219,7 +3219,7 @@
     {
       "id": 1215,
       "heroName": "芈月",
-      "num": "5",
+      "num": 5,
       "hero": 121,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/miyue_haibao_5_blur.jpg",
@@ -3235,7 +3235,7 @@
     {
       "id": 1411,
       "heroName": "貂蝉",
-      "num": "1",
+      "num": 1,
       "hero": 141,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_1_blur.jpg",
@@ -3251,7 +3251,7 @@
     {
       "id": 1412,
       "heroName": "貂蝉",
-      "num": "2",
+      "num": 2,
       "hero": 141,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_2_blur.jpg",
@@ -3267,7 +3267,7 @@
     {
       "id": 1413,
       "heroName": "貂蝉",
-      "num": "3",
+      "num": 3,
       "hero": 141,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_3_blur.jpg",
@@ -3283,7 +3283,7 @@
     {
       "id": 1414,
       "heroName": "貂蝉",
-      "num": "4",
+      "num": 4,
       "hero": 141,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_4_blur.jpg",
@@ -3299,7 +3299,7 @@
     {
       "id": 1415,
       "heroName": "貂蝉",
-      "num": "5",
+      "num": 5,
       "hero": 141,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_5_blur.jpg",
@@ -3315,7 +3315,7 @@
     {
       "id": 1416,
       "heroName": "貂蝉",
-      "num": "6",
+      "num": 6,
       "hero": 141,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_6_blur.jpg",
@@ -3331,7 +3331,7 @@
     {
       "id": 1417,
       "heroName": "貂蝉",
-      "num": "7",
+      "num": 7,
       "hero": 141,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/diaochan_haibao_7_blur.jpg",
@@ -3347,7 +3347,7 @@
     {
       "id": 1231,
       "heroName": "吕布",
-      "num": "1",
+      "num": 1,
       "hero": 123,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_1_blur.jpg",
@@ -3363,7 +3363,7 @@
     {
       "id": 1232,
       "heroName": "吕布",
-      "num": "2",
+      "num": 2,
       "hero": 123,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_2_blur.jpg",
@@ -3379,7 +3379,7 @@
     {
       "id": 1233,
       "heroName": "吕布",
-      "num": "3",
+      "num": 3,
       "hero": 123,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_3_blur.jpg",
@@ -3395,7 +3395,7 @@
     {
       "id": 1234,
       "heroName": "吕布",
-      "num": "4",
+      "num": 4,
       "hero": 123,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_4_blur.jpg",
@@ -3411,7 +3411,7 @@
     {
       "id": 1235,
       "heroName": "吕布",
-      "num": "5",
+      "num": 5,
       "hero": 123,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_5_blur.jpg",
@@ -3427,7 +3427,7 @@
     {
       "id": 1236,
       "heroName": "吕布",
-      "num": "6",
+      "num": 6,
       "hero": 123,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lvbu_haibao_6_blur.jpg",
@@ -3443,7 +3443,7 @@
     {
       "id": 1541,
       "heroName": "花木兰",
-      "num": "1",
+      "num": 1,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_1_blur.jpg",
@@ -3459,7 +3459,7 @@
     {
       "id": 1542,
       "heroName": "花木兰",
-      "num": "2",
+      "num": 2,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_2_blur.jpg",
@@ -3475,7 +3475,7 @@
     {
       "id": 1543,
       "heroName": "花木兰",
-      "num": "3",
+      "num": 3,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_3_blur.jpg",
@@ -3491,7 +3491,7 @@
     {
       "id": 1544,
       "heroName": "花木兰",
-      "num": "4",
+      "num": 4,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_4_blur.jpg",
@@ -3507,7 +3507,7 @@
     {
       "id": 1545,
       "heroName": "花木兰",
-      "num": "5",
+      "num": 5,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_5_blur.jpg",
@@ -3523,7 +3523,7 @@
     {
       "id": 1546,
       "heroName": "花木兰",
-      "num": "6",
+      "num": 6,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_6_blur.jpg",
@@ -3539,7 +3539,7 @@
     {
       "id": 1547,
       "heroName": "花木兰",
-      "num": "7",
+      "num": 7,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_7_blur.jpg",
@@ -3555,7 +3555,7 @@
     {
       "id": 1548,
       "heroName": "花木兰",
-      "num": "8",
+      "num": 8,
       "hero": 154,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_8.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huamulan_haibao_8_blur.jpg",
@@ -3571,7 +3571,7 @@
     {
       "id": 1691,
       "heroName": "后羿",
-      "num": "1",
+      "num": 1,
       "hero": 169,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_1_blur.jpg",
@@ -3587,7 +3587,7 @@
     {
       "id": 1692,
       "heroName": "后羿",
-      "num": "2",
+      "num": 2,
       "hero": 169,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_2_blur.jpg",
@@ -3603,7 +3603,7 @@
     {
       "id": 1693,
       "heroName": "后羿",
-      "num": "3",
+      "num": 3,
       "hero": 169,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_3_blur.jpg",
@@ -3619,7 +3619,7 @@
     {
       "id": 1694,
       "heroName": "后羿",
-      "num": "4",
+      "num": 4,
       "hero": 169,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_4_blur.jpg",
@@ -3635,7 +3635,7 @@
     {
       "id": 1695,
       "heroName": "后羿",
-      "num": "5",
+      "num": 5,
       "hero": 169,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_5_blur.jpg",
@@ -3651,7 +3651,7 @@
     {
       "id": 1696,
       "heroName": "后羿",
-      "num": "6",
+      "num": 6,
       "hero": 169,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_6_blur.jpg",
@@ -3667,7 +3667,7 @@
     {
       "id": 1697,
       "heroName": "后羿",
-      "num": "7",
+      "num": 7,
       "hero": 169,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/houyi_haibao_7_blur.jpg",
@@ -3683,7 +3683,7 @@
     {
       "id": 1711,
       "heroName": "张飞",
-      "num": "1",
+      "num": 1,
       "hero": 171,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangfei_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangfei_haibao_1_blur.jpg",
@@ -3699,7 +3699,7 @@
     {
       "id": 1712,
       "heroName": "张飞",
-      "num": "2",
+      "num": 2,
       "hero": 171,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangfei_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangfei_haibao_2_blur.jpg",
@@ -3715,7 +3715,7 @@
     {
       "id": 1713,
       "heroName": "张飞",
-      "num": "3",
+      "num": 3,
       "hero": 171,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhangfei_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhangfei_haibao_3_blur.jpg",
@@ -3731,7 +3731,7 @@
     {
       "id": 1701,
       "heroName": "刘备",
-      "num": "1",
+      "num": 1,
       "hero": 170,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_1_blur.jpg",
@@ -3747,7 +3747,7 @@
     {
       "id": 1702,
       "heroName": "刘备",
-      "num": "2",
+      "num": 2,
       "hero": 170,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_2_blur.jpg",
@@ -3763,7 +3763,7 @@
     {
       "id": 1703,
       "heroName": "刘备",
-      "num": "3",
+      "num": 3,
       "hero": 170,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_3_blur.jpg",
@@ -3779,7 +3779,7 @@
     {
       "id": 1704,
       "heroName": "刘备",
-      "num": "4",
+      "num": 4,
       "hero": 170,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_4_blur.jpg",
@@ -3795,7 +3795,7 @@
     {
       "id": 1705,
       "heroName": "刘备",
-      "num": "5",
+      "num": 5,
       "hero": 170,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubei_haibao_5_blur.jpg",
@@ -3811,7 +3811,7 @@
     {
       "id": 1531,
       "heroName": "兰陵王",
-      "num": "1",
+      "num": 1,
       "hero": 153,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_1_blur.jpg",
@@ -3827,7 +3827,7 @@
     {
       "id": 1532,
       "heroName": "兰陵王",
-      "num": "2",
+      "num": 2,
       "hero": 153,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_2_blur.jpg",
@@ -3843,7 +3843,7 @@
     {
       "id": 1533,
       "heroName": "兰陵王",
-      "num": "3",
+      "num": 3,
       "hero": 153,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_3_blur.jpg",
@@ -3859,7 +3859,7 @@
     {
       "id": 1534,
       "heroName": "兰陵王",
-      "num": "4",
+      "num": 4,
       "hero": 153,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_4_blur.jpg",
@@ -3875,7 +3875,7 @@
     {
       "id": 1535,
       "heroName": "兰陵王",
-      "num": "5",
+      "num": 5,
       "hero": 153,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lanlingwang_haibao_5_blur.jpg",
@@ -3891,7 +3891,7 @@
     {
       "id": 1621,
       "heroName": "娜可露露",
-      "num": "1",
+      "num": 1,
       "hero": 162,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nakelulu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nakelulu_haibao_1_blur.jpg",
@@ -3907,7 +3907,7 @@
     {
       "id": 1622,
       "heroName": "娜可露露",
-      "num": "2",
+      "num": 2,
       "hero": 162,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nakelulu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nakelulu_haibao_2_blur.jpg",
@@ -3923,7 +3923,7 @@
     {
       "id": 1311,
       "heroName": "李白",
-      "num": "1",
+      "num": 1,
       "hero": 131,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_1_blur.jpg",
@@ -3939,7 +3939,7 @@
     {
       "id": 1312,
       "heroName": "李白",
-      "num": "2",
+      "num": 2,
       "hero": 131,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_2_blur.jpg",
@@ -3955,7 +3955,7 @@
     {
       "id": 1313,
       "heroName": "李白",
-      "num": "3",
+      "num": 3,
       "hero": 131,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_3_blur.jpg",
@@ -3971,7 +3971,7 @@
     {
       "id": 1314,
       "heroName": "李白",
-      "num": "4",
+      "num": 4,
       "hero": 131,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_4_blur.jpg",
@@ -3987,7 +3987,7 @@
     {
       "id": 1315,
       "heroName": "李白",
-      "num": "5",
+      "num": 5,
       "hero": 131,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/libai_haibao_5_blur.jpg",
@@ -4003,7 +4003,7 @@
     {
       "id": 1751,
       "heroName": "钟馗",
-      "num": "1",
+      "num": 1,
       "hero": 175,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_1_blur.jpg",
@@ -4019,7 +4019,7 @@
     {
       "id": 1752,
       "heroName": "钟馗",
-      "num": "2",
+      "num": 2,
       "hero": 175,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_2_blur.jpg",
@@ -4035,7 +4035,7 @@
     {
       "id": 1753,
       "heroName": "钟馗",
-      "num": "3",
+      "num": 3,
       "hero": 175,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_3_blur.jpg",
@@ -4051,7 +4051,7 @@
     {
       "id": 1754,
       "heroName": "钟馗",
-      "num": "4",
+      "num": 4,
       "hero": 175,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhongkui_haibao_4_blur.jpg",
@@ -4067,7 +4067,7 @@
     {
       "id": 1731,
       "heroName": "李元芳",
-      "num": "1",
+      "num": 1,
       "hero": 173,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_1_blur.jpg",
@@ -4083,7 +4083,7 @@
     {
       "id": 1732,
       "heroName": "李元芳",
-      "num": "2",
+      "num": 2,
       "hero": 173,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_2_blur.jpg",
@@ -4099,7 +4099,7 @@
     {
       "id": 1733,
       "heroName": "李元芳",
-      "num": "3",
+      "num": 3,
       "hero": 173,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_3_blur.jpg",
@@ -4115,7 +4115,7 @@
     {
       "id": 1734,
       "heroName": "李元芳",
-      "num": "4",
+      "num": 4,
       "hero": 173,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_4_blur.jpg",
@@ -4131,7 +4131,7 @@
     {
       "id": 1735,
       "heroName": "李元芳",
-      "num": "5",
+      "num": 5,
       "hero": 173,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_5_blur.jpg",
@@ -4147,7 +4147,7 @@
     {
       "id": 1736,
       "heroName": "李元芳",
-      "num": "6",
+      "num": 6,
       "hero": 173,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liyuanfang_haibao_6_blur.jpg",
@@ -4163,7 +4163,7 @@
     {
       "id": 1491,
       "heroName": "刘邦",
-      "num": "1",
+      "num": 1,
       "hero": 149,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_1_blur.jpg",
@@ -4179,7 +4179,7 @@
     {
       "id": 1492,
       "heroName": "刘邦",
-      "num": "2",
+      "num": 2,
       "hero": 149,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_2_blur.jpg",
@@ -4195,7 +4195,7 @@
     {
       "id": 1493,
       "heroName": "刘邦",
-      "num": "3",
+      "num": 3,
       "hero": 149,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_3_blur.jpg",
@@ -4211,7 +4211,7 @@
     {
       "id": 1494,
       "heroName": "刘邦",
-      "num": "4",
+      "num": 4,
       "hero": 149,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/liubang_haibao_4_blur.jpg",
@@ -4227,7 +4227,7 @@
     {
       "id": 1571,
       "heroName": "不知火舞",
-      "num": "1",
+      "num": 1,
       "hero": 157,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/buzhihuowu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/buzhihuowu_haibao_1_blur.jpg",
@@ -4243,7 +4243,7 @@
     {
       "id": 1572,
       "heroName": "不知火舞",
-      "num": "2",
+      "num": 2,
       "hero": 157,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/buzhihuowu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/buzhihuowu_haibao_2_blur.jpg",
@@ -4259,7 +4259,7 @@
     {
       "id": 1741,
       "heroName": "虞姬",
-      "num": "1",
+      "num": 1,
       "hero": 174,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_1_blur.jpg",
@@ -4275,7 +4275,7 @@
     {
       "id": 1742,
       "heroName": "虞姬",
-      "num": "2",
+      "num": 2,
       "hero": 174,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_2_blur.jpg",
@@ -4291,7 +4291,7 @@
     {
       "id": 1743,
       "heroName": "虞姬",
-      "num": "3",
+      "num": 3,
       "hero": 174,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_3_blur.jpg",
@@ -4307,7 +4307,7 @@
     {
       "id": 1744,
       "heroName": "虞姬",
-      "num": "4",
+      "num": 4,
       "hero": 174,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_4_blur.jpg",
@@ -4323,7 +4323,7 @@
     {
       "id": 1745,
       "heroName": "虞姬",
-      "num": "5",
+      "num": 5,
       "hero": 174,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yuji_haibao_5_blur.jpg",
@@ -4339,7 +4339,7 @@
     {
       "id": 1401,
       "heroName": "关羽",
-      "num": "1",
+      "num": 1,
       "hero": 140,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_1_blur.jpg",
@@ -4355,7 +4355,7 @@
     {
       "id": 1402,
       "heroName": "关羽",
-      "num": "2",
+      "num": 2,
       "hero": 140,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_2_blur.jpg",
@@ -4371,7 +4371,7 @@
     {
       "id": 1403,
       "heroName": "关羽",
-      "num": "3",
+      "num": 3,
       "hero": 140,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_3_blur.jpg",
@@ -4387,7 +4387,7 @@
     {
       "id": 1404,
       "heroName": "关羽",
-      "num": "4",
+      "num": 4,
       "hero": 140,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guanyu_haibao_4_blur.jpg",
@@ -4403,7 +4403,7 @@
     {
       "id": 1841,
       "heroName": "蔡文姬",
-      "num": "1",
+      "num": 1,
       "hero": 184,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_1_blur.jpg",
@@ -4419,7 +4419,7 @@
     {
       "id": 1842,
       "heroName": "蔡文姬",
-      "num": "2",
+      "num": 2,
       "hero": 184,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_2_blur.jpg",
@@ -4435,7 +4435,7 @@
     {
       "id": 1843,
       "heroName": "蔡文姬",
-      "num": "3",
+      "num": 3,
       "hero": 184,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_3_blur.jpg",
@@ -4451,7 +4451,7 @@
     {
       "id": 1844,
       "heroName": "蔡文姬",
-      "num": "4",
+      "num": 4,
       "hero": 184,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_4_blur.jpg",
@@ -4467,7 +4467,7 @@
     {
       "id": 1845,
       "heroName": "蔡文姬",
-      "num": "5",
+      "num": 5,
       "hero": 184,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caiwenji_haibao_5_blur.jpg",
@@ -4483,7 +4483,7 @@
     {
       "id": 1261,
       "heroName": "夏侯惇",
-      "num": "1",
+      "num": 1,
       "hero": 126,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_1_blur.jpg",
@@ -4499,7 +4499,7 @@
     {
       "id": 1262,
       "heroName": "夏侯惇",
-      "num": "2",
+      "num": 2,
       "hero": 126,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_2_blur.jpg",
@@ -4515,7 +4515,7 @@
     {
       "id": 1263,
       "heroName": "夏侯惇",
-      "num": "3",
+      "num": 3,
       "hero": 126,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_3_blur.jpg",
@@ -4531,7 +4531,7 @@
     {
       "id": 1264,
       "heroName": "夏侯惇",
-      "num": "4",
+      "num": 4,
       "hero": 126,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_4_blur.jpg",
@@ -4547,7 +4547,7 @@
     {
       "id": 1265,
       "heroName": "夏侯惇",
-      "num": "5",
+      "num": 5,
       "hero": 126,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xiahoudun_haibao_5_blur.jpg",
@@ -4563,7 +4563,7 @@
     {
       "id": 1831,
       "heroName": "雅典娜",
-      "num": "1",
+      "num": 1,
       "hero": 183,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_1_blur.jpg",
@@ -4579,7 +4579,7 @@
     {
       "id": 1832,
       "heroName": "雅典娜",
-      "num": "2",
+      "num": 2,
       "hero": 183,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_2_blur.jpg",
@@ -4595,7 +4595,7 @@
     {
       "id": 1833,
       "heroName": "雅典娜",
-      "num": "3",
+      "num": 3,
       "hero": 183,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_3_blur.jpg",
@@ -4611,7 +4611,7 @@
     {
       "id": 1834,
       "heroName": "雅典娜",
-      "num": "4",
+      "num": 4,
       "hero": 183,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_4_blur.jpg",
@@ -4627,7 +4627,7 @@
     {
       "id": 1835,
       "heroName": "雅典娜",
-      "num": "5",
+      "num": 5,
       "hero": 183,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yadianna_haibao_5_blur.jpg",
@@ -4643,7 +4643,7 @@
     {
       "id": 1321,
       "heroName": "马可波罗",
-      "num": "1",
+      "num": 1,
       "hero": 132,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_1_blur.jpg",
@@ -4659,7 +4659,7 @@
     {
       "id": 1322,
       "heroName": "马可波罗",
-      "num": "2",
+      "num": 2,
       "hero": 132,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_2_blur.jpg",
@@ -4675,7 +4675,7 @@
     {
       "id": 1323,
       "heroName": "马可波罗",
-      "num": "3",
+      "num": 3,
       "hero": 132,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_3_blur.jpg",
@@ -4691,7 +4691,7 @@
     {
       "id": 1324,
       "heroName": "马可波罗",
-      "num": "4",
+      "num": 4,
       "hero": 132,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_4_blur.jpg",
@@ -4707,7 +4707,7 @@
     {
       "id": 1325,
       "heroName": "马可波罗",
-      "num": "5",
+      "num": 5,
       "hero": 132,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/makeboluo_haibao_5_blur.jpg",
@@ -4723,7 +4723,7 @@
     {
       "id": 1631,
       "heroName": "橘右京",
-      "num": "1",
+      "num": 1,
       "hero": 163,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/juyoujing_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/juyoujing_haibao_1_blur.jpg",
@@ -4739,7 +4739,7 @@
     {
       "id": 1632,
       "heroName": "橘右京",
-      "num": "2",
+      "num": 2,
       "hero": 163,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/juyoujing_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/juyoujing_haibao_2_blur.jpg",
@@ -4755,7 +4755,7 @@
     {
       "id": 1771,
       "heroName": "成吉思汗",
-      "num": "1",
+      "num": 1,
       "hero": 177,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/chengjisihan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/chengjisihan_haibao_1_blur.jpg",
@@ -4771,7 +4771,7 @@
     {
       "id": 1781,
       "heroName": "杨戬",
-      "num": "1",
+      "num": 1,
       "hero": 178,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_1_blur.jpg",
@@ -4787,7 +4787,7 @@
     {
       "id": 1782,
       "heroName": "杨戬",
-      "num": "2",
+      "num": 2,
       "hero": 178,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_2_blur.jpg",
@@ -4803,7 +4803,7 @@
     {
       "id": 1783,
       "heroName": "杨戬",
-      "num": "3",
+      "num": 3,
       "hero": 178,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_3_blur.jpg",
@@ -4819,7 +4819,7 @@
     {
       "id": 1784,
       "heroName": "杨戬",
-      "num": "4",
+      "num": 4,
       "hero": 178,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yangjian_haibao_4_blur.jpg",
@@ -4835,7 +4835,7 @@
     {
       "id": 1861,
       "heroName": "太乙真人",
-      "num": "1",
+      "num": 1,
       "hero": 186,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/taiyizhenren_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/taiyizhenren_haibao_1_blur.jpg",
@@ -4851,7 +4851,7 @@
     {
       "id": 1862,
       "heroName": "太乙真人",
-      "num": "2",
+      "num": 2,
       "hero": 186,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/taiyizhenren_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/taiyizhenren_haibao_2_blur.jpg",
@@ -4867,7 +4867,7 @@
     {
       "id": 1863,
       "heroName": "太乙真人",
-      "num": "3",
+      "num": 3,
       "hero": 186,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/taiyizhenren_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/taiyizhenren_haibao_3_blur.jpg",
@@ -4883,7 +4883,7 @@
     {
       "id": 1801,
       "heroName": "哪吒",
-      "num": "1",
+      "num": 1,
       "hero": 180,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_1_blur.jpg",
@@ -4899,7 +4899,7 @@
     {
       "id": 1802,
       "heroName": "哪吒",
-      "num": "2",
+      "num": 2,
       "hero": 180,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_2_blur.jpg",
@@ -4915,7 +4915,7 @@
     {
       "id": 1803,
       "heroName": "哪吒",
-      "num": "3",
+      "num": 3,
       "hero": 180,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_3_blur.jpg",
@@ -4931,7 +4931,7 @@
     {
       "id": 1804,
       "heroName": "哪吒",
-      "num": "4",
+      "num": 4,
       "hero": 180,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nezha_haibao_4_blur.jpg",
@@ -4947,7 +4947,7 @@
     {
       "id": 1901,
       "heroName": "诸葛亮",
-      "num": "1",
+      "num": 1,
       "hero": 190,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_1_blur.jpg",
@@ -4963,7 +4963,7 @@
     {
       "id": 1902,
       "heroName": "诸葛亮",
-      "num": "2",
+      "num": 2,
       "hero": 190,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_2_blur.jpg",
@@ -4979,7 +4979,7 @@
     {
       "id": 1903,
       "heroName": "诸葛亮",
-      "num": "3",
+      "num": 3,
       "hero": 190,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_3_blur.jpg",
@@ -4995,7 +4995,7 @@
     {
       "id": 1904,
       "heroName": "诸葛亮",
-      "num": "4",
+      "num": 4,
       "hero": 190,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_4_blur.jpg",
@@ -5011,7 +5011,7 @@
     {
       "id": 1905,
       "heroName": "诸葛亮",
-      "num": "5",
+      "num": 5,
       "hero": 190,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_5_blur.jpg",
@@ -5027,7 +5027,7 @@
     {
       "id": 1906,
       "heroName": "诸葛亮",
-      "num": "6",
+      "num": 6,
       "hero": 190,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhugeliang_haibao_6_blur.jpg",
@@ -5043,7 +5043,7 @@
     {
       "id": 1921,
       "heroName": "黄忠",
-      "num": "1",
+      "num": 1,
       "hero": 192,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huangzhong_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huangzhong_haibao_1_blur.jpg",
@@ -5059,7 +5059,7 @@
     {
       "id": 1922,
       "heroName": "黄忠",
-      "num": "2",
+      "num": 2,
       "hero": 192,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huangzhong_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huangzhong_haibao_2_blur.jpg",
@@ -5075,7 +5075,7 @@
     {
       "id": 1923,
       "heroName": "黄忠",
-      "num": "3",
+      "num": 3,
       "hero": 192,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/huangzhong_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/huangzhong_haibao_3_blur.jpg",
@@ -5091,7 +5091,7 @@
     {
       "id": 1911,
       "heroName": "大乔",
-      "num": "1",
+      "num": 1,
       "hero": 191,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_1_blur.jpg",
@@ -5107,7 +5107,7 @@
     {
       "id": 1912,
       "heroName": "大乔",
-      "num": "2",
+      "num": 2,
       "hero": 191,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_2_blur.jpg",
@@ -5123,7 +5123,7 @@
     {
       "id": 1913,
       "heroName": "大乔",
-      "num": "3",
+      "num": 3,
       "hero": 191,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_3_blur.jpg",
@@ -5139,7 +5139,7 @@
     {
       "id": 1914,
       "heroName": "大乔",
-      "num": "4",
+      "num": 4,
       "hero": 191,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_4_blur.jpg",
@@ -5155,7 +5155,7 @@
     {
       "id": 1915,
       "heroName": "大乔",
-      "num": "5",
+      "num": 5,
       "hero": 191,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_5_blur.jpg",
@@ -5171,7 +5171,7 @@
     {
       "id": 1916,
       "heroName": "大乔",
-      "num": "6",
+      "num": 6,
       "hero": 191,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_6_blur.jpg",
@@ -5187,7 +5187,7 @@
     {
       "id": 1871,
       "heroName": "东皇太一",
-      "num": "1",
+      "num": 1,
       "hero": 187,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/donghuangtaiyi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/donghuangtaiyi_haibao_1_blur.jpg",
@@ -5203,7 +5203,7 @@
     {
       "id": 1872,
       "heroName": "东皇太一",
-      "num": "2",
+      "num": 2,
       "hero": 187,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/donghuangtaiyi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/donghuangtaiyi_haibao_2_blur.jpg",
@@ -5219,7 +5219,7 @@
     {
       "id": 1821,
       "heroName": "干将莫邪",
-      "num": "1",
+      "num": 1,
       "hero": 182,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_1_blur.jpg",
@@ -5235,7 +5235,7 @@
     {
       "id": 1822,
       "heroName": "干将莫邪",
-      "num": "2",
+      "num": 2,
       "hero": 182,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_2_blur.jpg",
@@ -5251,7 +5251,7 @@
     {
       "id": 1823,
       "heroName": "干将莫邪",
-      "num": "3",
+      "num": 3,
       "hero": 182,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_3_blur.jpg",
@@ -5267,7 +5267,7 @@
     {
       "id": 1824,
       "heroName": "干将莫邪",
-      "num": "4",
+      "num": 4,
       "hero": 182,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_4_blur.jpg",
@@ -5283,7 +5283,7 @@
     {
       "id": 1825,
       "heroName": "干将莫邪",
-      "num": "5",
+      "num": 5,
       "hero": 182,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ganjiangmoye_haibao_5_blur.jpg",
@@ -5299,7 +5299,7 @@
     {
       "id": 1891,
       "heroName": "鬼谷子",
-      "num": "1",
+      "num": 1,
       "hero": 189,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_1_blur.jpg",
@@ -5315,7 +5315,7 @@
     {
       "id": 1892,
       "heroName": "鬼谷子",
-      "num": "2",
+      "num": 2,
       "hero": 189,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_2_blur.jpg",
@@ -5331,7 +5331,7 @@
     {
       "id": 1893,
       "heroName": "鬼谷子",
-      "num": "3",
+      "num": 3,
       "hero": 189,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_3_blur.jpg",
@@ -5347,7 +5347,7 @@
     {
       "id": 1894,
       "heroName": "鬼谷子",
-      "num": "4",
+      "num": 4,
       "hero": 189,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/guiguzi_haibao_4_blur.jpg",
@@ -5363,7 +5363,7 @@
     {
       "id": 1931,
       "heroName": "铠",
-      "num": "1",
+      "num": 1,
       "hero": 193,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_1_blur.jpg",
@@ -5379,7 +5379,7 @@
     {
       "id": 1932,
       "heroName": "铠",
-      "num": "2",
+      "num": 2,
       "hero": 193,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_2_blur.jpg",
@@ -5395,7 +5395,7 @@
     {
       "id": 1933,
       "heroName": "铠",
-      "num": "3",
+      "num": 3,
       "hero": 193,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_3_blur.jpg",
@@ -5411,7 +5411,7 @@
     {
       "id": 1934,
       "heroName": "铠",
-      "num": "4",
+      "num": 4,
       "hero": 193,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kai_haibao_4_blur.jpg",
@@ -5427,7 +5427,7 @@
     {
       "id": 1961,
       "heroName": "百里守约",
-      "num": "1",
+      "num": 1,
       "hero": 196,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_1_blur.jpg",
@@ -5443,7 +5443,7 @@
     {
       "id": 1962,
       "heroName": "百里守约",
-      "num": "2",
+      "num": 2,
       "hero": 196,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_2_blur.jpg",
@@ -5459,7 +5459,7 @@
     {
       "id": 1963,
       "heroName": "百里守约",
-      "num": "3",
+      "num": 3,
       "hero": 196,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_3_blur.jpg",
@@ -5475,7 +5475,7 @@
     {
       "id": 1964,
       "heroName": "百里守约",
-      "num": "4",
+      "num": 4,
       "hero": 196,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailishouyue_haibao_4_blur.jpg",
@@ -5491,7 +5491,7 @@
     {
       "id": 1951,
       "heroName": "百里玄策",
-      "num": "1",
+      "num": 1,
       "hero": 195,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_1_blur.jpg",
@@ -5507,7 +5507,7 @@
     {
       "id": 1952,
       "heroName": "百里玄策",
-      "num": "2",
+      "num": 2,
       "hero": 195,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_2_blur.jpg",
@@ -5523,7 +5523,7 @@
     {
       "id": 1953,
       "heroName": "百里玄策",
-      "num": "3",
+      "num": 3,
       "hero": 195,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_3_blur.jpg",
@@ -5539,7 +5539,7 @@
     {
       "id": 1954,
       "heroName": "百里玄策",
-      "num": "4",
+      "num": 4,
       "hero": 195,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/bailixuance_haibao_4_blur.jpg",
@@ -5555,7 +5555,7 @@
     {
       "id": 1941,
       "heroName": "苏烈",
-      "num": "1",
+      "num": 1,
       "hero": 194,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_1_blur.jpg",
@@ -5571,7 +5571,7 @@
     {
       "id": 1942,
       "heroName": "苏烈",
-      "num": "2",
+      "num": 2,
       "hero": 194,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_2_blur.jpg",
@@ -5587,7 +5587,7 @@
     {
       "id": 1943,
       "heroName": "苏烈",
-      "num": "3",
+      "num": 3,
       "hero": 194,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_3_blur.jpg",
@@ -5603,7 +5603,7 @@
     {
       "id": 1944,
       "heroName": "苏烈",
-      "num": "4",
+      "num": 4,
       "hero": 194,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sulie_haibao_4_blur.jpg",
@@ -5619,7 +5619,7 @@
     {
       "id": 1981,
       "heroName": "梦奇",
-      "num": "1",
+      "num": 1,
       "hero": 198,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengqi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengqi_haibao_1_blur.jpg",
@@ -5635,7 +5635,7 @@
     {
       "id": 1982,
       "heroName": "梦奇",
-      "num": "2",
+      "num": 2,
       "hero": 198,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengqi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengqi_haibao_2_blur.jpg",
@@ -5651,7 +5651,7 @@
     {
       "id": 1983,
       "heroName": "梦奇",
-      "num": "3",
+      "num": 3,
       "hero": 198,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengqi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengqi_haibao_3_blur.jpg",
@@ -5667,7 +5667,7 @@
     {
       "id": 1791,
       "heroName": "女娲",
-      "num": "1",
+      "num": 1,
       "hero": 179,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nvwa_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nvwa_haibao_1_blur.jpg",
@@ -5683,7 +5683,7 @@
     {
       "id": 1792,
       "heroName": "女娲",
-      "num": "2",
+      "num": 2,
       "hero": 179,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nvwa_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nvwa_haibao_2_blur.jpg",
@@ -5699,7 +5699,7 @@
     {
       "id": 1793,
       "heroName": "女娲",
-      "num": "3",
+      "num": 3,
       "hero": 179,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/nvwa_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/nvwa_haibao_3_blur.jpg",
@@ -5715,7 +5715,7 @@
     {
       "id": 5011,
       "heroName": "明世隐",
-      "num": "1",
+      "num": 1,
       "hero": 501,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_1_blur.jpg",
@@ -5731,7 +5731,7 @@
     {
       "id": 5012,
       "heroName": "明世隐",
-      "num": "2",
+      "num": 2,
       "hero": 501,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_2_blur.jpg",
@@ -5747,7 +5747,7 @@
     {
       "id": 5013,
       "heroName": "明世隐",
-      "num": "3",
+      "num": 3,
       "hero": 501,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_3_blur.jpg",
@@ -5763,7 +5763,7 @@
     {
       "id": 5014,
       "heroName": "明世隐",
-      "num": "4",
+      "num": 4,
       "hero": 501,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mingshiyin_haibao_4_blur.jpg",
@@ -5779,7 +5779,7 @@
     {
       "id": 1991,
       "heroName": "公孙离",
-      "num": "1",
+      "num": 1,
       "hero": 199,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_1_blur.jpg",
@@ -5795,7 +5795,7 @@
     {
       "id": 1992,
       "heroName": "公孙离",
-      "num": "2",
+      "num": 2,
       "hero": 199,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_2_blur.jpg",
@@ -5811,7 +5811,7 @@
     {
       "id": 1993,
       "heroName": "公孙离",
-      "num": "3",
+      "num": 3,
       "hero": 199,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_3_blur.jpg",
@@ -5827,7 +5827,7 @@
     {
       "id": 1994,
       "heroName": "公孙离",
-      "num": "4",
+      "num": 4,
       "hero": 199,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_4_blur.jpg",
@@ -5843,7 +5843,7 @@
     {
       "id": 1995,
       "heroName": "公孙离",
-      "num": "5",
+      "num": 5,
       "hero": 199,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/gongsunli_haibao_5_blur.jpg",
@@ -5859,7 +5859,7 @@
     {
       "id": 1761,
       "heroName": "杨玉环",
-      "num": "1",
+      "num": 1,
       "hero": 176,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yangyuhuan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yangyuhuan_haibao_1_blur.jpg",
@@ -5875,7 +5875,7 @@
     {
       "id": 1762,
       "heroName": "杨玉环",
-      "num": "2",
+      "num": 2,
       "hero": 176,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yangyuhuan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yangyuhuan_haibao_2_blur.jpg",
@@ -5891,7 +5891,7 @@
     {
       "id": 1763,
       "heroName": "杨玉环",
-      "num": "3",
+      "num": 3,
       "hero": 176,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yangyuhuan_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yangyuhuan_haibao_3_blur.jpg",
@@ -5907,7 +5907,7 @@
     {
       "id": 5021,
       "heroName": "裴擒虎",
-      "num": "1",
+      "num": 1,
       "hero": 502,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_1_blur.jpg",
@@ -5923,7 +5923,7 @@
     {
       "id": 5022,
       "heroName": "裴擒虎",
-      "num": "2",
+      "num": 2,
       "hero": 502,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_2_blur.jpg",
@@ -5939,7 +5939,7 @@
     {
       "id": 5023,
       "heroName": "裴擒虎",
-      "num": "3",
+      "num": 3,
       "hero": 502,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_3_blur.jpg",
@@ -5955,7 +5955,7 @@
     {
       "id": 5024,
       "heroName": "裴擒虎",
-      "num": "4",
+      "num": 4,
       "hero": 502,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_4_blur.jpg",
@@ -5971,7 +5971,7 @@
     {
       "id": 5025,
       "heroName": "裴擒虎",
-      "num": "5",
+      "num": 5,
       "hero": 502,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/peiqinhu_haibao_5_blur.jpg",
@@ -5987,7 +5987,7 @@
     {
       "id": 1971,
       "heroName": "弈星",
-      "num": "1",
+      "num": 1,
       "hero": 197,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yixing_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yixing_haibao_1_blur.jpg",
@@ -6003,7 +6003,7 @@
     {
       "id": 1972,
       "heroName": "弈星",
-      "num": "2",
+      "num": 2,
       "hero": 197,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yixing_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yixing_haibao_2_blur.jpg",
@@ -6019,7 +6019,7 @@
     {
       "id": 1973,
       "heroName": "弈星",
-      "num": "3",
+      "num": 3,
       "hero": 197,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yixing_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yixing_haibao_3_blur.jpg",
@@ -6035,7 +6035,7 @@
     {
       "id": 5031,
       "heroName": "狂铁",
-      "num": "1",
+      "num": 1,
       "hero": 503,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_1_blur.jpg",
@@ -6051,7 +6051,7 @@
     {
       "id": 5032,
       "heroName": "狂铁",
-      "num": "2",
+      "num": 2,
       "hero": 503,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_2_blur.jpg",
@@ -6067,7 +6067,7 @@
     {
       "id": 5033,
       "heroName": "狂铁",
-      "num": "3",
+      "num": 3,
       "hero": 503,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_3_blur.jpg",
@@ -6083,7 +6083,7 @@
     {
       "id": 5034,
       "heroName": "狂铁",
-      "num": "4",
+      "num": 4,
       "hero": 503,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/kuangtie_haibao_4_blur.jpg",
@@ -6099,7 +6099,7 @@
     {
       "id": 5041,
       "heroName": "米莱狄",
-      "num": "1",
+      "num": 1,
       "hero": 504,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_1_blur.jpg",
@@ -6115,7 +6115,7 @@
     {
       "id": 5042,
       "heroName": "米莱狄",
-      "num": "2",
+      "num": 2,
       "hero": 504,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_2_blur.jpg",
@@ -6131,7 +6131,7 @@
     {
       "id": 5043,
       "heroName": "米莱狄",
-      "num": "3",
+      "num": 3,
       "hero": 504,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_3_blur.jpg",
@@ -6147,7 +6147,7 @@
     {
       "id": 5044,
       "heroName": "米莱狄",
-      "num": "4",
+      "num": 4,
       "hero": 504,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/milaidi_haibao_4_blur.jpg",
@@ -6163,7 +6163,7 @@
     {
       "id": 1251,
       "heroName": "元歌",
-      "num": "1",
+      "num": 1,
       "hero": 125,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yuange_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yuange_haibao_1_blur.jpg",
@@ -6179,7 +6179,7 @@
     {
       "id": 1252,
       "heroName": "元歌",
-      "num": "2",
+      "num": 2,
       "hero": 125,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yuange_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yuange_haibao_2_blur.jpg",
@@ -6195,7 +6195,7 @@
     {
       "id": 5101,
       "heroName": "孙策",
-      "num": "1",
+      "num": 1,
       "hero": 510,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_1_blur.jpg",
@@ -6211,7 +6211,7 @@
     {
       "id": 5102,
       "heroName": "孙策",
-      "num": "2",
+      "num": 2,
       "hero": 510,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_2_blur.jpg",
@@ -6227,7 +6227,7 @@
     {
       "id": 5103,
       "heroName": "孙策",
-      "num": "3",
+      "num": 3,
       "hero": 510,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_3_blur.jpg",
@@ -6243,7 +6243,7 @@
     {
       "id": 5104,
       "heroName": "孙策",
-      "num": "4",
+      "num": 4,
       "hero": 510,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sunce_haibao_4_blur.jpg",
@@ -6259,7 +6259,7 @@
     {
       "id": 1371,
       "heroName": "司马懿",
-      "num": "1",
+      "num": 1,
       "hero": 137,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/simayi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/simayi_haibao_1_blur.jpg",
@@ -6275,7 +6275,7 @@
     {
       "id": 1372,
       "heroName": "司马懿",
-      "num": "2",
+      "num": 2,
       "hero": 137,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/simayi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/simayi_haibao_2_blur.jpg",
@@ -6291,7 +6291,7 @@
     {
       "id": 5091,
       "heroName": "盾山",
-      "num": "1",
+      "num": 1,
       "hero": 509,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_1_blur.jpg",
@@ -6307,7 +6307,7 @@
     {
       "id": 5092,
       "heroName": "盾山",
-      "num": "2",
+      "num": 2,
       "hero": 509,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_2_blur.jpg",
@@ -6323,7 +6323,7 @@
     {
       "id": 5093,
       "heroName": "盾山",
-      "num": "3",
+      "num": 3,
       "hero": 509,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_3_blur.jpg",
@@ -6339,7 +6339,7 @@
     {
       "id": 5094,
       "heroName": "盾山",
-      "num": "4",
+      "num": 4,
       "hero": 509,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/dunshan_haibao_4_blur.jpg",
@@ -6355,7 +6355,7 @@
     {
       "id": 5081,
       "heroName": "伽罗",
-      "num": "1",
+      "num": 1,
       "hero": 508,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_1_blur.jpg",
@@ -6371,7 +6371,7 @@
     {
       "id": 5082,
       "heroName": "伽罗",
-      "num": "2",
+      "num": 2,
       "hero": 508,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_2_blur.jpg",
@@ -6387,7 +6387,7 @@
     {
       "id": 5083,
       "heroName": "伽罗",
-      "num": "3",
+      "num": 3,
       "hero": 508,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_3_blur.jpg",
@@ -6403,7 +6403,7 @@
     {
       "id": 5084,
       "heroName": "伽罗",
-      "num": "4",
+      "num": 4,
       "hero": 508,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jialuo_haibao_4_blur.jpg",
@@ -6419,7 +6419,7 @@
     {
       "id": 3121,
       "heroName": "沈梦溪",
-      "num": "1",
+      "num": 1,
       "hero": 312,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_1_blur.jpg",
@@ -6435,7 +6435,7 @@
     {
       "id": 3122,
       "heroName": "沈梦溪",
-      "num": "2",
+      "num": 2,
       "hero": 312,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_2_blur.jpg",
@@ -6451,7 +6451,7 @@
     {
       "id": 3123,
       "heroName": "沈梦溪",
-      "num": "3",
+      "num": 3,
       "hero": 312,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_3_blur.jpg",
@@ -6467,7 +6467,7 @@
     {
       "id": 3124,
       "heroName": "沈梦溪",
-      "num": "4",
+      "num": 4,
       "hero": 312,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_4_blur.jpg",
@@ -6483,7 +6483,7 @@
     {
       "id": 3125,
       "heroName": "沈梦溪",
-      "num": "5",
+      "num": 5,
       "hero": 312,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_5.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shenmengxi_haibao_5_blur.jpg",
@@ -6499,7 +6499,7 @@
     {
       "id": 5071,
       "heroName": "李信",
-      "num": "1",
+      "num": 1,
       "hero": 507,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lixin_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lixin_haibao_1_blur.jpg",
@@ -6515,7 +6515,7 @@
     {
       "id": 5072,
       "heroName": "李信",
-      "num": "2",
+      "num": 2,
       "hero": 507,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lixin_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lixin_haibao_2_blur.jpg",
@@ -6531,7 +6531,7 @@
     {
       "id": 5131,
       "heroName": "上官婉儿",
-      "num": "1",
+      "num": 1,
       "hero": 513,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shangguanwaner_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shangguanwaner_haibao_1_blur.jpg",
@@ -6547,7 +6547,7 @@
     {
       "id": 5132,
       "heroName": "上官婉儿",
-      "num": "2",
+      "num": 2,
       "hero": 513,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shangguanwaner_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shangguanwaner_haibao_2_blur.jpg",
@@ -6563,7 +6563,7 @@
     {
       "id": 5133,
       "heroName": "上官婉儿",
-      "num": "3",
+      "num": 3,
       "hero": 513,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/shangguanwaner_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/shangguanwaner_haibao_3_blur.jpg",
@@ -6579,7 +6579,7 @@
     {
       "id": 5151,
       "heroName": "嫦娥",
-      "num": "1",
+      "num": 1,
       "hero": 515,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/change_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/change_haibao_1_blur.jpg",
@@ -6595,7 +6595,7 @@
     {
       "id": 5152,
       "heroName": "嫦娥",
-      "num": "2",
+      "num": 2,
       "hero": 515,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/change_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/change_haibao_2_blur.jpg",
@@ -6611,7 +6611,7 @@
     {
       "id": 5153,
       "heroName": "嫦娥",
-      "num": "3",
+      "num": 3,
       "hero": 515,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/change_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/change_haibao_3_blur.jpg",
@@ -6627,7 +6627,7 @@
     {
       "id": 5111,
       "heroName": "猪八戒",
-      "num": "1",
+      "num": 1,
       "hero": 511,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhubajie_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhubajie_haibao_1_blur.jpg",
@@ -6643,7 +6643,7 @@
     {
       "id": 5112,
       "heroName": "猪八戒",
-      "num": "2",
+      "num": 2,
       "hero": 511,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhubajie_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhubajie_haibao_2_blur.jpg",
@@ -6659,7 +6659,7 @@
     {
       "id": 5113,
       "heroName": "猪八戒",
-      "num": "3",
+      "num": 3,
       "hero": 511,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhubajie_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhubajie_haibao_3_blur.jpg",
@@ -6675,7 +6675,7 @@
     {
       "id": 5291,
       "heroName": "盘古",
-      "num": "1",
+      "num": 1,
       "hero": 529,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/pangu_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/pangu_haibao_1_blur.jpg",
@@ -6691,7 +6691,7 @@
     {
       "id": 5292,
       "heroName": "盘古",
-      "num": "2",
+      "num": 2,
       "hero": 529,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/pangu_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/pangu_haibao_2_blur.jpg",
@@ -6707,7 +6707,7 @@
     {
       "id": 5051,
       "heroName": "瑶",
-      "num": "1",
+      "num": 1,
       "hero": 505,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_1_blur.jpg",
@@ -6723,7 +6723,7 @@
     {
       "id": 5052,
       "heroName": "瑶",
-      "num": "2",
+      "num": 2,
       "hero": 505,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_2_blur.jpg",
@@ -6739,7 +6739,7 @@
     {
       "id": 5053,
       "heroName": "瑶",
-      "num": "3",
+      "num": 3,
       "hero": 505,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_3_blur.jpg",
@@ -6755,7 +6755,7 @@
     {
       "id": 5054,
       "heroName": "瑶",
-      "num": "4",
+      "num": 4,
       "hero": 505,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yao1_haibao_4_blur.jpg",
@@ -6771,7 +6771,7 @@
     {
       "id": 5061,
       "heroName": "云中君",
-      "num": "1",
+      "num": 1,
       "hero": 506,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yunzhongjun_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yunzhongjun_haibao_1_blur.jpg",
@@ -6787,7 +6787,7 @@
     {
       "id": 5062,
       "heroName": "云中君",
-      "num": "2",
+      "num": 2,
       "hero": 506,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yunzhongjun_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yunzhongjun_haibao_2_blur.jpg",
@@ -6803,7 +6803,7 @@
     {
       "id": 5063,
       "heroName": "云中君",
-      "num": "3",
+      "num": 3,
       "hero": 506,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yunzhongjun_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yunzhongjun_haibao_3_blur.jpg",
@@ -6819,7 +6819,7 @@
     {
       "id": 5221,
       "heroName": "曜",
-      "num": "1",
+      "num": 1,
       "hero": 522,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yao2_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yao2_haibao_1_blur.jpg",
@@ -6835,7 +6835,7 @@
     {
       "id": 5222,
       "heroName": "曜",
-      "num": "2",
+      "num": 2,
       "hero": 522,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yao2_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yao2_haibao_2_blur.jpg",
@@ -6851,7 +6851,7 @@
     {
       "id": 5223,
       "heroName": "曜",
-      "num": "3",
+      "num": 3,
       "hero": 522,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yao2_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yao2_haibao_3_blur.jpg",
@@ -6867,7 +6867,7 @@
     {
       "id": 5181,
       "heroName": "马超",
-      "num": "1",
+      "num": 1,
       "hero": 518,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/machao_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/machao_haibao_1_blur.jpg",
@@ -6883,7 +6883,7 @@
     {
       "id": 5182,
       "heroName": "马超",
-      "num": "2",
+      "num": 2,
       "hero": 518,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/machao_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/machao_haibao_2_blur.jpg",
@@ -6899,7 +6899,7 @@
     {
       "id": 5183,
       "heroName": "马超",
-      "num": "3",
+      "num": 3,
       "hero": 518,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/machao_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/machao_haibao_3_blur.jpg",
@@ -6915,7 +6915,7 @@
     {
       "id": 5231,
       "heroName": "西施",
-      "num": "1",
+      "num": 1,
       "hero": 523,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xishi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xishi_haibao_1_blur.jpg",
@@ -6931,7 +6931,7 @@
     {
       "id": 5232,
       "heroName": "西施",
-      "num": "2",
+      "num": 2,
       "hero": 523,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xishi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xishi_haibao_2_blur.jpg",
@@ -6947,7 +6947,7 @@
     {
       "id": 5233,
       "heroName": "西施",
-      "num": "3",
+      "num": 3,
       "hero": 523,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xishi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xishi_haibao_3_blur.jpg",
@@ -6963,7 +6963,7 @@
     {
       "id": 5251,
       "heroName": "鲁班大师",
-      "num": "1",
+      "num": 1,
       "hero": 525,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubandashi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubandashi_haibao_1_blur.jpg",
@@ -6979,7 +6979,7 @@
     {
       "id": 5252,
       "heroName": "鲁班大师",
-      "num": "2",
+      "num": 2,
       "hero": 525,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubandashi_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubandashi_haibao_2_blur.jpg",
@@ -6995,7 +6995,7 @@
     {
       "id": 5253,
       "heroName": "鲁班大师",
-      "num": "3",
+      "num": 3,
       "hero": 525,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubandashi_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubandashi_haibao_3_blur.jpg",
@@ -7011,7 +7011,7 @@
     {
       "id": 5241,
       "heroName": "蒙犽",
-      "num": "1",
+      "num": 1,
       "hero": 524,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_1_blur.jpg",
@@ -7027,7 +7027,7 @@
     {
       "id": 5242,
       "heroName": "蒙犽",
-      "num": "2",
+      "num": 2,
       "hero": 524,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_2_blur.jpg",
@@ -7043,7 +7043,7 @@
     {
       "id": 5243,
       "heroName": "蒙犽",
-      "num": "3",
+      "num": 3,
       "hero": 524,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_3_blur.jpg",
@@ -7059,7 +7059,7 @@
     {
       "id": 5244,
       "heroName": "蒙犽",
-      "num": "4",
+      "num": 4,
       "hero": 524,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_4.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengya_haibao_4_blur.jpg",
@@ -7075,7 +7075,7 @@
     {
       "id": 5311,
       "heroName": "镜",
-      "num": "1",
+      "num": 1,
       "hero": 531,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jing_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jing_haibao_1_blur.jpg",
@@ -7091,7 +7091,7 @@
     {
       "id": 5312,
       "heroName": "镜",
-      "num": "2",
+      "num": 2,
       "hero": 531,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jing_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jing_haibao_2_blur.jpg",
@@ -7107,7 +7107,7 @@
     {
       "id": 5313,
       "heroName": "镜",
-      "num": "3",
+      "num": 3,
       "hero": 531,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jing_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jing_haibao_3_blur.jpg",
@@ -7123,7 +7123,7 @@
     {
       "id": 5271,
       "heroName": "蒙恬",
-      "num": "1",
+      "num": 1,
       "hero": 527,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengtian_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengtian_haibao_1_blur.jpg",
@@ -7139,7 +7139,7 @@
     {
       "id": 5272,
       "heroName": "蒙恬",
-      "num": "2",
+      "num": 2,
       "hero": 527,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/mengtian_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/mengtian_haibao_2_blur.jpg",
@@ -7155,7 +7155,7 @@
     {
       "id": 5331,
       "heroName": "阿古朵",
-      "num": "1",
+      "num": 1,
       "hero": 533,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/aguduo_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/aguduo_haibao_1_blur.jpg",
@@ -7171,7 +7171,7 @@
     {
       "id": 5332,
       "heroName": "阿古朵",
-      "num": "2",
+      "num": 2,
       "hero": 533,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/aguduo_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/aguduo_haibao_2_blur.jpg",
@@ -7187,7 +7187,7 @@
     {
       "id": 5361,
       "heroName": "夏洛特",
-      "num": "1",
+      "num": 1,
       "hero": 536,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/xialuote_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/xialuote_haibao_1_blur.jpg",
@@ -7203,7 +7203,7 @@
     {
       "id": 5281,
       "heroName": "澜",
-      "num": "1",
+      "num": 1,
       "hero": 528,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lan_haibao_1_blur.jpg",
@@ -7219,7 +7219,7 @@
     {
       "id": 5282,
       "heroName": "澜",
-      "num": "2",
+      "num": 2,
       "hero": 528,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lan_haibao_2_blur.jpg",
@@ -7235,7 +7235,7 @@
     {
       "id": 5371,
       "heroName": "司空震",
-      "num": "1",
+      "num": 1,
       "hero": 537,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sikongzhen_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sikongzhen_haibao_1_blur.jpg",
@@ -7251,7 +7251,7 @@
     {
       "id": 1551,
       "heroName": "艾琳",
-      "num": "1",
+      "num": 1,
       "hero": 155,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ailin_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ailin_haibao_1_blur.jpg",
@@ -7267,7 +7267,7 @@
     {
       "id": 1552,
       "heroName": "艾琳",
-      "num": "2",
+      "num": 2,
       "hero": 155,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/ailin_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/ailin_haibao_2_blur.jpg",
@@ -7283,7 +7283,7 @@
     {
       "id": 5381,
       "heroName": "云缨",
-      "num": "1",
+      "num": 1,
       "hero": 538,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/yunying_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/yunying_haibao_1_blur.jpg",
@@ -7299,7 +7299,7 @@
     {
       "id": 5401,
       "heroName": "金蝉",
-      "num": "1",
+      "num": 1,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jinchan_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jinchan_haibao_1_blur.jpg",
@@ -7315,7 +7315,7 @@
     {
       "id": 5402,
       "heroName": "金蝉",
-      "num": "2",
+      "num": 2,
       "hero": 540,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jinchan_haibao_2.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jinchan_haibao_2_blur.jpg",
@@ -7331,7 +7331,7 @@
     {
       "id": 5421,
       "heroName": "暃",
-      "num": "1",
+      "num": 1,
       "hero": 542,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/fei_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/fei_haibao_1_blur.jpg",
@@ -7347,7 +7347,7 @@
     {
       "id": 5341,
       "heroName": "桑启",
-      "num": "1",
+      "num": 1,
       "hero": 534,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/sangqi_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/sangqi_haibao_1_blur.jpg",
@@ -7363,7 +7363,7 @@
     {
       "id": 5481,
       "heroName": "戈娅",
-      "num": "1",
+      "num": 1,
       "hero": 548,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/geya_haibao_1.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/geya_haibao_1_blur.jpg",
@@ -7379,7 +7379,7 @@
     {
       "id": 5134,
       "hero": 513,
-      "num": "4",
+      "num": 4,
       "price": "888",
       "type": 102,
       "name": "神器·万象笔",
@@ -7395,7 +7395,7 @@
     {
       "id": 1253,
       "hero": 125,
-      "num": "3",
+      "num": 3,
       "price": "60",
       "type": 65,
       "name": "无心",
@@ -7411,7 +7411,7 @@
     {
       "id": 5425,
       "hero": 542,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 5,
       "name": "降魔",
@@ -7427,7 +7427,7 @@
     {
       "id": 1316,
       "hero": 131,
-      "num": "6",
+      "num": 6,
       "price": "1688",
       "type": 103,
       "name": "诗剑行",
@@ -7443,7 +7443,7 @@
     {
       "id": 5342,
       "hero": 534,
-      "num": "2",
+      "num": 2,
       "price": "S30赛季专属",
       "type": 104,
       "name": "海盐诗旅",
@@ -7459,7 +7459,7 @@
     {
       "id": 5154,
       "hero": 515,
-      "num": "4",
+      "num": 4,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "暖冬·冬眠",
@@ -7475,7 +7475,7 @@
     {
       "id": 1984,
       "hero": 198,
-      "num": "4",
+      "num": 4,
       "price": "2022赛年皮肤兑换",
       "type": 105,
       "name": "顽趣",
@@ -7491,7 +7491,7 @@
     {
       "id": 5422,
       "hero": 542,
-      "num": "2",
+      "num": 2,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "星界游侠",
@@ -7507,7 +7507,7 @@
     {
       "id": 1237,
       "hero": 123,
-      "num": "7",
+      "num": 7,
       "price": "1688",
       "type": 51,
       "name": "怒海鳞威",
@@ -7523,7 +7523,7 @@
     {
       "id": 1935,
       "hero": 193,
-      "num": "5",
+      "num": 5,
       "price": "积分夺宝",
       "type": 26,
       "name": "银白咏叹调",
@@ -7539,7 +7539,7 @@
     {
       "id": 5211,
       "hero": 521,
-      "num": "1",
+      "num": 1,
       "price": "60",
       "type": 1,
       "name": "幻泉雾影",
@@ -7555,7 +7555,7 @@
     {
       "id": 1364,
       "hero": 136,
-      "num": "4",
+      "num": 4,
       "price": "限时活动",
       "type": 106,
       "name": "神器·明辉仪",
@@ -7571,7 +7571,7 @@
     {
       "id": 5073,
       "hero": 507,
-      "num": "3",
+      "num": 3,
       "price": "1788",
       "type": 107,
       "name": "山海·炽霜斩",
@@ -7587,7 +7587,7 @@
     {
       "id": 5388,
       "hero": 538,
-      "num": "8",
+      "num": 8,
       "price": "1788",
       "type": 107,
       "name": "山海·琳琅生",
@@ -7603,7 +7603,7 @@
     {
       "id": 5224,
       "hero": 522,
-      "num": "4",
+      "num": 4,
       "price": "1788",
       "type": 107,
       "name": "山海·苍雷引",
@@ -7619,7 +7619,7 @@
     {
       "id": 1326,
       "hero": 132,
-      "num": "6",
+      "num": 6,
       "price": "888",
       "type": 107,
       "name": "山海·玄木吟",
@@ -7635,7 +7635,7 @@
     {
       "id": 5055,
       "hero": 505,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 107,
       "name": "山海·碧波行",
@@ -7651,7 +7651,7 @@
     {
       "id": 5114,
       "hero": 511,
-      "num": "4",
+      "num": 4,
       "price": "钻石夺宝",
       "type": 1,
       "name": "潮玩探月行",
@@ -7667,7 +7667,7 @@
     {
       "id": 5293,
       "hero": 529,
-      "num": "3",
+      "num": 3,
       "price": "限时活动",
       "type": 5,
       "name": "冰霜神祗",
@@ -7683,7 +7683,7 @@
     {
       "id": 1679,
       "hero": 167,
-      "num": "9",
+      "num": 9,
       "price": "1788",
       "type": 5,
       "name": "齐天大圣",
@@ -7699,7 +7699,7 @@
     {
       "id": 1418,
       "hero": 141,
-      "num": "8",
+      "num": 8,
       "price": "积分夺宝",
       "type": 26,
       "name": "幻阙歌",
@@ -7715,7 +7715,7 @@
     {
       "id": 5085,
       "hero": 508,
-      "num": "5",
+      "num": 5,
       "price": "1788",
       "type": 5,
       "name": "炽翼辉光",
@@ -7731,7 +7731,7 @@
     {
       "id": 1746,
       "hero": 174,
-      "num": "6",
+      "num": 6,
       "price": "1788",
       "type": 108,
       "name": "无限倾心",
@@ -7747,7 +7747,7 @@
     {
       "id": 1357,
       "hero": 135,
-      "num": "7",
+      "num": 7,
       "price": "1788",
       "type": 108,
       "name": "无限倾心",
@@ -7763,7 +7763,7 @@
     {
       "id": 1205,
       "hero": 120,
-      "num": "5",
+      "num": 5,
       "price": "60",
       "type": 1,
       "name": "乐园追逐者",
@@ -7779,7 +7779,7 @@
     {
       "id": 1549,
       "hero": 154,
-      "num": "9",
+      "num": 9,
       "price": "1788",
       "type": 5,
       "name": "燃星之曲",
@@ -7795,7 +7795,7 @@
     {
       "id": 1826,
       "hero": 182,
-      "num": "6",
+      "num": 6,
       "price": "1788",
       "type": 5,
       "name": "画中仙",
@@ -7811,7 +7811,7 @@
     {
       "id": 5314,
       "hero": 531,
-      "num": "4",
+      "num": 4,
       "price": "888",
       "type": 12,
       "name": "玫瑰异探",
@@ -7827,7 +7827,7 @@
     {
       "id": 5362,
       "hero": 536,
-      "num": "2",
+      "num": 2,
       "price": "1788",
       "type": 5,
       "name": "浮生妄",
@@ -7843,7 +7843,7 @@
     {
       "id": 5441,
       "hero": 544,
-      "num": "1",
+      "num": 1,
       "price": "60",
       "type": 1,
       "name": "太极少年",
@@ -7859,7 +7859,7 @@
     {
       "id": 1764,
       "hero": 176,
-      "num": "4",
+      "num": 4,
       "price": "888",
       "type": 12,
       "name": "银翎春语",
@@ -7875,7 +7875,7 @@
     {
       "id": 5026,
       "hero": 502,
-      "num": "6",
+      "num": 6,
       "price": "S31赛季专属",
       "type": 109,
       "name": "擒涛扼浪",
@@ -7891,7 +7891,7 @@
     {
       "id": 1785,
       "hero": 178,
-      "num": "5",
+      "num": 5,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "潮玩骑兵",
@@ -7907,7 +7907,7 @@
     {
       "id": 1194,
       "hero": 119,
-      "num": "4",
+      "num": 4,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "奇幻香踪",
@@ -7923,7 +7923,7 @@
     {
       "id": 1996,
       "hero": 199,
-      "num": "6",
+      "num": 6,
       "price": "1688",
       "type": 15,
       "name": "记忆之芯",
@@ -7939,7 +7939,7 @@
     {
       "id": 1864,
       "hero": 186,
-      "num": "4",
+      "num": 4,
       "price": "限时活动",
       "type": 50,
       "name": "劲辣红锅",
@@ -7955,7 +7955,7 @@
     {
       "id": 1706,
       "hero": 170,
-      "num": "6",
+      "num": 6,
       "price": "888",
       "type": 110,
       "name": "百相守梦",
@@ -7971,7 +7971,7 @@
     {
       "id": 1405,
       "hero": 140,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 110,
       "name": "百相守梦",
@@ -7987,7 +7987,7 @@
     {
       "id": 1714,
       "hero": 171,
-      "num": "4",
+      "num": 4,
       "price": "1788",
       "type": 110,
       "name": "百相守梦",
@@ -8003,7 +8003,7 @@
     {
       "id": 5349,
       "hero": 534,
-      "num": "9",
+      "num": 9,
       "price": "1430",
       "type": 111,
       "name": "青丘·九尾",
@@ -8019,7 +8019,7 @@
     {
       "id": 5451,
       "hero": 545,
-      "num": "1",
+      "num": 1,
       "price": "60",
       "type": 1,
       "name": "西部游侠",
@@ -8035,7 +8035,7 @@
     {
       "id": 3126,
       "hero": 312,
-      "num": "6",
+      "num": 6,
       "price": "888",
       "type": 19,
       "name": "匿光破解者",
@@ -8051,7 +8051,7 @@
     {
       "id": 1665,
       "hero": 166,
-      "num": "5",
+      "num": 5,
       "price": "1788",
       "type": 112,
       "name": "追逃游戏",
@@ -8067,7 +8067,7 @@
     {
       "id": 1426,
       "hero": 142,
-      "num": "6",
+      "num": 6,
       "price": "1788",
       "type": 113,
       "name": "追逃游戏",
@@ -8083,7 +8083,7 @@
     {
       "id": 5646,
       "hero": 564,
-      "num": "6",
+      "num": 6,
       "price": "888",
       "type": 12,
       "name": "电玩·爆裂旋风",
@@ -8099,7 +8099,7 @@
     {
       "id": 1846,
       "hero": 184,
-      "num": "6",
+      "num": 6,
       "price": "888",
       "type": 12,
       "name": "电玩·兔顽号",
@@ -8115,7 +8115,7 @@
     {
       "id": 5283,
       "hero": 528,
-      "num": "3",
+      "num": 3,
       "price": "1688",
       "type": 15,
       "name": "电玩·雷克斯",
@@ -8131,7 +8131,7 @@
     {
       "id": 1907,
       "hero": 190,
-      "num": "7",
+      "num": 7,
       "price": "1788",
       "type": 5,
       "name": "鹤羽星尊",
@@ -8147,7 +8147,7 @@
     {
       "id": 5254,
       "hero": 525,
-      "num": "4",
+      "num": 4,
       "price": "S32赛季专属",
       "type": 114,
       "name": "探海日志",
@@ -8163,7 +8163,7 @@
     {
       "id": 5234,
       "hero": 523,
-      "num": "4",
+      "num": 4,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "玲珑珍味",
@@ -8179,7 +8179,7 @@
     {
       "id": 5482,
       "hero": 548,
-      "num": "2",
+      "num": 2,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "驭风魔法",
@@ -8195,7 +8195,7 @@
     {
       "id": 1507,
       "hero": 150,
-      "num": "7",
+      "num": 7,
       "price": "积分夺宝",
       "type": 26,
       "name": "弑枪猎影",
@@ -8211,7 +8211,7 @@
     {
       "id": 5641,
       "hero": 564,
-      "num": "1",
+      "num": 1,
       "price": "60",
       "type": 1,
       "name": "零食大作战",
@@ -8227,7 +8227,7 @@
     {
       "id": 5045,
       "hero": 504,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 12,
       "name": "完美假期",
@@ -8243,7 +8243,7 @@
     {
       "id": 1873,
       "hero": 187,
-      "num": "3",
+      "num": 3,
       "price": "1688",
       "type": 51,
       "name": "灼幽烈阳",
@@ -8259,7 +8259,7 @@
     {
       "id": 1737,
       "hero": 173,
-      "num": "7",
+      "num": 7,
       "price": "888",
       "type": 50,
       "name": "妄想特派",
@@ -8275,7 +8275,7 @@
     {
       "id": 1327,
       "hero": 132,
-      "num": "7",
+      "num": 7,
       "price": "1788",
       "type": 5,
       "name": "妄想实况",
@@ -8291,7 +8291,7 @@
     {
       "id": 5212,
       "hero": 521,
-      "num": "2",
+      "num": 2,
       "price": "888",
       "type": 12,
       "name": "浮梦罗烟",
@@ -8307,7 +8307,7 @@
     {
       "id": 5135,
       "hero": 513,
-      "num": "5",
+      "num": 5,
       "price": "1788",
       "type": 5,
       "name": "妄想奇谈",
@@ -8323,7 +8323,7 @@
     {
       "id": 1805,
       "hero": 180,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 50,
       "name": "热血海滩",
@@ -8339,7 +8339,7 @@
     {
       "id": 5315,
       "hero": 531,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 12,
       "name": "真我赫兹",
@@ -8355,7 +8355,7 @@
     {
       "id": 1965,
       "hero": 196,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 12,
       "name": "真我赫兹",
@@ -8371,7 +8371,7 @@
     {
       "id": 5056,
       "hero": 505,
-      "num": "6",
+      "num": 6,
       "price": "600~700",
       "type": 115,
       "name": "真我赫兹",
@@ -8387,7 +8387,7 @@
     {
       "id": 5442,
       "hero": 544,
-      "num": "2",
+      "num": 2,
       "price": "888",
       "type": 116,
       "name": "鹤归松栖",
@@ -8403,7 +8403,7 @@
     {
       "id": 5382,
       "hero": 538,
-      "num": "2",
+      "num": 2,
       "price": "1788",
       "type": 117,
       "name": "鹤归松栖",
@@ -8419,7 +8419,7 @@
     {
       "id": 5452,
       "hero": 545,
-      "num": "2",
+      "num": 2,
       "price": "888",
       "type": 12,
       "name": "末日机甲",
@@ -8435,7 +8435,7 @@
     {
       "id": 1738,
       "hero": 173,
-      "num": "8",
+      "num": 8,
       "price": "888",
       "type": 19,
       "name": "匿光侦查者",
@@ -8451,7 +8451,7 @@
     {
       "id": 1567,
       "hero": 156,
-      "num": "7",
+      "num": 7,
       "price": "S33赛季专属",
       "type": 118,
       "name": "古海寻踪",
@@ -8467,7 +8467,7 @@
     {
       "id": 1553,
       "hero": 155,
-      "num": "3",
+      "num": 3,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "流音漫步",
@@ -8483,7 +8483,7 @@
     {
       "id": 5372,
       "hero": 537,
-      "num": "2",
+      "num": 2,
       "price": "荣耀战令获取",
       "type": 40,
       "name": "地狱燃心",
@@ -8499,7 +8499,7 @@
     {
       "id": 1306,
       "hero": 130,
-      "num": "6",
+      "num": 6,
       "price": "1688",
       "type": 15,
       "name": "惊梅引",
@@ -8515,7 +8515,7 @@
     {
       "id": 1175,
       "hero": 117,
-      "num": "5",
+      "num": 5,
       "price": "限时活动",
       "type": 1,
       "name": "聚星闪耀",
@@ -8531,7 +8531,7 @@
     {
       "id": 5213,
       "hero": 521,
-      "num": "3",
+      "num": 3,
       "price": "60",
       "type": 1,
       "name": "王牌新星",
@@ -8547,7 +8547,7 @@
     {
       "id": 1238,
       "hero": 123,
-      "num": "8",
+      "num": 8,
       "price": "1788",
       "type": 87,
       "name": "遇见神鼓",
@@ -8563,7 +8563,7 @@
     {
       "id": 5141,
       "hero": 514,
-      "num": "1",
+      "num": 1,
       "price": "60",
       "type": 1,
       "name": "破局者",
@@ -8579,7 +8579,7 @@
     {
       "id": 1536,
       "hero": 153,
-      "num": "6",
+      "num": 6,
       "price": "1788",
       "type": 5,
       "name": "影龙天霄",
@@ -8595,7 +8595,7 @@
     {
       "id": 5449,
       "heroName": "鲁班七号",
-      "num": "9",
+      "num": 9,
       "hero": 544,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_9.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/lubanqihao_haibao_9_blur.jpg",
@@ -8611,7 +8611,7 @@
     {
       "id": 1917,
       "heroName": "大乔",
-      "num": "7",
+      "num": 7,
       "hero": 191,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/daqiao_haibao_7_blur.jpg",
@@ -8627,7 +8627,7 @@
     {
       "id": 5333,
       "heroName": "阿古朵",
-      "num": "3",
+      "num": 3,
       "hero": 533,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/aguduo_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/aguduo_haibao_3_blur.jpg",
@@ -8643,7 +8643,7 @@
     {
       "id": 5235,
       "hero": 523,
-      "num": "5",
+      "num": 5,
       "price": "888",
       "type": 5,
       "name": "至美·乘鲤谣",
@@ -8659,7 +8659,7 @@
     {
       "id": 1277,
       "heroName": "甄姬",
-      "num": "7",
+      "num": 7,
       "hero": 127,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_7.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/zhenji_haibao_7_blur.jpg",
@@ -8675,7 +8675,7 @@
     {
       "id": 1483,
       "heroName": "姜子牙",
-      "num": "3",
+      "num": 3,
       "hero": 148,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/jiangziya_haibao_3.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/jiangziya_haibao_3_blur.jpg",
@@ -8691,7 +8691,7 @@
     {
       "id": 1286,
       "heroName": "曹操",
-      "num": "6",
+      "num": 6,
       "hero": 128,
       "poster": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_6.jpg",
       "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/caocao_haibao_6_blur.jpg",

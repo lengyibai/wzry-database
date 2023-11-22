@@ -3,7 +3,7 @@
     {
       "id": 111,
       "type": "攻击",
-      "level": "1",
+      "level": 1,
       "name": "铁剑",
       "price": "250",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_1.jpg",
@@ -18,7 +18,7 @@
     {
       "id": 112,
       "type": "攻击",
-      "level": "1",
+      "level": 1,
       "name": "匕首",
       "price": "290",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_2.jpg",
@@ -33,7 +33,7 @@
     {
       "id": 113,
       "type": "攻击",
-      "level": "1",
+      "level": 1,
       "name": "搏击拳套",
       "price": "320",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_3.jpg",
@@ -48,7 +48,7 @@
     {
       "id": 114,
       "type": "攻击",
-      "level": "1",
+      "level": 1,
       "name": "吸血之镰",
       "price": "290",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_4.jpg",
@@ -63,7 +63,7 @@
     {
       "id": 115,
       "type": "攻击",
-      "level": "1",
+      "level": 1,
       "name": "迅捷长矛",
       "price": "300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_5.jpg",
@@ -82,7 +82,7 @@
     {
       "id": 116,
       "type": "攻击",
-      "level": "1",
+      "level": 1,
       "name": "雷鸣刃",
       "price": "450",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_6.jpg",
@@ -97,7 +97,7 @@
     {
       "id": 117,
       "type": "攻击",
-      "level": "1",
+      "level": 1,
       "name": "冲能拳套",
       "price": "550",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_7.jpg",
@@ -112,7 +112,7 @@
     {
       "id": 121,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "风暴巨剑",
       "price": "910",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_1.jpg",
@@ -127,7 +127,7 @@
     {
       "id": 122,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "日冕",
       "price": "740",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_2.jpg",
@@ -158,7 +158,7 @@
     {
       "id": 123,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "狂暴双刃",
       "price": "890",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_3.jpg",
@@ -181,7 +181,7 @@
     {
       "id": 124,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "陨星",
       "price": "1080",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_4.jpg",
@@ -207,7 +207,7 @@
     {
       "id": 125,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "速击之枪",
       "price": "880",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_5.jpg",
@@ -229,7 +229,7 @@
     {
       "id": 126,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "血魂刃",
       "price": "830",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_6.jpg",
@@ -256,7 +256,7 @@
     {
       "id": 127,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "穿云弓",
       "desc": "远程打坦克用",
       "price": "1100",
@@ -283,7 +283,7 @@
     {
       "id": 128,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "名刀·司命",
       "desc": "保命",
       "price": "1900",
@@ -311,7 +311,7 @@
     {
       "id": 129,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "碎星锤",
       "desc": "打坦克用",
       "price": "2100",
@@ -331,7 +331,7 @@
     {
       "id": 1210,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "破魔刀",
       "desc": "增加法术防御",
       "price": "2090",
@@ -362,7 +362,7 @@
     {
       "id": 1211,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "寒霜袭侵",
       "price": "2050",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_11.jpg",
@@ -393,7 +393,7 @@
     {
       "id": 1212,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "制裁之刃",
       "price": "1860",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_12.jpg",
@@ -429,7 +429,7 @@
     {
       "id": 1213,
       "type": "攻击",
-      "level": "2",
+      "level": 2,
       "name": "纯净苍穹",
       "desc": "暂时增加免伤",
       "price": "2120",
@@ -467,7 +467,7 @@
     {
       "id": 131,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "末世",
       "desc": "普攻额外伤害",
       "price": "2160",
@@ -498,7 +498,7 @@
     {
       "id": 132,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "泣血之刃",
       "desc": "物理吸血",
       "price": "1800",
@@ -530,7 +530,7 @@
     {
       "id": 133,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "无尽战刃",
       "desc": "高额暴击伤害",
       "price": "2140",
@@ -557,7 +557,7 @@
     {
       "id": 134,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "宗师之力",
       "desc": "强化普攻",
       "price": "2100",
@@ -593,7 +593,7 @@
     {
       "id": 135,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "闪电匕首",
       "desc": "普攻附带闪电",
       "price": "1840",
@@ -620,7 +620,7 @@
     {
       "id": 136,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "影刃",
       "desc": "暴击增加移速",
       "price": "1950",
@@ -651,7 +651,7 @@
     {
       "id": 137,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "暗影战斧",
       "desc": "打脆皮用",
       "price": "2090",
@@ -688,7 +688,7 @@
     {
       "id": 138,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "破军",
       "desc": "高额攻击",
       "price": "2950",
@@ -711,7 +711,7 @@
     {
       "id": 139,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "逐日之弓",
       "desc": "攻击距离变远",
       "price": "2050",
@@ -748,7 +748,7 @@
     {
       "id": 1310,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "破晓",
       "desc": "射手神装",
       "price": "3400",
@@ -784,7 +784,7 @@
     {
       "id": 1311,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "日渊",
       "desc": "攻击距离变远",
       "price": "3300",
@@ -821,7 +821,7 @@
     {
       "id": 1312,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "天穹",
       "desc": "暂时增加免伤",
       "price": "3370",
@@ -860,7 +860,7 @@
     {
       "id": 1313,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "铸梦·逐风",
       "desc": "爆发攻速",
       "price": "2140",
@@ -893,7 +893,7 @@
     {
       "id": 1314,
       "type": "攻击",
-      "level": "3",
+      "level": 3,
       "name": "铸梦·破空",
       "desc": "普攻击退目标",
       "price": "2130",
@@ -930,7 +930,7 @@
     {
       "id": 211,
       "type": "法术",
-      "level": "1",
+      "level": 1,
       "name": "咒术典籍",
       "price": "300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_1.jpg",
@@ -945,7 +945,7 @@
     {
       "id": 212,
       "type": "法术",
-      "level": "1",
+      "level": 1,
       "name": "蓝宝石",
       "price": "220",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_2.jpg",
@@ -960,7 +960,7 @@
     {
       "id": 213,
       "type": "法术",
-      "level": "1",
+      "level": 1,
       "name": "炼金护符",
       "price": "120",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_3.jpg",
@@ -975,7 +975,7 @@
     {
       "id": 214,
       "type": "法术",
-      "level": "1",
+      "level": 1,
       "name": "圣者法典",
       "price": "400",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_4.jpg",
@@ -994,7 +994,7 @@
     {
       "id": 215,
       "type": "法术",
-      "level": "1",
+      "level": 1,
       "name": "元素杖",
       "price": "540",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_5.jpg",
@@ -1009,7 +1009,7 @@
     {
       "id": 221,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "大棒",
       "price": "820",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_1.jpg",
@@ -1024,7 +1024,7 @@
     {
       "id": 222,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "血族之书",
       "price": "1240",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_2.jpg",
@@ -1050,7 +1050,7 @@
     {
       "id": 223,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "光辉之剑",
       "price": "730",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_3.jpg",
@@ -1077,7 +1077,7 @@
     {
       "id": 224,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "魔道之石",
       "price": "890",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_4.jpg",
@@ -1100,7 +1100,7 @@
     {
       "id": 225,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "进化水晶",
       "price": "720",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_5.jpg",
@@ -1126,7 +1126,7 @@
     {
       "id": 226,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "破碎圣杯",
       "price": "900",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_6.jpg",
@@ -1149,7 +1149,7 @@
     {
       "id": 227,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "云灵木",
       "price": "970",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_7.jpg",
@@ -1175,7 +1175,7 @@
     {
       "id": 228,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "辉月",
       "desc": "暂时无敌",
       "price": "1990",
@@ -1203,7 +1203,7 @@
     {
       "id": 229,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "炽热支配者",
       "desc": "残血增加护盾",
       "price": "1950",
@@ -1227,7 +1227,7 @@
     {
       "id": 2210,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "日暮之流",
       "desc": "提升法术穿透",
       "price": "2120",
@@ -1259,7 +1259,7 @@
     {
       "id": 2211,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "金色圣剑",
       "desc": "持续强化普攻",
       "price": "2070",
@@ -1297,7 +1297,7 @@
     {
       "id": 2212,
       "type": "法术",
-      "level": "2",
+      "level": 2,
       "name": "梦魇之牙",
       "desc": "减少敌人回血",
       "price": "2050",
@@ -1328,7 +1328,7 @@
     {
       "id": 231,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "圣杯",
       "desc": "快速回蓝回血",
       "price": "1800",
@@ -1359,7 +1359,7 @@
     {
       "id": 232,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "虚无法杖",
       "desc": "打坦克用",
       "price": "2110",
@@ -1386,7 +1386,7 @@
     {
       "id": 233,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "博学者之怒",
       "desc": "大幅提升法强",
       "price": "2300",
@@ -1409,7 +1409,7 @@
     {
       "id": 234,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "回响之杖",
       "desc": "技能命中爆炸",
       "price": "2100",
@@ -1437,7 +1437,7 @@
     {
       "id": 235,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "痛苦面具",
       "desc": "技能额外伤害",
       "price": "2040",
@@ -1469,7 +1469,7 @@
     {
       "id": 236,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "巫术法杖",
       "desc": "强化普攻",
       "price": "2120",
@@ -1505,7 +1505,7 @@
     {
       "id": 237,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "时之预言",
       "desc": "攻防兼备",
       "price": "2090",
@@ -1541,7 +1541,7 @@
     {
       "id": 238,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "破茧之衣",
       "desc": "降低近距离伤害",
       "price": "2160",
@@ -1568,7 +1568,7 @@
     {
       "id": 239,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "贤者之书",
       "desc": "法师神装",
       "price": "2990",
@@ -1595,7 +1595,7 @@
     {
       "id": 2310,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "噬神之书",
       "desc": "法术吸血",
       "price": "2090",
@@ -1626,7 +1626,7 @@
     {
       "id": 2311,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "凝冰之息",
       "desc": "技能命中减速",
       "price": "2100",
@@ -1663,7 +1663,7 @@
     {
       "id": 2312,
       "type": "法术",
-      "level": "3",
+      "level": 3,
       "name": "月神",
       "desc": "暂时无敌",
       "price": "3240",
@@ -1692,7 +1692,7 @@
     {
       "id": 311,
       "type": "防御",
-      "level": "1",
+      "level": 1,
       "name": "红玛瑙",
       "price": "300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_1.jpg",
@@ -1707,7 +1707,7 @@
     {
       "id": 312,
       "type": "防御",
-      "level": "1",
+      "level": 1,
       "name": "布甲",
       "price": "220",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_2.jpg",
@@ -1722,7 +1722,7 @@
     {
       "id": 313,
       "type": "防御",
-      "level": "1",
+      "level": 1,
       "name": "抗魔披风",
       "price": "220",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_3.jpg",
@@ -1737,7 +1737,7 @@
     {
       "id": 314,
       "type": "防御",
-      "level": "1",
+      "level": 1,
       "name": "提神水晶",
       "price": "140",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_4.jpg",
@@ -1752,7 +1752,7 @@
     {
       "id": 321,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "力量腰带",
       "price": "900",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_1.jpg",
@@ -1767,7 +1767,7 @@
     {
       "id": 322,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "熔炼之心",
       "price": "800",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_2.jpg",
@@ -1789,7 +1789,7 @@
     {
       "id": 323,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "神隐斗篷",
       "price": "1020",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_3.jpg",
@@ -1812,7 +1812,7 @@
     {
       "id": 324,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "雪山圆盾",
       "price": "900",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_4.jpg",
@@ -1835,7 +1835,7 @@
     {
       "id": 325,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "守护者之铠",
       "desc": "受击减速敌人",
       "price": "730",
@@ -1858,7 +1858,7 @@
     {
       "id": 326,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "荆棘护手",
       "desc": "攻防兼备",
       "price": "710",
@@ -1878,7 +1878,7 @@
     {
       "id": 327,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "暗夜小甲",
       "desc": "对抗爆发伤害",
       "price": "710",
@@ -1902,7 +1902,7 @@
     {
       "id": 328,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "反伤刺甲",
       "desc": "反弹物理伤害",
       "price": "1950",
@@ -1935,7 +1935,7 @@
     {
       "id": 329,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "血魔之怒",
       "desc": "暂时获得攻击和护盾",
       "price": "2100",
@@ -1969,7 +1969,7 @@
     {
       "id": 3210,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "冰霜冲击",
       "desc": "群体控制",
       "price": "2100",
@@ -2004,7 +2004,7 @@
     {
       "id": 3211,
       "type": "防御",
-      "level": "2",
+      "level": 2,
       "name": "原初遗珠",
       "desc": "装备进化",
       "price": "1250",
@@ -2033,7 +2033,7 @@
     {
       "id": 331,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "红莲斗篷",
       "desc": "灼烧周围敌人",
       "price": "1800",
@@ -2061,7 +2061,7 @@
     {
       "id": 332,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "霸者重装",
       "desc": "脱战快速回血",
       "price": "2070",
@@ -2088,7 +2088,7 @@
     {
       "id": 333,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "不祥征兆",
       "desc": "受击减速敌人",
       "price": "2180",
@@ -2115,7 +2115,7 @@
     {
       "id": 334,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "不死鸟之眼",
       "desc": "增加回血效果",
       "price": "2100",
@@ -2146,7 +2146,7 @@
     {
       "id": 335,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "魔女斗篷",
       "desc": "吸收法术伤害",
       "price": "2080",
@@ -2182,7 +2182,7 @@
     {
       "id": 336,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "极寒风暴",
       "desc": "群体伤害减速",
       "price": "2100",
@@ -2214,7 +2214,7 @@
     {
       "id": 337,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "贤者的庇护",
       "desc": "原地复活",
       "price": "2100",
@@ -2243,7 +2243,7 @@
     {
       "id": 338,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "暴烈之甲",
       "desc": "能扛能打",
       "price": "1950",
@@ -2278,7 +2278,7 @@
     {
       "id": 339,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "永夜守护",
       "desc": "对抗爆发伤害",
       "price": "2110",
@@ -2307,7 +2307,7 @@
     {
       "id": 3310,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "冰痕之握",
       "desc": "强化普攻减速",
       "price": "2100",
@@ -2347,7 +2347,7 @@
     {
       "id": 3311,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "怒魂",
       "desc": "暂时获得攻击和护盾",
       "price": "3350",
@@ -2380,7 +2380,7 @@
     {
       "id": 3312,
       "type": "防御",
-      "level": "3",
+      "level": 3,
       "name": "凛冬",
       "desc": "群体控制",
       "price": "3350",
@@ -2415,7 +2415,7 @@
     {
       "id": 411,
       "type": "移动",
-      "level": "1",
+      "level": 1,
       "name": "神速之靴",
       "price": "250",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_1_1.jpg",
@@ -2431,7 +2431,7 @@
     {
       "id": 421,
       "type": "移动",
-      "level": "2",
+      "level": 2,
       "name": "影忍之足",
       "price": "710",
       "desc": "减少普攻伤害",
@@ -2459,7 +2459,7 @@
     {
       "id": 422,
       "type": "移动",
-      "level": "2",
+      "level": 2,
       "name": "抵抗之靴",
       "price": "710",
       "desc": "减少被控时长",
@@ -2487,7 +2487,7 @@
     {
       "id": 423,
       "type": "移动",
-      "level": "2",
+      "level": 2,
       "name": "冷静之靴",
       "price": "710",
       "desc": "加快技能冷却",
@@ -2515,7 +2515,7 @@
     {
       "id": 424,
       "type": "移动",
-      "level": "2",
+      "level": 2,
       "name": "秘法之靴",
       "price": "710",
       "desc": "法术穿透",
@@ -2543,7 +2543,7 @@
     {
       "id": 425,
       "type": "移动",
-      "level": "2",
+      "level": 2,
       "name": "急速战靴",
       "price": "710",
       "desc": "增加攻速",
@@ -2566,7 +2566,7 @@
     {
       "id": 426,
       "type": "移动",
-      "level": "2",
+      "level": 2,
       "name": "疾步之靴",
       "price": "710",
       "desc": "脱战后加移速",
@@ -2588,7 +2588,7 @@
     {
       "id": 511,
       "type": "打野",
-      "level": "1",
+      "level": 1,
       "name": "狩猎宽刃",
       "price": "250",
       "desc": "加快打野速度",
@@ -2611,7 +2611,7 @@
     {
       "id": 512,
       "type": "打野",
-      "level": "1",
+      "level": 1,
       "name": "弃鳞短刃",
       "price": "250",
       "desc": "加快打野速度",
@@ -2634,7 +2634,7 @@
     {
       "id": 521,
       "type": "打野",
-      "level": "2",
+      "level": 2,
       "name": "游击弯刀",
       "price": "750",
       "desc": "打野怪加法强",
@@ -2668,7 +2668,7 @@
     {
       "id": 522,
       "type": "打野",
-      "level": "2",
+      "level": 2,
       "name": "追击刀锋",
       "price": "750",
       "desc": "打野怪加攻击",
@@ -2696,7 +2696,7 @@
     {
       "id": 523,
       "type": "打野",
-      "level": "2",
+      "level": 2,
       "name": "巡守利斧",
       "price": "750",
       "desc": "打野怪加生命",
@@ -2730,7 +2730,7 @@
     {
       "id": 524,
       "type": "打野",
-      "level": "2",
+      "level": 2,
       "name": "龙鳞利剑",
       "price": "750",
       "desc": "真实伤害灼烧",
@@ -2765,7 +2765,7 @@
     {
       "id": 531,
       "type": "打野",
-      "level": "3",
+      "level": 3,
       "name": "符文大剑",
       "price": "2160",
       "desc": "打野怪加法强",
@@ -2807,7 +2807,7 @@
     {
       "id": 532,
       "type": "打野",
-      "level": "3",
+      "level": 3,
       "name": "贪婪之噬",
       "price": "2160",
       "desc": "打野怪加攻击",
@@ -2844,7 +2844,7 @@
     {
       "id": 533,
       "type": "打野",
-      "level": "3",
+      "level": 3,
       "name": "巨人之握",
       "price": "2160",
       "desc": "打野怪加生命",
@@ -2878,7 +2878,7 @@
     {
       "id": 534,
       "type": "打野",
-      "level": "3",
+      "level": 3,
       "name": "浴火之怒",
       "price": "2160",
       "desc": "真实伤害灼烧",
@@ -2912,7 +2912,7 @@
     {
       "id": 611,
       "type": "游走",
-      "level": "1",
+      "level": 1,
       "name": "学识宝石",
       "price": "300",
       "desc": "额外金币经验",
@@ -2942,7 +2942,7 @@
     {
       "id": 621,
       "type": "游走",
-      "level": "2",
+      "level": 2,
       "name": "凤鸣指环",
       "price": "900",
       "desc": "光环加输出",
@@ -2987,7 +2987,7 @@
     {
       "id": 622,
       "type": "游走",
-      "level": "2",
+      "level": 2,
       "name": "鼓舞之盾",
       "price": "900",
       "desc": "光环加生存",
@@ -3032,7 +3032,7 @@
     {
       "id": 623,
       "type": "游走",
-      "level": "2",
+      "level": 2,
       "name": "风之轻语",
       "price": "1100",
       "desc": "群体护盾",
@@ -3078,7 +3078,7 @@
     {
       "id": 624,
       "type": "游走",
-      "level": "2",
+      "level": 2,
       "name": "风灵纹章",
       "price": "1100",
       "desc": "群体加速",
@@ -3124,7 +3124,7 @@
     {
       "id": 625,
       "type": "游走",
-      "level": "2",
+      "level": 2,
       "name": "出影晶石",
       "price": "1100",
       "desc": "范围伤害和视野",
@@ -3169,7 +3169,7 @@
     {
       "id": 626,
       "type": "游走",
-      "level": "2",
+      "level": 2,
       "name": "星之佩饰",
       "price": "1100",
       "desc": "与队友分摊伤害",
@@ -3215,7 +3215,7 @@
     {
       "id": 631,
       "type": "游走",
-      "level": "3",
+      "level": 3,
       "name": "极影",
       "price": "1900",
       "desc": "光环加出",
@@ -3260,7 +3260,7 @@
     {
       "id": 632,
       "type": "游走",
-      "level": "3",
+      "level": 3,
       "name": "近卫荣耀",
       "price": "1900",
       "desc": "光环加生存",
@@ -3305,7 +3305,7 @@
     {
       "id": 633,
       "type": "游走",
-      "level": "3",
+      "level": 3,
       "name": "救赎之翼",
       "price": "1900",
       "desc": "群体护盾",
@@ -3350,7 +3350,7 @@
     {
       "id": 634,
       "type": "游走",
-      "level": "3",
+      "level": 3,
       "name": "奔狼纹章",
       "price": "1900",
       "desc": "群体加速",
@@ -3396,7 +3396,7 @@
     {
       "id": 635,
       "type": "游走",
-      "level": "3",
+      "level": 3,
       "name": "形昭之鉴",
       "price": "1900",
       "desc": "范围伤害和视野",
@@ -3443,7 +3443,7 @@
     {
       "id": 636,
       "type": "游走",
-      "level": "3",
+      "level": 3,
       "name": "星泉",
       "price": "1900",
       "desc": "与队友分摊伤害",
