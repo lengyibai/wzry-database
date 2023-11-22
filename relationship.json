@@ -1,2377 +1,3517 @@
 {
   "data": [
     {
-      "id": 1,
-      "name": "赵云",
-      "relationship": [
-        {
-          "relation": "军师",
-          "id": 62
-        },
-        {
-          "relation": "主公",
-          "id": 43
-        },
-        {
-          "relation": "旧识",
-          "id": 38
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "妲己",
-      "relationship": [
-        {
-          "relation": "师父",
-          "id": 12
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "高渐离",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 9
-        },
-        {
-          "relation": "敌人",
-          "id": 8
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "白起",
-      "relationship": [
-        {
-          "relation": "君主",
-          "id": 8
-        },
-        {
-          "relation": "太后",
-          "id": 37
-        },
-        {
-          "relation": "医师",
-          "id": 27
-        },
-        {
-          "relation": "战友",
-          "id": 100
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "武则天",
-      "relationship": [
-        {
-          "relation": "臣子",
-          "id": 16
-        },
-        {
-          "relation": "臣子",
-          "id": 104
-        },
-        {
-          "relation": "侍女",
-          "id": 88
-        },
-        {
-          "relation": "谋士",
-          "id": 74
-        },
-        {
-          "relation": "臣子",
-          "id": 30
-        },
-        {
-          "relation": "师父",
-          "id": 12
-        },
-        {
-          "relation": "良才",
-          "id": 46
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "露娜",
-      "relationship": [
-        {
-          "relation": "哥哥",
-          "id": 68
-        },
-        {
-          "relation": "一猫之交",
-          "id": 113
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "廉颇",
-      "relationship": [
-        {
-          "relation": "校友",
-          "id": 15
-        },
-        {
-          "relation": "武道老师",
-          "id": 11
-        },
-        {
-          "relation": "对手",
-          "id": 4
-        },
-        {
-          "relation": "校友",
-          "id": 97
-        },
-        {
-          "relation": "校友",
-          "id": 94
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "嬴政",
-      "relationship": [
-        {
-          "relation": "臣子",
-          "id": 4
-        },
-        {
-          "relation": "祖母",
-          "id": 37
-        },
-        {
-          "relation": "魔道老师",
-          "id": 19
-        },
-        {
-          "relation": "下属",
-          "id": 100
-        },
-        {
-          "relation": "下属",
-          "id": 99
-        },
-        {
-          "relation": "敌人",
-          "id": 9
-        },
-        {
-          "relation": "敌人",
-          "id": 3
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "阿轲",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 3
-        },
-        {
-          "relation": "敌人",
-          "id": 8
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "甄姬",
-      "relationship": [
-        {
-          "relation": "主公",
-          "id": 33
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "name": "老夫子",
-      "relationship": [
-        {
-          "relation": "反目的朋友",
-          "id": 12
-        },
-        {
-          "relation": "同事",
-          "id": 19
-        },
-        {
-          "relation": "同事",
-          "id": 18
-        },
-        {
-          "relation": "学子",
-          "id": 62
-        },
-        {
-          "relation": "学子",
-          "id": 15
-        },
-        {
-          "relation": "学子",
-          "id": 7
-        },
-        {
-          "relation": "学子",
-          "id": 94
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "姜子牙",
-      "relationship": [
-        {
-          "relation": "统治神",
-          "id": 73
-        },
-        {
-          "relation": "背叛的部下",
-          "id": 59
-        },
-        {
-          "relation": "决裂的挚友",
-          "id": 11
-        },
-        {
-          "relation": "背叛的徒弟",
-          "id": 5
-        },
-        {
-          "relation": "徒弟",
-          "id": 17
-        },
-        {
-          "relation": "徒弟",
-          "id": 51
-        },
-        {
-          "relation": "人偶",
-          "id": 2
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "name": "小乔",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 34
-        },
-        {
-          "relation": "姐姐",
-          "id": 64
-        },
-        {
-          "relation": "闺蜜",
-          "id": 25
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "name": "鲁班七号",
-      "relationship": [
-        {
-          "relation": "父亲",
-          "id": 97
-        },
-        {
-          "relation": "父亲的朋友",
-          "id": 18
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "name": "钟无艳",
-      "relationship": [
-        {
-          "relation": "武道老师",
-          "id": 11
-        },
-        {
-          "relation": "校友",
-          "id": 7
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "狄仁杰",
-      "relationship": [
-        {
-          "relation": "助手",
-          "id": 48
-        },
-        {
-          "relation": "君主",
-          "id": 5
-        },
-        {
-          "relation": "同僚",
-          "id": 104
-        },
-        {
-          "relation": "助手",
-          "id": 106
-        },
-        {
-          "relation": "疑犯",
-          "id": 74
-        },
-        {
-          "relation": "同盟",
-          "id": 88
-        },
-        {
-          "relation": "逮捕对象",
-          "id": 46
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "name": "张良",
-      "relationship": [
-        {
-          "relation": "师父",
-          "id": 12
-        },
-        {
-          "relation": "君主",
-          "id": 49
-        },
-        {
-          "relation": "师妹",
-          "id": 51
-        },
-        {
-          "relation": "敌人",
-          "id": 29
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "name": "墨子",
-      "relationship": [
-        {
-          "relation": "同事",
-          "id": 11
-        },
-        {
-          "relation": "同事",
-          "id": 19
-        },
-        {
-          "relation": "校友",
-          "id": 97
-        },
-        {
-          "relation": "校友的孩子",
-          "id": 14
-        },
-        {
-          "relation": "学子",
-          "id": 20
-        },
-        {
-          "relation": "学子",
-          "id": 94
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "name": "庄周",
-      "relationship": [
-        {
-          "relation": "同事",
-          "id": 11
-        },
-        {
-          "relation": "同事",
-          "id": 18
-        },
-        {
-          "relation": "学子",
-          "id": 83
-        },
-        {
-          "relation": "学子",
-          "id": 96
-        },
-        {
-          "relation": "学子",
-          "id": 99
-        },
-        {
-          "relation": "学子",
-          "id": 8
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "name": "孙膑",
-      "relationship": [
-        {
-          "relation": "机关老师",
-          "id": 18
-        },
-        {
-          "relation": "星之队队友",
-          "id": 97
-        },
-        {
-          "relation": "星之队队友",
-          "id": 94
-        },
-        {
-          "relation": "星之队队友",
-          "id": 96
-        },
-        {
-          "relation": "星之队队友",
-          "id": 98
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "name": "典韦",
-      "relationship": [
-        {
-          "relation": "被守护者",
-          "id": 53
-        },
-        {
-          "relation": "主公",
-          "id": 33
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "name": "达摩",
-      "relationship": [
-        {
-          "relation": "相救之人",
-          "id": 107
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "name": "韩信",
-      "relationship": [
-        {
-          "relation": "敌人",
-          "id": 29
-        },
-        {
-          "relation": "君主",
-          "id": 49
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "name": "亚瑟",
-      "relationship": [
-        {
-          "relation": "部下",
-          "id": 32
-        },
-        {
-          "relation": "队员",
-          "id": 105
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "name": "孙尚香",
-      "relationship": [
-        {
-          "relation": "钦慕之人",
-          "id": 43
-        },
-        {
-          "relation": "兄长",
-          "id": 82
-        },
-        {
-          "relation": "闺蜜",
-          "id": 13
-        },
-        {
-          "relation": "监护人",
-          "id": 34
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "name": "刘禅",
-      "relationship": [
-        {
-          "relation": "父亲",
-          "id": 43
-        },
-        {
-          "relation": "师父",
-          "id": 62
-        },
-        {
-          "relation": "对手",
-          "id": 53
-        },
-        {
-          "relation": "大当家的",
-          "id": 101
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "name": "扁鹊",
-      "relationship": [
-        {
-          "relation": "病人",
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "name": "宫本武藏",
-      "relationship": [
-        {
-          "relation": "对手",
-          "id": 46
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "name": "项羽",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 51
-        },
-        {
-          "relation": "敌人",
-          "id": 49
-        },
-        {
-          "relation": "敌人",
-          "id": 23
-        },
-        {
-          "relation": "敌人",
-          "id": 17
-        },
-        {
-          "relation": "敌人",
-          "id": 65
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "name": "程咬金",
-      "relationship": [
-        {
-          "relation": "君主",
-          "id": 5
-        },
-        {
-          "relation": "忘年之交",
-          "id": 106
-        },
-        {
-          "relation": "世侄",
-          "id": 112
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "name": "王昭君",
-      "relationship": []
-    },
-    {
-      "id": 32,
-      "name": "安琪拉",
-      "relationship": [
-        {
-          "relation": "统帅",
-          "id": 24
-        },
-        {
-          "relation": "闺蜜",
-          "id": 105
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "name": "曹操",
-      "relationship": [
-        {
-          "relation": "棋子",
-          "id": 39
-        },
-        {
-          "relation": "敌人",
-          "id": 43
-        },
-        {
-          "relation": "义女",
-          "id": 53
-        },
-        {
-          "relation": "部下",
-          "id": 81
-        },
-        {
-          "relation": "部下",
-          "id": 83
-        },
-        {
-          "relation": "部下",
-          "id": 21
-        },
-        {
-          "relation": "部下",
-          "id": 54
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "name": "周瑜",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 13
-        },
-        {
-          "relation": "挚友",
-          "id": 82
-        },
-        {
-          "relation": "武道老师",
-          "id": 11
-        },
-        {
-          "relation": "被监护者",
-          "id": 25
-        },
-        {
-          "relation": "妻姐",
-          "id": 64
-        },
-        {
-          "relation": "对手",
-          "id": 62
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "name": "牛魔",
-      "relationship": [
-        {
-          "relation": "曾经的战友",
-          "id": 36
-        },
-        {
-          "relation": "统治神",
-          "id": 73
-        },
-        {
-          "relation": "曾经的战友",
-          "id": 90
-        },
-        {
-          "relation": "伙伴",
-          "id": 107
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "name": "孙悟空",
-      "relationship": [
-        {
-          "relation": "战友",
-          "id": 90
-        },
-        {
-          "relation": "师傅",
-          "id": 107
-        },
-        {
-          "relation": "背叛的战友",
-          "id": 35
-        },
-        {
-          "relation": "统治神",
-          "id": 73
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "name": "芈月",
-      "relationship": [
-        {
-          "relation": "孙子",
-          "id": 8
-        },
-        {
-          "relation": "臣子",
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "name": "貂蝉",
-      "relationship": [
-        {
-          "relation": "爱慕之人",
-          "id": 39
-        },
-        {
-          "relation": "旧识",
-          "id": 1
-        },
-        {
-          "relation": "主公",
-          "id": 33
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "name": "吕布",
-      "relationship": [
-        {
-          "relation": "爱慕之人",
-          "id": 38
-        },
-        {
-          "relation": "敌人",
-          "id": 33
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "name": "花木兰",
-      "relationship": [
-        {
-          "relation": "对手",
-          "id": 44
-        },
-        {
-          "relation": "队友",
-          "id": 68
-        },
-        {
-          "relation": "队友",
-          "id": 69
-        },
-        {
-          "relation": "队友",
-          "id": 70
-        },
-        {
-          "relation": "队友",
-          "id": 71
-        },
-        {
-          "relation": "上司",
-          "id": 104
-        },
-        {
-          "relation": "偶遇",
-          "id": 108
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "name": "后羿",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 89
-        }
-      ]
-    },
-    {
-      "id": 42,
-      "name": "张飞",
-      "relationship": [
-        {
-          "relation": "结拜兄弟",
-          "id": 43
-        },
-        {
-          "relation": "结拜兄弟",
-          "id": 52
-        },
-        {
-          "relation": "战友",
-          "id": 63
-        },
-        {
-          "relation": "可怜的小鬼",
-          "id": 101
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "name": "刘备",
-      "relationship": [
-        {
-          "relation": "结拜兄弟",
-          "id": 52
-        },
-        {
-          "relation": "结拜兄弟",
-          "id": 42
-        },
-        {
-          "relation": "儿子",
-          "id": 26
-        },
-        {
-          "relation": "钦慕之人",
-          "id": 25
-        },
-        {
-          "relation": "军师",
-          "id": 62
-        },
-        {
-          "relation": "仇敌",
-          "id": 33
-        },
-        {
-          "relation": "部下",
-          "id": 1
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "name": "兰陵王",
-      "relationship": [
-        {
-          "relation": "对手",
-          "id": 40
-        },
-        {
-          "relation": "徒弟",
-          "id": 70
-        },
-        {
-          "relation": "盟友与幼时同窗",
-          "id": 108
-        },
-        {
-          "relation": "盟友与幼时同窗",
-          "id": 85
-        },
-        {
-          "relation": "沙之盟盟友",
-          "id": 109
-        },
-        {
-          "relation": "沙之盟盟友",
-          "id": 110
-        },
-        {
-          "relation": "敌对",
-          "id": 111
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "name": "娜可露露",
-      "relationship": [
-        {
-          "relation": "寻找之人",
-          "id": 28
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "name": "李白",
-      "relationship": [
-        {
-          "relation": "好友",
-          "id": 71
-        },
-        {
-          "relation": "君主",
-          "id": 5
-        },
-        {
-          "relation": "治安官",
-          "id": 16
-        },
-        {
-          "relation": "对手",
-          "id": 28
-        },
-        {
-          "relation": "友人",
-          "id": 108
-        }
-      ]
-    },
-    {
-      "id": 47,
-      "name": "钟馗",
-      "relationship": []
-    },
-    {
-      "id": 48,
-      "name": "李元芳",
-      "relationship": [
-        {
-          "relation": "长官",
-          "id": 16
-        },
-        {
-          "relation": "同僚",
-          "id": 106
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "name": "刘邦",
-      "relationship": [
-        {
-          "relation": "敌人",
-          "id": 29
-        },
-        {
-          "relation": "臣子",
-          "id": 17
-        },
-        {
-          "relation": "臣子",
-          "id": 23
-        },
-        {
-          "relation": "敌人",
-          "id": 65
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "name": "不知火舞",
-      "relationship": []
-    },
-    {
-      "id": 51,
-      "name": "虞姬",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 29
-        },
-        {
-          "relation": "师兄",
-          "id": 17
-        },
-        {
-          "relation": "师父",
-          "id": 12
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "name": "关羽",
-      "relationship": [
-        {
-          "relation": "结拜兄弟",
-          "id": 43
-        },
-        {
-          "relation": "结拜兄弟",
-          "id": 42
-        },
-        {
-          "relation": "兄弟",
-          "id": 63
-        },
-        {
-          "relation": "古怪的小鬼",
-          "id": 101
-        }
-      ]
-    },
-    {
-      "id": 53,
-      "name": "蔡文姬",
-      "relationship": [
-        {
-          "relation": "义父",
-          "id": 33
-        },
-        {
-          "relation": "守护者",
-          "id": 21
-        },
-        {
-          "relation": "捡来的哥哥",
-          "id": 103
-        },
-        {
-          "relation": "父亲的挚友",
-          "id": 62
-        },
-        {
-          "relation": "对手",
-          "id": 26
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "name": "夏侯惇",
-      "relationship": [
-        {
-          "relation": "主公",
-          "id": 33
-        },
-        {
-          "relation": "沉默孤独少年",
-          "id": 103
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "name": "雅典娜",
-      "relationship": []
-    },
-    {
-      "id": 56,
-      "name": "马可波罗",
-      "relationship": [
-        {
-          "relation": "执政者",
-          "id": 80
-        },
-        {
-          "relation": "？",
-          "id": 110
-        },
-        {
-          "relation": "一船之交",
-          "id": 113
-        }
-      ]
-    },
-    {
-      "id": 57,
-      "name": "橘右京",
-      "relationship": []
-    },
-    {
-      "id": 58,
-      "name": "成吉思汗",
-      "relationship": []
-    },
-    {
-      "id": 59,
-      "name": "杨戬",
-      "relationship": [
-        {
-          "relation": "挚友",
-          "id": 61
-        },
-        {
-          "relation": "统治神",
-          "id": 73
-        },
-        {
-          "relation": "追随之人",
-          "id": 12
-        }
-      ]
-    },
-    {
-      "id": 60,
-      "name": "太乙真人",
-      "relationship": [
-        {
-          "relation": "徒弟",
-          "id": 61
-        }
-      ]
-    },
-    {
-      "id": 61,
-      "name": "哪吒",
-      "relationship": [
-        {
-          "relation": "师父",
-          "id": 60
-        },
-        {
-          "relation": "挚友",
-          "id": 59
-        }
-      ]
-    },
-    {
-      "id": 62,
-      "name": "诸葛亮",
-      "relationship": [
-        {
-          "relation": "敌对",
-          "id": 83
-        },
-        {
-          "relation": "武道老师",
-          "id": 11
-        },
-        {
-          "relation": "挚友",
-          "id": 1
-        },
-        {
-          "relation": "君主",
-          "id": 43
-        },
-        {
-          "relation": "徒弟",
-          "id": 26
-        },
-        {
-          "relation": "学弟",
-          "id": 81
-        },
-        {
-          "relation": "校友",
-          "id": 34
-        }
-      ]
-    },
-    {
-      "id": 63,
-      "name": "黄忠",
-      "relationship": [
-        {
-          "relation": "主公",
-          "id": 43
-        },
-        {
-          "relation": "军师",
-          "id": 62
-        },
-        {
-          "relation": "战友",
-          "id": 42
-        },
-        {
-          "relation": "战友",
-          "id": 52
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "name": "大乔",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 82
-        },
-        {
-          "relation": "妹妹",
-          "id": 13
-        },
-        {
-          "relation": "敌人",
-          "id": 83
-        },
-        {
-          "relation": "妹夫",
-          "id": 34
-        }
-      ]
-    },
-    {
-      "id": 65,
-      "name": "东皇太一",
-      "relationship": [
-        {
-          "relation": "师父",
-          "id": 67
-        },
-        {
-          "relation": "臣子",
-          "id": 93
-        },
-        {
-          "relation": "棋子",
-          "id": 66
-        },
-        {
-          "relation": "敌人",
-          "id": 29
-        },
-        {
-          "relation": "敌人",
-          "id": 49
-        }
-      ]
-    },
-    {
-      "id": 66,
-      "name": "干将莫邪",
-      "relationship": [
-        {
-          "relation": "敌人",
-          "id": 65
-        }
-      ]
-    },
-    {
-      "id": 67,
-      "name": "鬼谷子",
-      "relationship": [
-        {
-          "relation": "徒弟",
-          "id": 92
-        },
-        {
-          "relation": "徒弟",
-          "id": 65
-        },
-        {
-          "relation": "被重造者",
-          "id": 93
-        }
-      ]
-    },
-    {
-      "id": 68,
-      "name": "铠",
-      "relationship": [
-        {
-          "relation": "妹妹",
-          "id": 6
-        },
-        {
-          "relation": "长城守卫军队长",
-          "id": 40
-        },
-        {
-          "relation": "队友",
-          "id": 70
-        },
-        {
-          "relation": "队友",
-          "id": 69
-        },
-        {
-          "relation": "队友",
-          "id": 71
-        },
-        {
-          "relation": "偶遇",
-          "id": 79
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "name": "百里守约",
-      "relationship": [
-        {
-          "relation": "弟弟",
-          "id": 70
-        },
-        {
-          "relation": "长城守卫军队长",
-          "id": 40
-        },
-        {
-          "relation": "队友",
-          "id": 68
-        },
-        {
-          "relation": "队友",
-          "id": 71
-        },
-        {
-          "relation": "队友",
-          "id": 84
-        },
-        {
-          "relation": "队友",
-          "id": 86
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "name": "百里玄策",
-      "relationship": [
-        {
-          "relation": "哥哥",
-          "id": 69
-        },
-        {
-          "relation": "师父",
-          "id": 44
-        },
-        {
-          "relation": "队友",
-          "id": 68
-        },
-        {
-          "relation": "长城守卫军队长",
-          "id": 40
-        },
-        {
-          "relation": "队友",
-          "id": 71
-        },
-        {
-          "relation": "队友",
-          "id": 86
-        }
-      ]
-    },
-    {
-      "id": 71,
-      "name": "苏烈",
-      "relationship": [
-        {
-          "relation": "知己",
-          "id": 85
-        },
-        {
-          "relation": "好友",
-          "id": 46
-        },
-        {
-          "relation": "长城守卫军队长",
-          "id": 40
-        },
-        {
-          "relation": "队友",
-          "id": 69
-        },
-        {
-          "relation": "队友",
-          "id": 68
-        },
-        {
-          "relation": "队友",
-          "id": 70
-        },
-        {
-          "relation": "曾经部下",
-          "id": 77
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "name": "梦奇",
-      "relationship": []
-    },
-    {
-      "id": 73,
-      "name": "女娲",
-      "relationship": [
-        {
-          "relation": "继承人",
-          "id": 59
-        },
-        {
-          "relation": "战友",
-          "id": 91
-        },
-        {
-          "relation": "敌人",
-          "id": 12
-        },
-        {
-          "relation": "叛乱者",
-          "id": 36
-        },
-        {
-          "relation": "归顺者",
-          "id": 35
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "name": "明世隐",
-      "relationship": [
-        {
-          "relation": "徒弟",
-          "id": 78
-        },
-        {
-          "relation": "敌人",
-          "id": 16
-        },
-        {
-          "relation": "君主",
-          "id": 5
-        },
-        {
-          "relation": "交易之人",
-          "id": 87
-        },
-        {
-          "relation": "下属",
-          "id": 75
-        },
-        {
-          "relation": "下属",
-          "id": 76
-        },
-        {
-          "relation": "下属",
-          "id": 77
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "name": "公孙离",
-      "relationship": [
-        {
-          "relation": "同伴",
-          "id": 77
-        },
-        {
-          "relation": "仰慕之人",
-          "id": 87
-        },
-        {
-          "relation": "同伴",
-          "id": 76
-        },
-        {
-          "relation": "首领",
-          "id": 74
-        },
-        {
-          "relation": "同伴",
-          "id": 78
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "name": "杨玉环",
-      "relationship": [
-        {
-          "relation": "同伴",
-          "id": 75
-        },
-        {
-          "relation": "首领",
-          "id": 74
-        },
-        {
-          "relation": "同伴",
-          "id": 77
-        },
-        {
-          "relation": "同伴",
-          "id": 78
-        }
-      ]
-    },
-    {
-      "id": 77,
-      "name": "裴擒虎",
-      "relationship": [
-        {
-          "relation": "同伴",
-          "id": 75
-        },
-        {
-          "relation": "过去的上级",
-          "id": 71
-        },
-        {
-          "relation": "首领",
-          "id": 74
-        },
-        {
-          "relation": "同伴",
-          "id": 76
-        },
-        {
-          "relation": "同伴",
-          "id": 78
-        },
-        {
-          "relation": "不打不相识",
-          "id": 106
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "name": "弈星",
-      "relationship": [
-        {
-          "relation": "首领",
-          "id": 74
-        },
-        {
-          "relation": "同伴",
-          "id": 75
-        },
-        {
-          "relation": "同伴",
-          "id": 76
-        },
-        {
-          "relation": "同伴",
-          "id": 77
-        },
-        {
-          "relation": "血亲",
-          "id": 104
-        }
-      ]
-    },
-    {
-      "id": 79,
-      "name": "狂铁",
-      "relationship": [
-        {
-          "relation": "患难与共的兄弟",
-          "id": 113
-        },
-        {
-          "relation": "执政者",
-          "id": 80
-        },
-        {
-          "relation": "偶遇之人",
-          "id": 68
-        }
-      ]
-    },
-    {
-      "id": 80,
-      "name": "米莱狄",
-      "relationship": [
-        {
-          "relation": "反抗者",
-          "id": 79
-        },
-        {
-          "relation": "反抗者",
-          "id": 113
-        },
-        {
-          "relation": "属下",
-          "id": 56
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "name": "元歌",
-      "relationship": [
-        {
-          "relation": "学长",
-          "id": 62
-        },
-        {
-          "relation": "敌人",
-          "id": 33
-        },
-        {
-          "relation": "校友",
-          "id": 97
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "name": "孙策",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 64
-        },
-        {
-          "relation": "妹妹",
-          "id": 25
-        },
-        {
-          "relation": "挚友",
-          "id": 34
-        },
-        {
-          "relation": "凶手",
-          "id": 83
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "name": "司马懿",
-      "relationship": [
-        {
-          "relation": "对手",
-          "id": 62
-        },
-        {
-          "relation": "主公",
-          "id": 33
-        },
-        {
-          "relation": "恩师",
-          "id": 19
-        },
-        {
-          "relation": "后患无穷",
-          "id": 103
-        },
-        {
-          "relation": "棋子",
-          "id": 64
-        },
-        {
-          "relation": "被害者",
-          "id": 95
-        },
-        {
-          "relation": "被害者",
-          "id": 82
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "name": "盾山",
-      "relationship": [
-        {
-          "relation": "队友",
-          "id": 69
-        }
-      ]
-    },
-    {
-      "id": 85,
-      "name": "伽罗",
-      "relationship": [
-        {
-          "relation": "知己",
-          "id": 71
-        },
-        {
-          "relation": "发小与盟友",
-          "id": 108
-        },
-        {
-          "relation": "盟友与幼时同窗",
-          "id": 44
-        },
-        {
-          "relation": "沙之盟伙伴",
-          "id": 109
-        },
-        {
-          "relation": "沙之盟伙伴",
-          "id": 110
-        },
-        {
-          "relation": "敌对",
-          "id": 111
-        }
-      ]
-    },
-    {
-      "id": 86,
-      "name": "沈梦溪",
-      "relationship": [
-        {
-          "relation": "恩人",
-          "id": 74
-        },
-        {
-          "relation": "队友",
-          "id": 69
-        },
-        {
-          "relation": "队友",
-          "id": 70
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "name": "李信",
-      "relationship": [
-        {
-          "relation": "交易之人",
-          "id": 74
-        },
-        {
-          "relation": "旧友",
-          "id": 75
-        },
-        {
-          "relation": "曾经的长官",
-          "id": 71
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "name": "上官婉儿",
-      "relationship": [
-        {
-          "relation": "仇敌",
-          "id": 74
-        },
-        {
-          "relation": "君主",
-          "id": 5
-        },
-        {
-          "relation": "治安官",
-          "id": 16
-        }
-      ]
-    },
-    {
-      "id": 89,
-      "name": "嫦娥",
-      "relationship": [
-        {
-          "relation": "爱人",
-          "id": 41
-        }
-      ]
-    },
-    {
-      "id": 90,
-      "name": "猪八戒",
-      "relationship": [
-        {
-          "relation": "战友",
-          "id": 36
-        },
-        {
-          "relation": "师傅",
-          "id": 107
-        },
-        {
-          "relation": "背叛的战友",
-          "id": 35
-        }
-      ]
-    },
-    {
-      "id": 91,
-      "name": "盘古",
-      "relationship": [
-        {
-          "relation": "战友",
-          "id": 73
-        }
-      ]
-    },
-    {
-      "id": 92,
-      "name": "瑶",
-      "relationship": [
-        {
-          "relation": "爱慕之人",
-          "id": 93
-        },
-        {
-          "relation": "师父",
-          "id": 67
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "name": "云中君",
-      "relationship": [
-        {
-          "relation": "爱慕之人",
-          "id": 92
-        },
-        {
-          "relation": "君主",
-          "id": 65
-        },
-        {
-          "relation": "恩人",
-          "id": 67
-        }
-      ]
-    },
-    {
-      "id": 94,
-      "name": "曜",
-      "relationship": [
-        {
-          "relation": "姐姐",
-          "id": 99
-        },
-        {
-          "relation": "星之队队友",
-          "id": 96
-        },
-        {
-          "relation": "星之队队友",
-          "id": 98
-        },
-        {
-          "relation": "星之队队友",
-          "id": 97
-        },
-        {
-          "relation": "星之队队友",
-          "id": 20
-        },
-        {
-          "relation": "武道老师",
-          "id": 11
-        },
-        {
-          "relation": "偶像",
-          "id": 46
-        }
-      ]
-    },
-    {
-      "id": 95,
-      "name": "马超",
-      "relationship": [
-        {
-          "relation": "老师",
-          "id": 83
-        },
-        {
-          "relation": "军师",
-          "id": 62
-        }
-      ]
-    },
-    {
-      "id": 96,
-      "name": "西施",
-      "relationship": [
-        {
-          "relation": "星之队队长",
-          "id": 94
-        },
-        {
-          "relation": "星之队队友",
-          "id": 98
-        },
-        {
-          "relation": "星之队队友",
-          "id": 20
-        },
-        {
-          "relation": "星之队队友",
-          "id": 97
-        },
-        {
-          "relation": "魔道老师",
-          "id": 19
-        }
-      ]
-    },
-    {
-      "id": 97,
-      "name": "鲁班大师",
-      "relationship": [
-        {
-          "relation": "儿子",
-          "id": 14
-        },
-        {
-          "relation": "星之队队友",
-          "id": 96
-        },
-        {
-          "relation": "星之队队友",
-          "id": 98
-        },
-        {
-          "relation": "星之队队友",
-          "id": 94
-        },
-        {
-          "relation": "星之队队友",
-          "id": 20
-        },
-        {
-          "relation": "校友",
-          "id": 18
-        },
-        {
-          "relation": "校友",
-          "id": 81
-        }
-      ]
-    },
-    {
-      "id": 98,
-      "name": "蒙犽",
-      "relationship": [
-        {
-          "relation": "父亲",
-          "id": 100
-        },
-        {
-          "relation": "星之队队友",
-          "id": 97
-        },
-        {
-          "relation": "星之队队长",
-          "id": 94
-        },
-        {
-          "relation": "星之队队友",
-          "id": 96
-        },
-        {
-          "relation": "星之队队友",
-          "id": 20
-        },
-        {
-          "relation": "武道老师",
-          "id": 11
-        },
-        {
-          "relation": "机关老师",
-          "id": 18
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "name": "镜",
-      "relationship": [
-        {
-          "relation": "弟弟",
-          "id": 94
-        },
-        {
-          "relation": "武道老师",
-          "id": 11
-        },
-        {
-          "relation": "魔道老师",
-          "id": 19
-        },
-        {
-          "relation": "君主",
-          "id": 8
-        },
-        {
-          "relation": "战友",
-          "id": 100
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "name": "蒙恬",
-      "relationship": [
-        {
-          "relation": "儿子",
-          "id": 98
-        },
-        {
-          "relation": "君主",
-          "id": 8
-        },
-        {
-          "relation": "战友",
-          "id": 4
-        },
-        {
-          "relation": "战友",
-          "id": 99
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "name": "阿古朵",
-      "relationship": [
-        {
-          "relation": "带头大哥",
-          "id": 62
-        },
-        {
-          "relation": "二当家的",
-          "id": 26
-        },
-        {
-          "relation": "偶尔很凶的战友",
-          "id": 42
-        },
-        {
-          "relation": "小马不错的战友",
-          "id": 52
-        },
-        {
-          "relation": "小鸡不错的战友",
-          "id": 43
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "name": "夏洛特",
-      "relationship": [
-        {
-          "relation": "偶遇",
-          "id": 105
-        }
-      ]
-    },
-    {
-      "id": 103,
-      "name": "澜",
-      "relationship": [
-        {
-          "relation": "值得保护之人",
-          "id": 53
-        },
-        {
-          "relation": "曾经的主公",
-          "id": 33
-        },
-        {
-          "relation": "看不透彻",
-          "id": 83
-        },
-        {
-          "relation": "“教授”过刀法",
-          "id": 54
-        }
-      ]
-    },
-    {
-      "id": 104,
-      "name": "司空震",
-      "relationship": [
-        {
-          "relation": "君主",
-          "id": 5
-        },
-        {
-          "relation": "同僚",
-          "id": 16
-        },
-        {
-          "relation": "血亲",
-          "id": 78
-        },
-        {
-          "relation": "世侄",
-          "id": 106
-        },
-        {
-          "relation": "世侄",
-          "id": 112
-        },
-        {
-          "relation": "属下",
-          "id": 40
-        }
-      ]
-    },
-    {
-      "id": 105,
-      "name": "艾琳",
-      "relationship": [
-        {
-          "relation": "闺蜜",
-          "id": 32
-        },
-        {
-          "relation": "团长",
-          "id": 24
-        },
-        {
-          "relation": "偶遇",
-          "id": 102
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "name": "云缨",
-      "relationship": [
-        {
-          "relation": "青梅竹马",
-          "id": 112
-        },
-        {
-          "relation": "老大",
-          "id": 16
-        },
-        {
-          "relation": "小弟",
-          "id": 48
-        },
-        {
-          "relation": "忘年之交",
-          "id": 30
-        },
-        {
-          "relation": "世叔",
-          "id": 104
-        },
-        {
-          "relation": "不打不相识",
-          "id": 77
-        }
-      ]
-    },
-    {
       "id": 107,
-      "name": "金蝉",
-      "relationship": [
+      "name": "赵云",
+      "relationships": [
         {
-          "relation": "徒弟",
-          "id": 36
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "军师",
+          "desc": "造访草庐的最初目的是守护天书，而在了解到草庐中那个天才少年所坚守的信念后，赵云终于知道自己真正想要守护的不是知识本身，而是知识的践行者、他的挚友诸葛。"
         },
         {
-          "relation": "徒弟",
-          "id": 90
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "主公",
+          "desc": "影子已死，死于反对龙投靠曹操野心的分歧中。长坂坡一役中重挫曹操的那个扛着长枪的男人，他叫赵子龙，已经是刘备麾下以一敌百的存在。"
         },
         {
-          "relation": "君主",
-          "id": 5
-        },
-        {
-          "relation": "出手相救",
-          "id": 22
-        },
-        {
-          "relation": "伙伴",
-          "id": 35
-        },
-        {
-          "relation": "干戈化玉帛",
-          "id": 44
-        },
-        {
-          "relation": "辩道之人",
-          "id": 74
-        }
-      ]
-    },
-    {
-      "id": 108,
-      "name": "暃",
-      "relationship": [
-        {
-          "relation": "发小与盟友",
-          "id": 85
-        },
-        {
-          "relation": "盟友与幼时同窗",
-          "id": 44
-        },
-        {
-          "relation": "友人",
-          "id": 46
-        },
-        {
-          "relation": "沙之盟盟友",
-          "id": 109
-        },
-        {
-          "relation": "沙之盟盟友",
-          "id": 110
-        },
-        {
-          "relation": "敌对",
-          "id": 111
-        },
-        {
-          "relation": "偶遇",
-          "id": 40
+          "id": 141,
+          "hero": "貂蝉",
+          "relationship": "旧识",
+          "desc": "“影子”因为与龙的分歧毅然离去，再有消息时，他已然成为刘备麾下以一敌百的英勇将领，与曾经的旧识、如今的乱世舞姬在岔路中渐行渐远。"
         }
       ]
     },
     {
       "id": 109,
-      "name": "桑启",
-      "relationship": [
+      "name": "妲己",
+      "relationships": [
         {
-          "relation": "沙之盟伙伴",
-          "id": 85
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "师父",
+          "desc": "没想到吧，兽耳狐尾的天真少女妲己，竟是姜子牙为对付纣王而用机关术造的人偶，用魔道注入灵魂送往朝歌，成为一道迷惑的杀手锏。"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "高渐离",
+      "relationships": [
+        {
+          "id": 116,
+          "hero": "阿轲",
+          "relationship": "爱人",
+          "desc": "失去你比失去信仰更可怕……当看到刺杀失败的阿轲浑身伤痕时，高渐离为自己对她的利用悔恨不已，从此珍惜所爱，二人远走天涯。"
         },
         {
-          "relation": "沙之盟伙伴",
-          "id": 44
+          "id": 110,
+          "hero": "嬴政",
+          "relationship": "敌人",
+          "desc": "是什么让曾经狂放不羁的天才乐师变成执着的反嬴政志士？一场军队残暴的战争让他将终止嬴政发起的战争作为使命，刺杀的意志也成为将被实践的计划。"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "白起",
+      "relationships": [
+        {
+          "id": 110,
+          "hero": "嬴政",
+          "relationship": "君主",
+          "desc": "童年际遇促使嬴政与白起结下深深羁绊，历经血族动乱与自我觉醒，二人共同将整体生命付诸于塑造新玄雍的行动中。"
         },
         {
-          "relation": "沙之盟伙伴",
-          "id": 108
+          "id": 121,
+          "hero": "芈月",
+          "relationship": "太后",
+          "desc": "小白起作为南荒怪物被送至玄雍宫中待作兵器实验，小嬴政对“怪物”屡屡捣蛋引发祸乱，头疼的太后下令将白起遣回南荒。"
         },
         {
-          "relation": "沙之盟伙伴",
-          "id": 110
+          "id": 119,
+          "hero": "扁鹊",
+          "relationship": "医师",
+          "desc": "扁鹊被嬴政请来医治白起战争中所受的创伤，然而病人自己做了选择……"
         },
         {
-          "relation": "敌对",
-          "id": 111
+          "id": 527,
+          "hero": "蒙恬",
+          "relationship": "战友",
+          "desc": "旧玄雍里自己曾讨厌的人有很多，但却从未讨厌过这个真正心系百姓的大将军。"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "name": "武则天",
+      "relationships": [
+        {
+          "id": 133,
+          "hero": "狄仁杰",
+          "relationship": "臣子",
+          "desc": "尽管有人背地里嘲笑狄仁杰是女皇的忠犬，可那又有什么关系呢？二人相识于微时那份信任旁人大概永远不会懂。"
+        },
+        {
+          "id": 537,
+          "hero": "司空震",
+          "relationship": "臣子",
+          "desc": "最有能力，却也最不尊皇权的臣子，但凡其认定之事，几乎不会回转，掌控着最核心的权利，因性格与百官几无私交，一切出发皆是为了长安，也是最信任的人之一。"
+        },
+        {
+          "id": 513,
+          "hero": "上官婉儿",
+          "relationship": "侍女",
+          "desc": "为了探寻梦中字帖的真相，上官婉儿自愿成为女帝探听民语风声的耳目，并以一纸书信将其打动。如愿以偿的她女扮男装出入宫廷内外，触碰祖父冤案之谜。"
+        },
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "谋士",
+          "desc": "牡丹方士明世隐因精准卜卦得到女帝赏识，但他要绝不是女帝重重的犒劳，一间长安城的小院足矣。而他真正想要的唯有寻回自己心爱之物"
+        },
+        {
+          "id": 144,
+          "hero": "程咬金",
+          "relationship": "臣子",
+          "desc": "爱肌肉爱流汗，热血自由如程咬金这般，对考勤制度啥的自然不待见，女帝登基后，麾下战功赫赫的他便隐姓埋名周游大陆去了。"
+        },
+        {
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "师父",
+          "desc": "“青出于蓝而灭蓝”……至高无上的女帝武则天，怎会甘心像傀儡一样被人操纵？尽管姜子牙是师父，但利用她的人下场只能是被封禁于未知角落。"
+        },
+        {
+          "id": 131,
+          "hero": "李白",
+          "relationship": "良才",
+          "desc": "只有狂傲如李白才会拒绝女帝入朝为官的邀请吧。但和女帝密谈后，李白竟开始了自我放逐，那场谈话中，二人间究竟发生了什么？"
+        },
+        {
+          "id": 540,
+          "hero": "金蝉",
+          "relationship": "座上宾",
+          "desc": "纵使女帝博览群书，但金蝉的大智慧和觉悟往往还是令她受益匪浅，素来惜才的女帝珍视金蝉将他封为“御弟”。"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "name": "露娜",
+      "relationships": [
+        {
+          "id": 193,
+          "hero": "铠",
+          "relationship": "哥哥",
+          "desc": "残酷的宿命是沉重的枷锁，同为魔道家族后人，妹妹被选作继承人，哥哥却背负着家族带罪的血缘，背井离乡，前往东方追溯魔道根源。"
+        },
+        {
+          "id": 545,
+          "hero": "莱西奥",
+          "relationship": "一猫之交",
+          "desc": "外城区赫赫有名的火鹰船长，曾从仆人的汇报中听到过他的名字。直到某天偶遇，才发现他居然和自己的宠物大白似乎熟识。"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "廉颇",
+      "relationships": [
+        {
+          "id": 117,
+          "hero": "钟无艳",
+          "relationship": "校友",
+          "desc": "当年的一场冲突使他们不打不相识，后来没料到又在稷下相遇，他们是南荒的“同乡人”，惺惺相惜的稷下校友，以及“直来直往”的“同类”人……"
+        },
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "老夫子的指导，让廉颇能更好的学习如何掌握自己的新拳甲，现在廉颇正在紧张的训练中……"
+        },
+        {
+          "id": 120,
+          "hero": "白起",
+          "relationship": "对手",
+          "desc": "无主之城的经历使廉颇被白起激发了无穷的斗志，他心目中已将白起视作了最大的对手，终于一天，他要战胜白起。"
+        },
+        {
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "校友",
+          "desc": "廉颇心目中的恩人，鲁班大师全新制造的拳甲让自己拥有了更强的战力，以及更大的可能。"
+        },
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "校友",
+          "desc": "廉颇欣赏曜的朝气，曜也不像其他稷下学子那般将自己当做需要照顾的老人，在曜眼中，自己与大家都是一样的。"
         }
       ]
     },
     {
       "id": 110,
-      "name": "戈娅",
-      "relationship": [
+      "name": "嬴政",
+      "relationships": [
         {
-          "relation": "盟友",
-          "id": 108
+          "id": 120,
+          "hero": "白起",
+          "relationship": "臣子",
+          "desc": "童年际遇促使嬴政与白起结下深深羁绊，历经血族动乱与自我觉醒， 二人共同将整体生命付诸于塑造新玄雍的行动中。"
         },
         {
-          "relation": "盟友",
-          "id": 85
+          "id": 121,
+          "hero": "芈月",
+          "relationship": "祖母",
+          "desc": "当年幼的孙子嬴政逐渐长大成人，曾独揽朝政的太后芈月的权力便渐如风中烛火，一场政变后，芈月彻底下台，由嬴政掌握全部政权。"
         },
         {
-          "relation": "盟友",
-          "id": 109
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "魔道老师",
+          "desc": "为建设更为强大的玄雍，嬴政曾求学稷下，习得魔道和武技，并与之结盟，成为稷下顶尖人才投奔的首选之国。"
         },
         {
-          "relation": "盟友",
-          "id": 44
+          "id": 527,
+          "hero": "蒙恬",
+          "relationship": "下属",
+          "desc": "从小时候就一直保护自己的大将军，像一个可靠的兄长，也是非常值得信任和托付的臣子。"
         },
         {
-          "relation": "？",
-          "id": 56
+          "id": 531,
+          "hero": "镜",
+          "relationship": "下属",
+          "desc": "不错的下属，在战术规划和单兵作战中表现突出，但纪律性急需加强。"
         },
         {
-          "relation": "敌对",
-          "id": 111
+          "id": 116,
+          "hero": "阿轲",
+          "relationship": "敌人",
+          "desc": "在哥哥死后，延续着雇佣刺客家族命运的小妹阿轲继承了哥哥刺杀嬴政的意志，并在救命恩人高渐离的计划下将刺杀付诸实践，但以失败告终。"
+        },
+        {
+          "id": 115,
+          "hero": "高渐离",
+          "relationship": "敌人",
+          "desc": "是什么让曾经狂放不羁的天才乐师变成执着的反嬴政志士？一场军队残暴的战争让他将终止嬴政发起的战争作为使命，刺杀的意志也成为将被实践的计划。"
         }
       ]
     },
     {
-      "id": 111,
-      "name": "海月",
-      "relationship": [
+      "id": 116,
+      "name": "阿轲",
+      "relationships": [
         {
-          "relation": "敌对",
-          "id": 108
+          "id": 115,
+          "hero": "高渐离",
+          "relationship": "爱人",
+          "desc": "失去你比失去信仰更可怕……当看到刺杀失败的阿轲浑身伤痕时，高渐离为自己对她的利用悔恨不已，从此珍惜所爱，二人远走天涯。"
         },
         {
-          "relation": "敌对",
-          "id": 85
+          "id": 110,
+          "hero": "嬴政",
+          "relationship": "敌人",
+          "desc": "在哥哥死后，延续着雇佣刺客家族命运的小妹阿轲继承了哥哥刺杀嬴政的意志，并在救命恩人高渐离的计划下将刺杀付诸实践，但以失败告终。"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "甄姬",
+      "relationships": [
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "主公",
+          "desc": "出身高贵的甄姬竟被曹丕的痴情打动，陷入“婚姻圈套”中，抛弃一切嫁入后，才发现曹氏一族只是为了得到她血脉中传承的力量而已。"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "老夫子",
+      "relationships": [
+        {
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "反目的朋友",
+          "desc": "别看俩老头后来绝交了，同为世间最伟大的智者，曾经友谊还是很深厚的，然而道不同不相为谋，二人争执一场后最终分道扬镳。"
         },
         {
-          "relation": "敌对",
-          "id": 109
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "同事",
+          "desc": "复兴了机关术的墨子、最伟大的智者老夫子、能将梦化为现实的庄周，乃王者大陆智慧的三座”高峰“，被并称为“稷下三贤者”。"
         },
         {
-          "relation": "敌对",
-          "id": 44
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "同事",
+          "desc": "复兴了机关术的墨子、最伟大的智者老夫子、能将梦化为现实的庄周，乃王者大陆智慧的三座”高峰“，被并称为“稷下三贤者”。"
         },
         {
-          "relation": "敌对",
-          "id": 110
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "学子",
+          "desc": "稷下学院有史以来最伟大的天才是谁？非师承于三贤者的诸葛亮莫属！无论魔道机关，还是智谋兵法，样样都是第一！"
+        },
+        {
+          "id": 117,
+          "hero": "钟无艳",
+          "relationship": "学子",
+          "desc": "剽悍的人生不需要解释！流落稷下，能被夫子收留；违反校规能被夫子包容；出身卑微却能成为王族。为报恩还将稷下土地豪爽赠给恩师。"
+        },
+        {
+          "id": 105,
+          "hero": "廉颇",
+          "relationship": "学子",
+          "desc": "老夫子的指导，让廉颇能更好的学习如何掌握自己的新拳甲，现在廉颇正在紧张的训练中……"
+        },
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "学子",
+          "desc": "是个数一数二的学生。不过谁都知道，夫子的数字只有一到三。"
+        },
+        {
+          "id": 524,
+          "hero": "蒙犽",
+          "relationship": "学子",
+          "desc": "再不听话，只能请家长了。"
+        },
+        {
+          "id": 531,
+          "hero": "镜",
+          "relationship": "学子",
+          "desc": "镜是一柄不断锤炼自己的剑，我从不担心让镜经历失败，每一次失败都令她更加完美。所以我总是派她去执行最危险的任务，给她无穷无尽的危机。"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "徒弟",
+          "desc": "看着姬小满在稷下长大，因其与父母自幼分离，多为照顾，二人情同祖孙。小满在他面前总有些没大没小，但夫子能读懂小满没大没小背后的信任与尊敬。"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "姜子牙",
+      "relationships": [
+        {
+          "id": 179,
+          "hero": "女娲",
+          "relationship": "统治神",
+          "desc": "水火不容的分歧，存在于神明般的创世者女娲和伟大智者姜子牙之间，二人对守护人间的理念各执己见，于是秘密行动在精心筹划中。"
+        },
+        {
+          "id": 178,
+          "hero": "杨戬",
+          "relationship": "背叛的部下",
+          "desc": "杨戬作为继承人不得不执行“神”的意志——在封神战争最后终结太古魔导姜子牙，所向披靡的他能否胜过女娲都没把握战胜的对手呢？"
+        },
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "决裂的挚友",
+          "desc": "别看俩老头后来绝交了，同为世间最伟大的智者，曾经友谊还是很深厚的，然而道不同不相为谋，二人争执干架一场后最终分道扬镳。"
+        },
+        {
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "背叛的徒弟",
+          "desc": "“青出于蓝而灭蓝”……至高无上的女帝武则天，怎会甘心像傀儡一样被人操纵？尽管姜子牙是师父，但利用她的人下场只能是被封禁于未知角落。"
+        },
+        {
+          "id": 156,
+          "hero": "张良",
+          "relationship": "徒弟",
+          "desc": "能让智者姜子牙寄予厚望的非天才弟子张良莫属，只要张良愿意，随时可能成为神，这样的天纵奇才不用来当自己的继承人，岂不可惜？"
+        },
+        {
+          "id": 174,
+          "hero": "虞姬",
+          "relationship": "徒弟",
+          "desc": "虞姬是个听话又乖巧的好弟子，她仰慕老师太古魔导姜子牙，所以坚守遵循老师教导的抵御魔种。然而她不知道，自身的存在本身就是一个计划好的陷阱……"
+        },
+        {
+          "id": 109,
+          "hero": "妲己",
+          "relationship": "人偶",
+          "desc": "没想到吧，兽耳狐尾的天真少女妲己，竟是姜子牙为对付纣王而用机关术造的人偶，用魔道注入灵魂送往朝歌，成为一道迷惑的杀手锏。"
+        },
+        {
+          "id": 544,
+          "hero": "赵怀真",
+          "relationship": "弟子候选人",
+          "desc": "赵怀真幼时为解修行之疑，常去玄都观翻阅道藏，亦常在其后山竹林修炼太极术，曾有一日，忽闻一神秘老者声音，无意间数句闲话，却助他勘破了修行中的关窍。"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "小乔",
+      "relationships": [
+        {
+          "id": 124,
+          "hero": "周瑜",
+          "relationship": "爱人",
+          "desc": "英俊的都督周瑜，天真的少女小乔，因一场误会而相遇，名为的爱情的力量平息了瘟疫，也叩开了二人的心门。"
+        },
+        {
+          "id": 191,
+          "hero": "大乔",
+          "relationship": "姐姐",
+          "desc": "乔氏诞生了一对漂亮的双胞胎，然这是灾祸的象征，家族只能做出无情抉择，培养姐姐作为继承人，妹妹则从家谱中抹去，送往他乡寄养。"
+        },
+        {
+          "id": 111,
+          "hero": "孙尚香",
+          "relationship": "闺蜜",
+          "desc": "出人意料，傲娇公主孙尚香竟与周瑜妻子小乔成为了无话不谈的好闺蜜，常常一起分享彼此嗜好的言情小说，讨论喜欢的男生类型。"
         }
       ]
     },
     {
       "id": 112,
-      "name": "赵怀真",
-      "relationship": [
+      "name": "鲁班七号",
+      "relationships": [
         {
-          "relation": "青梅竹马",
-          "id": 106
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "父亲",
+          "desc": "稷下学院的机关大师鲁班一向独来独往，却在机关造物鲁班七号身上，感受到了人与人之间的温度。"
         },
         {
-          "relation": "世伯",
-          "id": 30
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "父亲的朋友",
+          "desc": "哼，这个叫墨子的民工竟抢先让机关术重现世间，所以你就是我鲁班大师最不能容忍，最痛恨的人！创造天才破坏性机关鲁班七号，用以对抗墨子的机关！"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "钟无艳",
+      "relationships": [
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "剽悍的人生不需要解释！流落稷下，能被夫子收留；违反校规能被夫子包容；出身卑微却能成为王族。为报恩还将稷下土地豪爽赠给恩师。"
         },
         {
-          "relation": "世叔",
-          "id": 104
+          "id": 105,
+          "hero": "廉颇",
+          "relationship": "校友",
+          "desc": "当年的一场冲突使他们不打不相识，后来没料到又在稷下相遇，他们是南荒的“同乡人”，惺惺相惜的稷下校友，以及“直来直往”的“同类”人……"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "狄仁杰",
+      "relationships": [
+        {
+          "id": 173,
+          "hero": "李元芳",
+          "relationship": "助手",
+          "desc": "有着大耳朵的可爱少年，屈服于某个男人的威逼和高额工资利诱，从事起包打听的“密探”行当。"
         },
         {
-          "relation": "不知身份的老师",
-          "id": 12
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "君主",
+          "desc": "尽管有人背地里嘲笑狄仁杰是女皇的忠犬，可那又有什么关系呢？二人相识于微时那份信任旁人大概永远不会懂。"
+        },
+        {
+          "id": 537,
+          "hero": "司空震",
+          "relationship": "同僚",
+          "desc": "共事十载的同僚，一起为国家解决过许多难题，彼此理念虽不同，但出发点都是为了国民，只是其为人却太过固执，想要说服他，必须得找到其心底最在意的那个点。"
+        },
+        {
+          "id": 538,
+          "hero": "云缨",
+          "relationship": "助手",
+          "desc": "冒失冲动，张扬浮躁……但是也热心正义，勇敢无畏，是值得培养的探员。"
+        },
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "疑犯",
+          "desc": "尽管明世隐靠精准卜卦获得女帝赏识，作为女帝心腹的狄仁杰却始终疑虑重重，否则怎会对这位神秘方士始终保持着警惕的关注呢？"
+        },
+        {
+          "id": 513,
+          "hero": "上官婉儿",
+          "relationship": "同盟",
+          "desc": "上官婉儿是在自己上任首日就递交一纸诉状的伸冤者，望着端庄娟秀苍劲有力的字迹，狄仁杰着手接近数年前冤案的真相。"
+        },
+        {
+          "id": 131,
+          "hero": "李白",
+          "relationship": "逮捕对象",
+          "desc": "谁这么嚣张，敢在堂堂长安治安官狄仁杰大人的眼皮底下撒酒疯、在朱雀门上用剑刻诗，无奈女帝不让逮捕，狄大人只能暗中观察动向咯。"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "张良",
+      "relationships": [
+        {
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "师父",
+          "desc": "能让智者姜子牙寄予厚望的非天才弟子张良莫属，只要张良愿意，随时可能成为神，这样的天纵奇才不用来当自己的继承人，岂不可惜？"
+        },
+        {
+          "id": 149,
+          "hero": "刘邦",
+          "relationship": "君主",
+          "desc": "天才也会有烦恼吗？对不通世俗的张良来说好在总有刘邦解围，自然信赖无比成为好友。所以天才良甘心追随刘邦，并帮他夺取奇迹的力量。"
+        },
+        {
+          "id": 174,
+          "hero": "虞姬",
+          "relationship": "师妹",
+          "desc": "古老寺院中，师兄妹俩被秘密培养一同长大，他们有着同样的老师传授给他们知识和魔法，他们也继承了老师对抗魔种的共同信仰。"
+        },
+        {
+          "id": 135,
+          "hero": "项羽",
+          "relationship": "敌人",
+          "desc": "是谁让天才法师张良始终警惕注视呢？——云梦泽迅速崛起的名叫项羽的青年，如师父所言，他就是肩负着使命的张良要对付的敌人么？"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "墨子",
+      "relationships": [
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "同事",
+          "desc": "复兴了机关术的墨子、最伟大的智者老夫子、能将梦化为现实的庄周，乃王者大陆智慧的三座”高峰“，被并称为“稷下三贤者”。"
+        },
+        {
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "同事",
+          "desc": "复兴了机关术的墨子、最伟大的智者老夫子、能将梦化为现实的庄周，乃王者大陆智慧的三座”高峰“，被并称为“稷下三贤者”。"
+        },
+        {
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "校友",
+          "desc": "曾经的朋友，因为墨子把鲁班七号送到玄雍走失后开始看不顺眼他，两个人很多年没说过话了"
+        },
+        {
+          "id": 112,
+          "hero": "鲁班七号",
+          "relationship": "校友的孩子",
+          "desc": "哼，这个叫墨子的民工竟抢先让机关术重现世间，所以你就是我鲁班大师最不能容忍，最痛恨的人！创造天才破坏性机关鲁班七号，用以对抗墨子的机关！"
+        },
+        {
+          "id": 118,
+          "hero": "孙膑",
+          "relationship": "学子",
+          "desc": "多亏老师墨子及时赶到，被师兄陷害的孙膑才得以保命，虽失去双腿，但机关翼代替双腿的绝妙发明，着实令三贤者感到惊艳。"
+        },
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "学子",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "学子",
+          "desc": "令人头疼的问题学生，需要严厉教导。"
         }
       ]
     },
     {
       "id": 113,
+      "name": "庄周",
+      "relationships": [
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "同事",
+          "desc": "复兴了机关术的墨子、最伟大的智者老夫子、能将梦化为现实的庄周，乃王者大陆智慧的三座”高峰“，被并称为“稷下三贤者”。"
+        },
+        {
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "同事",
+          "desc": "复兴了机关术的墨子、最伟大的智者老夫子、能将梦化为现实的庄周，乃王者大陆智慧的三座”高峰“，被并称为“稷下三贤者”。"
+        },
+        {
+          "id": 137,
+          "hero": "司马懿",
+          "relationship": "学子",
+          "desc": "来自武都的少年司马懿中了君主的埋伏，在被军队暗杀的千钧一发之际，骑鲲的贤者路过相救，把这个孩子“捡”回了稷下学院。"
+        },
+        {
+          "id": 523,
+          "hero": "西施",
+          "relationship": "学子",
+          "desc": "一场针对西施精心筹划的诱捕，被一位云游至此的学者在危机时刻出手相救，少女在蓝色能量场域的笼罩下逃出生天，跟着那位学者一路到了稷下学院。"
+        },
+        {
+          "id": 531,
+          "hero": "镜",
+          "relationship": "学子",
+          "desc": "贤者为镜开启了进入万镜之厅的大门，赢得了获取力量的契机。"
+        },
+        {
+          "id": 110,
+          "hero": "嬴政",
+          "relationship": "学子",
+          "desc": "为建设更为强大的玄雍，嬴政曾求学稷下，习得魔道和武技，并与之结盟，成为稷下顶尖人才投奔的首选之国。"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "学子",
+          "desc": "从小在稷下看着长大的学生，欣赏其自由的天性，只是自家的鲲似乎对其意见很大。"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "孙膑",
+      "relationships": [
+        {
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "机关老师",
+          "desc": "多亏老师墨子及时赶到，被师兄陷害的孙膑才得以保命，虽失去双腿，但机关翼代替双腿的绝妙发明，着实令三贤者感到惊艳。"
+        },
+        {
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "星之队队友",
+          "desc": "厉害的队友；重造之恩。"
+        },
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "星之队队友",
+          "desc": "危险中，孙膑又一次等到了伙伴，不是田忌，是带着一贯臭屁爽朗笑容的曜，用奇怪眼光打量着自己机关翼的“怪大叔”，笑起来很好看的西施姐姐和暴躁小子“火炮犽”....."
+        },
+        {
+          "id": 523,
+          "hero": "西施",
+          "relationship": "星之队队友",
+          "desc": "多亏老师墨子及时赶到，被师兄陷害的孙膑才得以保命，虽失去双腿，但机关翼代替双腿的绝妙发明，着实令三贤者感到惊艳。"
+        },
+        {
+          "id": 524,
+          "hero": "蒙犽",
+          "relationship": "星之队队友",
+          "desc": "厉害的队友"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "典韦",
+      "relationships": [
+        {
+          "id": 184,
+          "hero": "蔡文姬",
+          "relationship": "被守护者",
+          "desc": "典韦野兽般的身体中，挣扎着痛苦和温柔，是他亲手害死了恩师蔡文姬的父亲，也是他，为了守护幼小的蔡文姬将自己出卖给曹操。"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "主公",
+          "desc": "一枚棋子的命运…… 当蔡文姬携带玉玺离开魏都后，曹操继续用典韦失手杀死蔡邕的谎言为筹码，令典韦不敢背叛曹操。"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "达摩",
+      "relationships": [
+        {
+          "id": 540,
+          "hero": "金蝉",
+          "relationship": "相救之人",
+          "desc": "自东土而来寻找“真谛”的行者，从西方而来试图打破迷惘的拳僧，大漠相逢后，他们各奔东西继续自己的修行。"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "name": "韩信",
+      "relationships": [
+        {
+          "id": 135,
+          "hero": "项羽",
+          "relationship": "敌人",
+          "desc": "击毙他的，是灼热的爱，还是冰冷的恨？被幻术控制的虞姬迷惑了项羽，射出的弩箭穿透了他，而黑暗中的韩信正在等待着一击必杀的时机。"
+        },
+        {
+          "id": 149,
+          "hero": "刘邦",
+          "relationship": "君主",
+          "desc": "—敬请期待—"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "亚瑟",
+      "relationships": [
+        {
+          "id": 142,
+          "hero": "安琪拉",
+          "relationship": "部下",
+          "desc": "要怪就怪自己亲手酿成的魔法乌龙吧！堂堂大法师万万没想到，曾被迫听命于亚瑟王，这次，命运的安排让她再度遇到名为亚瑟的圣骑士。"
+        },
+        {
+          "id": 155,
+          "hero": "艾琳",
+          "relationship": "队员",
+          "desc": "机灵俏皮的精灵带来了最与众不同的色彩，骑士团都因此产生了变化。即使偶尔因冒险而闯祸，大家也会无条件原谅她。另外，希望她能放弃教自己跳舞的执念。"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "孙尚香",
+      "relationships": [
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "钦慕之人",
+          "desc": "特立独行的傲娇公主与没落的王室后裔之间，之所以未来可能萌生叫做爱情的东西，源自于他们希望用炮火来为国家未来开路的共同心愿和理想。"
+        },
+        {
+          "id": 510,
+          "hero": "孙策",
+          "relationship": "兄长",
+          "desc": "兄妹二人从小一起长大，妹妹冲着那些只敢打劫穷人的流氓开炮，哥哥学习着做船员，是江东青年才俊里闪耀的存在！"
+        },
+        {
+          "id": 106,
+          "hero": "小乔",
+          "relationship": "闺蜜",
+          "desc": "出人意料，傲娇公主孙尚香竟与周瑜妻子小乔成为了无话不谈的好闺蜜，常常一起分享彼此嗜好的言情小说，讨论喜欢的男生类型。"
+        },
+        {
+          "id": 124,
+          "hero": "周瑜",
+          "relationship": "监护人",
+          "desc": "傲娇公主孙尚香在兄长派“铁血都督”周瑜以强烈手段扫荡不法之徒时请缨同行，一路跟随周瑜开始自己武道修行之旅。很快便扬名沿海。"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "刘禅",
+      "relationships": [
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "父亲",
+          "desc": "刘备的“被坑爹”人生，起始于莫名被人塞了个装着哇哇大哭婴儿的包裹，为帮婴儿躲过一劫，急中生智称其为自己儿子，姓刘名禅字阿斗……"
+        },
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "师父",
+          "desc": "小霸王刘禅的机关术师承于诸葛亮，最大的烦恼是如何证明自己青出于蓝，不过看着眼前不小心摧毁的民房，还是先溜为好，等师傅来买单吧~"
+        },
+        {
+          "id": 184,
+          "hero": "蔡文姬",
+          "relationship": "对手",
+          "desc": "害死爹爹的仇人诸葛亮没遇到，蔡文姬却遇到了自称为诸葛亮弟子——一个骑着机关熊猫，自恋，颜值不够又自说自话的“讨厌鬼”。"
+        },
+        {
+          "id": 533,
+          "hero": "阿古朵",
+          "relationship": "大当家的",
+          "desc": "男子汉才不会和女生计较，二当家就二当家吧，二叔也是二当家，就很威风嘛！"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "扁鹊",
+      "relationships": [
+        {
+          "id": 120,
+          "hero": "白起",
+          "relationship": "病人",
+          "desc": "第一次，扁鹊协助徐福用魔道手术把白起改造成兵器；第二次，白起找到扁鹊再次施术让自己脱离对血的依赖，然而手术的残酷代价是残酷的。"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "宫本武藏",
+      "relationships": [
+        {
+          "id": 131,
+          "hero": "李白",
+          "relationship": "对手",
+          "desc": "在剑之一道上志趣相投的剑圣和剑仙，定下了三年决斗之约，如今，已是赴约之时。"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "项羽",
+      "relationships": [
+        {
+          "id": 174,
+          "hero": "虞姬",
+          "relationship": "爱人",
+          "desc": "一个是自然精灵般的美人，一个是勇猛无匹的战士，最浪漫的邂逅，最深挚的爱恋，却换来最悲怆的结局，这是残酷宿命的操纵和安排吗？"
+        },
+        {
+          "id": 149,
+          "hero": "刘邦",
+          "relationship": "敌人",
+          "desc": "鸿门宴的谈判破裂后，项羽和刘邦的大军，对峙于名叫垓下的地方。云梦泽，只能有一个王。"
+        },
+        {
+          "id": 150,
+          "hero": "韩信",
+          "relationship": "敌人",
+          "desc": "击毙他的，是灼热的爱，还是冰冷的恨？被幻术控制的虞姬迷惑了项羽，射出的弩箭穿透了他，而黑暗中的韩信正在等待着一击必杀的时机。"
+        },
+        {
+          "id": 156,
+          "hero": "张良",
+          "relationship": "敌人",
+          "desc": "是谁让天才法师张良始终警惕注视呢？——云梦泽迅速崛起的名叫项羽的青年，如师父所言，他就是肩负着使命的张良要对付的敌人么？"
+        },
+        {
+          "id": 187,
+          "hero": "东皇太一",
+          "relationship": "敌人",
+          "desc": "—敬请期待—"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "程咬金",
+      "relationships": [
+        {
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "君主",
+          "desc": "爱肌肉爱流汗，热血自由如程咬金这般，对考勤制度啥的自然不待见，女帝登基后，麾下战功赫赫的他便隐姓埋名周游大陆去了。"
+        },
+        {
+          "id": 538,
+          "hero": "云缨",
+          "relationship": "忘年之交",
+          "desc": "世界上最有趣的小丫头片子。她以后，一定也会成为和那位一样的英雄吧。"
+        },
+        {
+          "id": 544,
+          "hero": "赵怀真",
+          "relationship": "世侄",
+          "desc": "程咬金是鸿胪寺卿，赵怀真之父是鸿胪寺少卿，两家乃世交，程咬金外出之时，亦曾多方为赵怀真留意治病之法。"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "name": "王昭君",
+      "relationships": []
+    },
+    {
+      "id": 142,
+      "name": "安琪拉",
+      "relationships": [
+        {
+          "id": 166,
+          "hero": "亚瑟",
+          "relationship": "统帅",
+          "desc": "要怪就怪自己亲手酿成的魔法乌龙吧！堂堂大法师万万没想到，曾被迫听命于亚瑟王，这次，命运的安排让她再度遇到名为亚瑟的圣骑士。"
+        },
+        {
+          "id": 155,
+          "hero": "艾琳",
+          "relationship": "闺蜜",
+          "desc": "明明是个离家出走的傻小孩，却总是声称要做自己“姐姐”。那么就把她拉入自己有趣的人生，去圣殿“闯祸”吧！奇怪的是，她怎么总能恰好逃过自己的捉弄?"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "曹操",
+      "relationships": [
+        {
+          "id": 123,
+          "hero": "吕布",
+          "relationship": "棋子",
+          "desc": "对枭雄曹操来说，即使战神吕布也只是棋盘上的棋子而已。用阴谋杀死吕布，又以血族之法将他秘密重生，获得曹操一统天下真正的杀手锏。"
+        },
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "敌人",
+          "desc": "刘备曾与曹操称兄道弟，在青梅煮酒的筵席上向曹操吐露了祖传的天书秘密，没想到觊觎天书的曹操转身便率军队前来夺走了天书。"
+        },
+        {
+          "id": 184,
+          "hero": "蔡文姬",
+          "relationship": "义女",
+          "desc": "“认贼做父”的蔡文姬，怎么会知道自己崇拜的“孟德大人”竟是将父亲和族人置于死地的仇人，而收养她只是为了利用她的天赋而已。"
+        },
+        {
+          "id": 125,
+          "hero": "元歌",
+          "relationship": "部下",
+          "desc": "机关师元歌用巧舌如簧的傀儡赢得了君主曹操的信任。他离间曹操与得力部下徐福，在赤壁之战中给予了曹操沉重一击。一切都是为了师兄诸葛亮。"
+        },
+        {
+          "id": 137,
+          "hero": "司马懿",
+          "relationship": "部下",
+          "desc": "天才军师司马懿归顺于曹操麾下，但曹操不知道的是，自己其实是司马懿的杀父仇人！司马懿的计划正在一步步酝酿！"
+        },
+        {
+          "id": 129,
+          "hero": "典韦",
+          "relationship": "部下",
+          "desc": "一枚棋子的命运……害死恩师蔡邕，是因典韦被曹操谎言欺骗。而将残躯出卖给曹操，又是因为放不下曹操手里老师幼小的女儿蔡文姬。"
+        },
+        {
+          "id": 126,
+          "hero": "夏侯惇",
+          "relationship": "部下",
+          "desc": "关于残酷的生存抉择——当曹操为新生展开阴谋时，唯独夏侯惇用一只眼睛的代价活下来，为遇到更多决斗的对手，他被说服投入曹操麾下。"
+        },
+        {
+          "id": 528,
+          "hero": "澜",
+          "relationship": "背叛的手下",
+          "desc": "在战场死人堆里一眼相中的孤儿，被收养并“打磨”成最锋利的“刀”，未曾料想，这“刀口”竟朝向了自己……"
+        },
+        {
+          "id": 127,
+          "hero": "甄姬",
+          "relationship": "儿媳",
+          "desc": "出身高贵的甄姬竟被曹丕的痴情打动，陷入“婚姻圈套”中，抛弃一切嫁入后，才发现曹氏一族只是为了得到她血脉中传承的力量而已。"
+        },
+        {
+          "id": 141,
+          "hero": "貂蝉",
+          "relationship": "部下",
+          "desc": "绝世舞姬貂蝉协助曹操实施他野望的阴谋，一场胜利却依旧无法觅到所爱之人，只能无奈踏入曹营，暂时依附曹操，期待重逢之日。"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "周瑜",
+      "relationships": [
+        {
+          "id": 106,
+          "hero": "小乔",
+          "relationship": "爱人",
+          "desc": "英俊的都督周瑜，天真的少女小乔，因一场误会而相遇，名为的爱情的力量平息了瘟疫，也叩开了二人的心门。"
+        },
+        {
+          "id": 510,
+          "hero": "孙策",
+          "relationship": "挚友",
+          "desc": "从小一起厮混的兄弟！高材生周瑜从稷下毕业后，和挚友孙策扬帆开启了他们伟大的事业，解救了江郡。不幸的是，命运终让他们生死分离。"
+        },
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "周瑜远道求学于稷下学院。三生有幸的是能师承于最伟大的智者“稷下三贤者”，三生不幸的是同学中有一位叫诸葛亮。"
+        },
+        {
+          "id": 111,
+          "hero": "孙尚香",
+          "relationship": "被监护者",
+          "desc": "傲娇公主孙尚香在兄长派“铁血都督”周瑜以强烈手段扫荡不法之徒时请缨同行，一路开始自己武道修行之旅。很快便扬名沿海。"
+        },
+        {
+          "id": 191,
+          "hero": "大乔",
+          "relationship": "妻姐",
+          "desc": "曾经大乔用灯火为周瑜和孙策的船队引航，也让她与孙策相遇相爱；命运却残酷行进，阴谋下孙策的早逝让大乔和周瑜都失去了重要的人。"
+        },
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "对手",
+          "desc": "“既生瑜何生亮！”对高傲的周瑜来说，有个人永远是噩梦。同在稷下求学，但天才诸葛亮样样都第一，千年老二的帽子稳稳扣在周瑜头上。"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "name": "牛魔",
+      "relationships": [
+        {
+          "id": 167,
+          "hero": "孙悟空",
+          "relationship": "曾经的战友",
+          "desc": "曾同为奴隶，曾共同抗争，曾肝胆相照……但只是曾经，生死和利益带来选择的分歧，千年后青山下的猴子还记得当初的友谊么？"
+        },
+        {
+          "id": 179,
+          "hero": "女娲",
+          "relationship": "统治神",
+          "desc": "造物主女娲绝不许谁破坏她守护的人间，牛魔于是趋利避害，最终选择背叛伙伴，从奴隶领袖摇身一变为荒漠霸主。"
+        },
+        {
+          "id": 511,
+          "hero": "猪八戒",
+          "relationship": "曾经的战友",
+          "desc": "当牛魔与猴子决心起义推翻超智慧生命体时，以西瓜山“诱骗”猪八戒一同起义，可是不久之后，计划被泄露，魔种一方陷入绝境。猴子被抓，牛魔消失不见……"
+        },
+        {
+          "id": 540,
+          "hero": "金蝉",
+          "relationship": "伙伴",
+          "desc": "前世天性慈悲的神职行者因怜悯魔种之苦离开倒悬天，与悟空等人共度苦难，但不知为何总在这牛头眼中看到一丝警惕。"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "孙悟空",
+      "relationships": [
+        {
+          "id": 511,
+          "hero": "猪八戒",
+          "relationship": "战友",
+          "desc": "在日之塔辛勤劳苦的日子里猪八戒与孙悟空建立了友谊，后来在魔种起义悟空被擒后，他强忍饥饿孤军奋战，杀进神居住的城市的最中心，誓死寻求挚友下落。"
+        },
+        {
+          "id": 540,
+          "hero": "金蝉",
+          "relationship": "师傅",
+          "desc": "一个是生性桀骜的魔种头头，一位前世是天性慈悲的神职行者，从未料想会相逢在这山脚之下，开启一段宿命的旅程。"
+        },
+        {
+          "id": 168,
+          "hero": "牛魔",
+          "relationship": "背叛的战友",
+          "desc": "曾同为奴隶，曾共同抗争，曾肝胆相照……但只是曾经，生死和利益带来选择的分歧，千年后青山下的猴子还记得当初的友谊么？"
+        },
+        {
+          "id": 179,
+          "hero": "女娲",
+          "relationship": "统治神",
+          "desc": "“人类历史上黑暗的一天”——对孙悟空发动的战役来说大概是最风光的注解，但对创世者女娲来说，这简直是最不能容忍的事情！"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "芈月",
+      "relationships": [
+        {
+          "id": 110,
+          "hero": "嬴政",
+          "relationship": "孙子",
+          "desc": "当年幼的孙子嬴政逐渐长大成人，曾独揽朝政的太后芈月的权力便渐如风中烛火，一场政变后，芈月彻底下台，由嬴政掌握全部政权。"
+        },
+        {
+          "id": 120,
+          "hero": "白起",
+          "relationship": "臣子",
+          "desc": "在芈月和徐福的实验下，少年白起被浸泡进药池并实施了魔道手术，但白起反而认为这达成了自己变强的心愿——成为“利剑”。"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "name": "貂蝉",
+      "relationships": [
+        {
+          "id": 123,
+          "hero": "吕布",
+          "relationship": "爱慕之人",
+          "desc": "貂蝉曼妙的舞姿，总令吕布回忆起很久以前篝火旁那片刻的喜悦，为之痴狂。吕布的死亡是貂蝉的算计，但有时她自己也不禁生疑，是否有什么计划外的情愫悄然生根？"
+        },
+        {
+          "id": 107,
+          "hero": "赵云",
+          "relationship": "旧识",
+          "desc": "曾暗暗情愫相寄的人，却在朝暮间不辞而别。辗转乱世的她不断警醒自己，要活到重逢的那天。可意料之外的悸动却让她生疑：自己是否固执地把怀念错当爱慕？"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "主公",
+          "desc": "绝世舞姬貂蝉协助曹操实施他野望的阴谋，一场胜利却依旧无法觅到所爱之人，只能无奈踏入曹营，暂时依附曹操，期待重逢之日。"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "吕布",
+      "relationships": [
+        {
+          "id": 141,
+          "hero": "貂蝉",
+          "relationship": "爱慕之人",
+          "desc": "貂蝉曼妙的舞姿，总令吕布回忆起很久以前篝火旁那片刻的喜悦，为之痴狂。吕布的死亡是貂蝉的算计，但有时她自己也不禁生疑，是否有什么计划外的情愫悄然生根？"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "敌人",
+          "desc": "对枭雄曹操来说，即使战神吕布也只是棋盘上的棋子而已。用阴谋杀死吕布，又以血族之法将他秘密重生，获得曹操一统天下真正的杀手锏。"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "name": "花木兰",
+      "relationships": [
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "对手",
+          "desc": "大漠之夜，本应为敌人的二人却有了一场宿命的较量，刀与剑的交锋中，某种玄妙的情愫在滋长，这大概……类似爱情还是其他？"
+        },
+        {
+          "id": 193,
+          "hero": "铠",
+          "relationship": "长城守卫军队友",
+          "desc": "“就叫你铠吧，快起来，别装死。”就这样，几乎倒毙在长城外的异乡剑士从此以铠之名，被花木兰从战场中带回加入长城守卫军。"
+        },
+        {
+          "id": 196,
+          "hero": "百里守约",
+          "relationship": "长城守卫军队友",
+          "desc": "为寻找长城陷落战乱中失散的弟弟，百里守约加入了长城守卫军，从此成为队长花木兰手下的一员，令上司头疼的是他对任务实在太过积极。"
+        },
+        {
+          "id": 195,
+          "hero": "百里玄策",
+          "relationship": "长城守卫军队友",
+          "desc": "在师父训练下威震一方的玄策万万想不到竟会遇到强大的对手——严格如家长般的花木兰，并在她的说服下加入长城守卫军与哥哥重聚。"
+        },
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "长城守卫军队友",
+          "desc": "若不是花木兰的激励和劝慰，自我放逐的苏烈恐怕依旧流落在塞外，但有些羁绊是永恒存在的，比如信念与长城，于是苏烈选择重返。"
+        },
+        {
+          "id": 537,
+          "hero": "司空震",
+          "relationship": "上司",
+          "desc": "一个能力出众的统帅，敬佩他的能力和守护长安的决心，对边境了解极多，经常留意外族的动向，也能理解边境之苦，但对其过往却不是很了解。"
+        },
+        {
+          "id": 542,
+          "hero": "暃",
+          "relationship": "偶遇",
+          "desc": "率队前往马帮处调查变异魔种时，曾遇见个极为浮夸的男人，没料到一筹莫展之际，他竟将情报“分享”给了自己。"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "后羿",
+      "relationships": [
+        {
+          "id": 515,
+          "hero": "嫦娥",
+          "relationship": "爱人",
+          "desc": "嫦娥家族因私自启蒙魔种，被抓到日之塔顶端进行公开处刑，神职者中最刚强的弓箭手射偏了箭，月光家族最后一人因此留存。有人说他失手，有人说他起了怜悯之心....."
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "张飞",
+      "relationships": [
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "结拜兄弟",
+          "desc": "命运的羁绊让刘备、关羽、张飞邂逅于督邮府前，记忆碎片唤起三人过往时空中曾同生共死的记忆。泪流和哽咽中三人再度结义，重续前缘。"
+        },
+        {
+          "id": 140,
+          "hero": "关羽",
+          "relationship": "结拜兄弟",
+          "desc": "命运的羁绊让刘备、关羽、张飞邂逅于督邮府前，记忆碎片唤起三人过往时空中曾同生共死的记忆。泪流和哽咽中三人再度结义，重续前缘。"
+        },
+        {
+          "id": 192,
+          "hero": "黄忠",
+          "relationship": "战友",
+          "desc": "别看黄忠手里那把老炮锈迹斑斑，经过机关师张飞亲手擦拭和改装后简直焕然一新！铜制炮管比黄金更闪亮！是时候来发炸裂的开场了！"
+        },
+        {
+          "id": 533,
+          "hero": "阿古朵",
+          "relationship": "可怜的小鬼",
+          "desc": "可怜的小鬼头，在山里吃不饱，穿不暖。要让我饿肚子，我早就疯了。"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "name": "刘备",
+      "relationships": [
+        {
+          "id": 140,
+          "hero": "关羽",
+          "relationship": "结拜兄弟",
+          "desc": "命运的羁绊让刘备、关羽、张飞邂逅于督邮府前，记忆碎片唤起三人过往时空中曾同生共死的记忆。泪流和哽咽中三人再度结义，重续前缘。"
+        },
+        {
+          "id": 171,
+          "hero": "张飞",
+          "relationship": "结拜兄弟",
+          "desc": "命运的羁绊让刘备、关羽、张飞邂逅于督邮府前，记忆碎片唤起三人过往时空中曾同生共死的记忆。泪流和哽咽中三人再度结义，重续前缘。"
+        },
+        {
+          "id": 114,
+          "hero": "刘禅",
+          "relationship": "儿子",
+          "desc": "刘备的“被坑爹”人生，起始于莫名被人塞了个装着哇哇大哭婴儿的包裹，为帮婴儿躲过一劫，急中生智称其为自己儿子，姓刘名禅字阿斗……"
+        },
+        {
+          "id": 111,
+          "hero": "孙尚香",
+          "relationship": "钦慕之人",
+          "desc": "特立独行的傲娇公主与没落的王室后裔之间，之所以未来可能萌生叫做爱情的东西，源自于他们希望用炮火来为国家未来开路的共同心愿和理想。"
+        },
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "军师",
+          "desc": "当刘备第一百八十次装作偶然经过诸葛亮的小草庐时，专注于天书探究对拜访者统统无视的天才终于被打动，从此成为军师开始辅佐刘备。"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "仇敌",
+          "desc": "刘备曾与曹操称兄道弟，在青梅煮酒的筵席上向曹操吐露了祖传的天书秘密，没想到觊觎天书的曹操转身便率军队前来夺走了天书。"
+        },
+        {
+          "id": 107,
+          "hero": "赵云",
+          "relationship": "部下",
+          "desc": "影子已死，死于反对龙投靠曹操野心的分歧中。长坂坡一役中重挫曹操的那个扛着长枪的男人，他叫赵子龙，已经是刘备麾下以一敌百的存在。"
+        },
+        {
+          "id": 192,
+          "hero": "黄忠",
+          "relationship": "部下",
+          "desc": "老黄忠英雄迟暮却壮心依然，他离开昔日军团加入刘备麾下，和新伙伴们并肩而战，去完成近乎不可能完成的任务。"
+        },
+        {
+          "id": 533,
+          "hero": "阿古朵",
+          "relationship": "可爱的小鬼",
+          "desc": "哇好可爱的小鬼！比我们家的混世魔王乖多了！"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "name": "兰陵王",
+      "relationships": [
+        {
+          "id": 154,
+          "hero": "花木兰",
+          "relationship": "对手",
+          "desc": "大漠之夜，本应为敌人的二人却有了一场宿命的较量，刀与剑的交锋中，某种玄妙的情愫在滋长，这大概……类似爱情还是其他？"
+        },
+        {
+          "id": 195,
+          "hero": "百里玄策",
+          "relationship": "徒弟",
+          "desc": "兰陵王这般苛刻严厉的师父，经年累月的残忍训练，造就了威震戈壁的玄策，冷酷背后藏着满满的爱，独来独往的风格也深深影响了徒儿。"
+        },
+        {
+          "id": 542,
+          "hero": "暃",
+          "relationship": "盟友与幼时同窗",
+          "desc": "同为云中王子，幼时千窟求学那会儿俩人都是出了名的逃课王，后来虽经历不同，冥冥中又似乎肩负某种同样的使命。"
+        },
+        {
+          "id": 508,
+          "hero": "伽罗",
+          "relationship": "盟友与幼时同窗",
+          "desc": "幼时曾在千窟城一同学习的同窗。面对这场席卷整个云中的魔种之灾，将联合起来组成“云中沙之盟”，为重现失落之地的荣光而奋斗。"
+        },
+        {
+          "id": 534,
+          "hero": "桑启",
+          "relationship": "沙之盟盟友",
+          "desc": "一个有趣的小家伙，他书里的故事为我们的旅途增添了许多乐趣。"
+        },
+        {
+          "id": 548,
+          "hero": "戈娅",
+          "relationship": "沙之盟盟友",
+          "desc": "暃的朋友，因为调查云中蝶认识的。说话难听，功夫不错。"
+        },
+        {
+          "id": 521,
+          "hero": "海月",
+          "relationship": "敌对",
+          "desc": "企图复活魔神帝俊，搅乱云中漠地之人。她的手下擅长驾驭魔种之术，莫非金庭王城的毁灭也与她有关？"
+        },
+        {
+          "id": 540,
+          "hero": "金蝉",
+          "relationship": "干戈化玉帛",
+          "desc": "误入金庭遗迹的行者，遭遇那在不复存在的“国”里四处流浪着的暗影，一场智识的交谈化解了一场误会的战斗。"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "name": "娜可露露",
+      "relationships": [
+        {
+          "id": 130,
+          "hero": "宫本武藏",
+          "relationship": "寻找之人",
+          "desc": "如何平息血族之乱？如何拯救生灵涂炭的扶桑？如何传递遇害少女阿通的期许和祝福？巫女娜可露露踏上寻找阿通青梅竹马的武藏的旅途。"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "李白",
+      "relationships": [
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "好友",
+          "desc": "你爱种花，我爱舞剑，你有美酒，我有好诗，二人还曾饮过送别的美酒，难怪长城的月色下，苏烈常常会想起和这位友人的诀别。"
+        },
+        {
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "君主",
+          "desc": "只有狂傲如李白才会拒绝女帝入朝为官的邀请吧。但和女帝密谈后，李白竟开始了自我放逐，那场谈话中，二人间究竟发生了什么？"
+        },
+        {
+          "id": 133,
+          "hero": "狄仁杰",
+          "relationship": "治安官",
+          "desc": "谁这么嚣张，敢在堂堂长安治安官狄仁杰大人的眼皮底下撒酒疯、在朱雀门上用剑刻诗，无奈女帝不让逮捕，狄大人只能暗中观察动向咯。"
+        },
+        {
+          "id": 130,
+          "hero": "宫本武藏",
+          "relationship": "对手",
+          "desc": "在剑之一道上志趣相投的剑圣和剑仙，定下了三年决斗之约，如今，已是赴约之时。"
+        },
+        {
+          "id": 542,
+          "hero": "暃",
+          "relationship": "友人",
+          "desc": "玉城是个好地方，李白记忆里，除了玉石那里还有个喜欢做东，不吝琼浆佳肴，喜欢与他喝酒谈天极为投契的朋友。"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "钟馗",
+      "relationships": []
+    },
+    {
+      "id": 173,
+      "name": "李元芳",
+      "relationships": [
+        {
+          "id": 133,
+          "hero": "狄仁杰",
+          "relationship": "长官",
+          "desc": "有着大耳朵的可爱少年，屈服于某个男人的威逼和高额工资利诱，从事起包打听的“密探”行当。"
+        },
+        {
+          "id": 538,
+          "hero": "云缨",
+          "relationship": "同僚",
+          "desc": "云缨全身上下写满了“工作量”三个字，呜呜呜。不过，自从她来大理寺之后，这儿好像热闹了不少。"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "刘邦",
+      "relationships": [
+        {
+          "id": 135,
+          "hero": "项羽",
+          "relationship": "敌人",
+          "desc": "鸿门宴的谈判破裂后，项羽和刘邦的大军，对峙于名叫垓下的地方。云梦泽，只能有一个王。"
+        },
+        {
+          "id": 156,
+          "hero": "张良",
+          "relationship": "臣子",
+          "desc": "天才也会有烦恼吗？对不通世俗的张良来说好在总有刘邦解围，自然信赖无比成为好友。所以天才良甘心追随刘邦，并帮他夺取奇迹的力量。"
+        },
+        {
+          "id": 150,
+          "hero": "韩信",
+          "relationship": "臣子",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 187,
+          "hero": "东皇太一",
+          "relationship": "敌人",
+          "desc": "—敬请期待—"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "name": "不知火舞",
+      "relationships": []
+    },
+    {
+      "id": 174,
+      "name": "虞姬",
+      "relationships": [
+        {
+          "id": 135,
+          "hero": "项羽",
+          "relationship": "爱人",
+          "desc": "一个是自然精灵般的美人，一个是勇猛无匹的战士，最浪漫的邂逅，最深挚的爱恋，却换来最悲怆的结局，这是残酷宿命的操纵和安排吗？"
+        },
+        {
+          "id": 156,
+          "hero": "张良",
+          "relationship": "师兄",
+          "desc": "古老寺院中，师兄妹俩被秘密培养一同长大，他们有着同样的老师传授给他们知识和魔法，他们也继承了老师对抗魔种的共同信仰。"
+        },
+        {
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "师父",
+          "desc": "虞姬是个听话又乖巧的好弟子，她仰慕老师太古魔导姜子牙，所以坚守遵循老师教导的抵御魔种。然而她不知道，自身的存在本身就是一个计划好的陷阱……"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "关羽",
+      "relationships": [
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "结拜兄弟",
+          "desc": "命运的羁绊让刘备、关羽、张飞邂逅于督邮府前，记忆碎片唤起三人过往时空中曾同生共死的记忆。泪流和哽咽中三人再度结义，重续前缘。"
+        },
+        {
+          "id": 171,
+          "hero": "张飞",
+          "relationship": "结拜兄弟",
+          "desc": "命运的羁绊让刘备、关羽、张飞邂逅于督邮府前，记忆碎片唤起三人过往时空中曾同生共死的记忆。泪流和哽咽中三人再度结义，重续前缘。"
+        },
+        {
+          "id": 192,
+          "hero": "黄忠",
+          "relationship": "兄弟",
+          "desc": "刘备麾下，由大将关羽、不朽老兵黄忠、机关师张飞等人组成了一支战力豪华的队伍，他们并肩而战，所向披靡。"
+        },
+        {
+          "id": 533,
+          "hero": "阿古朵",
+          "relationship": "古怪的小鬼",
+          "desc": "一个古怪的小鬼，总是盯着我看，是在看我的帽子吗……"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "蔡文姬",
+      "relationships": [
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "义父",
+          "desc": "“认贼做父”的蔡文姬，怎么会知道自己崇拜的“孟德大人”竟是将父亲和族人置于死地的仇人，而收养她只是为了利用她的天赋而已。"
+        },
+        {
+          "id": 129,
+          "hero": "典韦",
+          "relationship": "守护者",
+          "desc": "典韦野兽般的身体中，挣扎着痛苦和温柔，是他亲手害死了恩师蔡文姬的父亲，也是他，为了守护幼小的蔡文姬将自己出卖给曹操。"
+        },
+        {
+          "id": 528,
+          "hero": "澜",
+          "relationship": "捡来的哥哥",
+          "desc": "是奉命追击玉玺可怕的“鲨鱼”杀手，也是荒岛上拼了性命背叛曹营，救了自己的人，不能让他死掉，坚决不能！"
+        },
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "父亲的挚友",
+          "desc": "爹爹生前的挚友，义父口中害死父亲的“大坏蛋”，但却从“大坏蛋”口中得知了真正的真相。"
+        },
+        {
+          "id": 114,
+          "hero": "刘禅",
+          "relationship": "对手",
+          "desc": "害死爹爹的仇人诸葛亮没遇到，蔡文姬却遇到了自称为诸葛亮弟子——一个骑着机关熊猫，自恋，颜值不够又自说自话的“讨厌鬼”。"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "夏侯惇",
+      "relationships": [
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "主公",
+          "desc": "关于残酷的生存抉择——当曹操为新生展开阴谋时，唯独夏侯惇用一只眼睛的代价活下来，为遇到更多决斗的对手，他被说服投入曹操麾下。"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "主公",
+          "desc": "关于残酷的生存抉择——当曹操为新生展开阴谋时，唯独夏侯惇用一只眼睛的代价活下来，为遇到更多决斗的对手，他被说服投入曹操麾下。"
+        },
+        {
+          "id": 528,
+          "hero": "澜",
+          "relationship": "沉默孤独少年",
+          "desc": "一个拥有“鲨鱼异能“的小子，前途无量，主公当年眼光真不赖，但这小子总是独来独往，从不和谁多聊半句。"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "name": "雅典娜",
+      "relationships": []
+    },
+    {
+      "id": 132,
+      "name": "马可波罗",
+      "relationships": [
+        {
+          "id": 504,
+          "hero": "米莱狄",
+          "relationship": "执政者",
+          "desc": "年轻的商人之子起航冒险，追寻父亲留下的知识足迹。他不知道是，他已经处于城市执政者的监视之下，肩负着寻求知识与解除诅咒方法的重任。"
+        },
+        {
+          "id": 545,
+          "hero": "莱西奥",
+          "relationship": "一船之交",
+          "desc": "父亲送给火鹰船长的船，如今传承到这个毛头小子手中……在调查火鹰号的同时，他也在考验莱西奥是否真的可靠。"
+        },
+        {
+          "id": 548,
+          "hero": "戈娅",
+          "relationship": "？",
+          "desc": "二人之间似乎颇有渊源。"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "橘右京",
+      "relationships": []
+    },
+    {
+      "id": 177,
+      "name": "成吉思汗",
+      "relationships": []
+    },
+    {
+      "id": 178,
+      "name": "杨戬",
+      "relationships": [
+        {
+          "id": 180,
+          "hero": "哪吒",
+          "relationship": "挚友",
+          "desc": "“那天起……似乎多了种心照不宣的默契……”自从哪吒救了杨戬的狗后，画风似乎从拳头交往朝着奇怪的方向前进了？这大概是男生与男生的友谊吧？"
+        },
+        {
+          "id": 179,
+          "hero": "女娲",
+          "relationship": "统治神",
+          "desc": "并非人人都能成为神的继承人，除非像杨戬一样出身高贵，又天赋异禀。可少年叛逆的热血却在升腾，怎样才算真正的”守护“呢？"
+        },
+        {
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "追随之人",
+          "desc": "杨戬作为继承人不得不执行“神”的意志——在封神战争最后终结太古魔导姜子牙，所向披靡的他能否胜过女娲都没把握战胜的对手呢？"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "太乙真人",
+      "relationships": [
+        {
+          "id": 180,
+          "hero": "哪吒",
+          "relationship": "徒弟",
+          "desc": "天下第一的傻瓜师父，竟能克服胆小和懦弱，在生死关头献祭自己来拯救徒儿，二人从替换心脏，到一起逃狱、再到陈塘关之劫，经历生生死死……"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "name": "哪吒",
+      "relationships": [
+        {
+          "id": 186,
+          "hero": "太乙真人",
+          "relationship": "师父",
+          "desc": "天下第一的傻瓜师父，竟能克服胆小和懦弱，在生死关头献祭自己来拯救徒儿，二人从替换心脏，到一起逃狱、再到陈塘关之劫，经历生生死死……"
+        },
+        {
+          "id": 178,
+          "hero": "杨戬",
+          "relationship": "挚友",
+          "desc": "“那天起……似乎多了种心照不宣的默契……”自从哪吒救了杨戬的狗后，画风似乎从拳头交往朝着奇怪的方向前进了？这大概是男生与男生的友谊吧？"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "name": "诸葛亮",
+      "relationships": [
+        {
+          "id": 137,
+          "hero": "司马懿",
+          "relationship": "敌对",
+          "desc": "曾经的同窗好友，相知、相惜，共同寻找天书碎片。到底为什么会变成现在这样呢？好友变成对峙的死敌。在山顶的天书阵中，过往的秘密正在被揭开。"
+        },
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "稷下学院有史以来最伟大的天才是谁？非师承于三贤者的诸葛亮莫属！无论魔道机关，还是智谋兵法，样样都是第一！"
+        },
+        {
+          "id": 107,
+          "hero": "赵云",
+          "relationship": "挚友",
+          "desc": "造访草庐的最初目的是守护天书，而在了解到草庐中那个天才少年所坚守的信念后，赵云终于知道自己真正想要守护的不是知识本身，而是知识的践行者、他的挚友诸葛。"
+        },
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "君主",
+          "desc": "当刘备第一百八十次装作偶然经过诸葛亮的小草庐时，专注于天书探究对拜访者统统无视的天才终于被打动，从此成为军师开始辅佐刘备。"
+        },
+        {
+          "id": 114,
+          "hero": "刘禅",
+          "relationship": "徒弟",
+          "desc": "小霸王刘禅的机关术师承于诸葛亮，最大的烦恼是如何证明自己青出于蓝，不过看着眼前不小心摧毁的民房，还是先溜为好，等师傅来买单吧~"
+        },
+        {
+          "id": 125,
+          "hero": "元歌",
+          "relationship": "学弟",
+          "desc": "来自师兄诸葛亮的鼓励，让失声的少年元歌造出完美的机关傀儡，代替自己与世界交流。为了师兄能重启奇迹，少年可以付出一切，甚至生命。"
+        },
+        {
+          "id": 124,
+          "hero": "周瑜",
+          "relationship": "校友",
+          "desc": "“既生瑜何生亮！”对高傲的周瑜来说，有个人永远是噩梦。同在稷下求学，但天才诸葛亮样样都第一，千年老二的帽子稳稳扣在周瑜头上。"
+        },
+        {
+          "id": 192,
+          "hero": "黄忠",
+          "relationship": "部下",
+          "desc": "加入刘备麾下对老黄忠来说是个不错的决定，有了军师诸葛亮的指导，黄忠那把锈迹斑斑的老炮得以被改装一新，是时候来发炸裂的开场了！"
+        },
+        {
+          "id": 184,
+          "hero": "蔡文姬",
+          "relationship": "好友之女",
+          "desc": "挚友的女儿，最近查明了老友蔡邕身陨的真相，本想将蔡文姬带到益城，但蔡文姬却并不相信他，只能在暗中保护。"
+        },
+        {
+          "id": 518,
+          "hero": "马超",
+          "relationship": "部下",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 533,
+          "hero": "阿古朵",
+          "relationship": "收编部队兼学生",
+          "desc": "收编过来的奇兵领袖小孩子，反正在营地教一个也是教，教二个也是教，一起教算了……"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "name": "黄忠",
+      "relationships": [
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "主公",
+          "desc": "老黄忠英雄迟暮却壮心依然，他离开昔日军团加入刘备麾下，和新伙伴们并肩而战，去完成近乎不可能完成的任务，老炮也很酷哦~"
+        },
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "军师",
+          "desc": "加入刘备麾下对老黄忠来说是个不错的决定，有了军师诸葛亮的指导，黄忠那把锈迹斑斑的老炮得以被改装一新，是时候来发炸裂的开场了！"
+        },
+        {
+          "id": 171,
+          "hero": "张飞",
+          "relationship": "战友",
+          "desc": "别看黄忠手里那把老炮锈迹斑斑，经过机关师张飞亲手擦拭和改装后简直焕然一新！铜制炮管比黄金更闪亮！是时候来发炸裂的开场了！"
+        },
+        {
+          "id": 140,
+          "hero": "关羽",
+          "relationship": "战友",
+          "desc": "刘备麾下，由大将关羽、不朽老兵黄忠、机关师张飞等人组成了一支战力豪华的队伍，他们并肩而战，所向披靡。"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "name": "大乔",
+      "relationships": [
+        {
+          "id": 510,
+          "hero": "孙策",
+          "relationship": "爱人",
+          "desc": "大乔的灯指引暴风雨中的孙策来到了江郡，两人一见便陷入爱河。然而孙策在阴谋中被害，生死分离让大乔走向了东风祭坛与复仇之路。"
+        },
+        {
+          "id": 106,
+          "hero": "小乔",
+          "relationship": "妹妹",
+          "desc": "乔氏诞生了一对漂亮的双胞胎，然这是灾祸的象征，家族只能做出无情抉择，培养姐姐作为继承人，妹妹则从家谱中抹去，送往他乡寄养。"
+        },
+        {
+          "id": 137,
+          "hero": "司马懿",
+          "relationship": "敌人",
+          "desc": "同样受诅咒的命运！司马懿一手解救并培养了江郡女婴大乔，最后却仍然怀有利用的私心。为了让她不脱离自己的掌控，甚至不惜杀掉她的恋人孙策。"
+        },
+        {
+          "id": 124,
+          "hero": "周瑜",
+          "relationship": "妹夫",
+          "desc": "曾经大乔用灯火为周瑜和孙策的船队引航，也让她与孙策相遇相爱；命运却残酷行进，阴谋下孙策的早逝让大乔和周瑜都失去了重要的人。"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "name": "东皇太一",
+      "relationships": [
+        {
+          "id": 189,
+          "hero": "鬼谷子",
+          "relationship": "师父",
+          "desc": "“名师出逆徒”……鬼谷子领导阴阳家们完成了奇迹“转生之术”的建造，但弟子东皇太一却窃取了神力，被背叛的鬼谷子只能选择离开。"
+        },
+        {
+          "id": 506,
+          "hero": "云中君",
+          "relationship": "臣子",
+          "desc": "他曾从大河以东逃亡而来，东皇太一将他收留并培养为使者。"
+        },
+        {
+          "id": 182,
+          "hero": "干将莫邪",
+          "relationship": "棋子",
+          "desc": "铸剑疯子干将人剑合一的登峰造诣背后，是妻子莫邪舍弃生死的成全，而这一切竟是东皇太一为斩断巨阙取得奇迹，使出的阴谋和手段。"
+        },
+        {
+          "id": 135,
+          "hero": "项羽",
+          "relationship": "敌人",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 149,
+          "hero": "刘邦",
+          "relationship": "敌人",
+          "desc": "—敬请期待—"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "干将莫邪",
+      "relationships": [
+        {
+          "id": 187,
+          "hero": "东皇太一",
+          "relationship": "敌人",
+          "desc": "铸剑疯子干将人剑合一的登峰造诣背后，是妻子莫邪舍弃生死的成全，而这一切竟是东皇太一为斩断巨阙取得奇迹，使出的阴谋和手段。"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "name": "鬼谷子",
+      "relationships": [
+        {
+          "id": 505,
+          "hero": "瑶",
+          "relationship": "徒弟",
+          "desc": "鬼谷子给阿瑶法杖，教她引导玄微子，当阿瑶走过寸草不生的土地，会有青藤长出。但阿瑶还是个孩子，被她召唤生长的东西往往在半途就变为一缕青烟而去。"
+        },
+        {
+          "id": 187,
+          "hero": "东皇太一",
+          "relationship": "徒弟",
+          "desc": "“名师出逆徒”……鬼谷子领导阴阳家们完成了奇迹“转生之术”的建造，但弟子东皇太一却窃取了神力，被背叛的鬼谷子只能选择离开。"
+        },
+        {
+          "id": 506,
+          "hero": "云中君",
+          "relationship": "被重造者",
+          "desc": "他曾被鬼谷子用转生之术重造，却因袭击奇迹而被鬼谷子弟子设下陷井试图剥夺它前世的记忆，它在搏斗中失明，逃亡到大河以西，再不念重生恩情。"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "铠",
+      "relationships": [
+        {
+          "id": 146,
+          "hero": "露娜",
+          "relationship": "妹妹",
+          "desc": "残酷的宿命是沉重的枷锁，同为魔道家族后人，妹妹被选作继承人，哥哥却背负着家族带罪的血缘，背井离乡，前往东方追溯魔道根源。"
+        },
+        {
+          "id": 154,
+          "hero": "花木兰",
+          "relationship": "长城守卫军队长",
+          "desc": "“就叫你铠吧，快起来，别装死。”就这样，几乎倒毙在长城外的异乡剑士从此以铠之名，被花木兰从战场中带回加入长城守卫军。"
+        },
+        {
+          "id": 195,
+          "hero": "百里玄策",
+          "relationship": "长城守卫军队友",
+          "desc": "若不是那声哭喊的“哥哥”，铠不会被唤起记忆踏进法阵中，作为祭品困在法阵中的玄策也不会因此得救，后来二人都加入了长城守卫军。"
+        },
+        {
+          "id": 196,
+          "hero": "百里守约",
+          "relationship": "长城守卫军队友",
+          "desc": "一个是被队长带回的异乡人，一个是为寻弟弟加入的魔种少年，奇妙的缘分让他们共同拥有长城守卫军的称号，成为小队不可或缺的一员。"
+        },
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "长城守卫军队友",
+          "desc": "同为长城守卫军，他们都是将信念寄托于长城的男人，被队长带回的异乡人成为队伍的中坚力量，而重回长城的苏烈成为最可靠的后盾。"
+        },
+        {
+          "id": 503,
+          "hero": "狂铁",
+          "relationship": "偶遇",
+          "desc": "篝火旁边的那个神秘男子似乎是来杀自己的，但交谈之后却放弃了这个想法。谈了什么呢？似乎是污染、诅咒、灾难……还有他的名字，凯因。"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "百里守约",
+      "relationships": [
+        {
+          "id": 195,
+          "hero": "百里玄策",
+          "relationship": "弟弟",
+          "desc": "父母早逝，相依为命的百里兄弟二人不幸在长城陷落的战乱中失散。幸亏后来玄策辗转重回故乡，终于与加入长城守卫军的哥哥重逢。"
+        },
+        {
+          "id": 154,
+          "hero": "花木兰",
+          "relationship": "长城守卫军队长",
+          "desc": "为寻找长城陷落战乱中失散的弟弟，百里守约加入了长城守卫军，从此成为队长花木兰手下的一员，令上司头疼的是他对任务实在太过积极。"
+        },
+        {
+          "id": 193,
+          "hero": "铠",
+          "relationship": "长城守卫军队友",
+          "desc": "一个是被队长带回的异乡人，一个是为寻弟弟加入的魔种少年，奇妙的缘分让他们共同拥有长城守卫军的称号，成为小队不可或缺的一员。"
+        },
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "长城守卫军队友",
+          "desc": "全队最擅长家务和厨艺的非守约莫属，而最年长的苏烈是全队最可靠的后盾。他们因不同的原因加入长城守卫军，却有着同样热忱的心。"
+        },
+        {
+          "id": 509,
+          "hero": "盾山",
+          "relationship": "长城守卫军队友",
+          "desc": "自从无意间发现了长城的缔造者盾山之后，守约就将这个看上去坏掉的机关造物当成了放平底锅的家具，直到某一天，长城震动，盾山重新运作。"
+        },
+        {
+          "id": 312,
+          "hero": "沈梦溪",
+          "relationship": "长城守卫军队友",
+          "desc": "曾因自己制作的爆弹吓哭了玄策，就被守约掐断了引线，并受到小镇人的谴责，落荒而逃。终于如愿以偿加入长城守卫军后的某天，竟与两兄弟成为了队友……"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "name": "百里玄策",
+      "relationships": [
+        {
+          "id": 196,
+          "hero": "百里守约",
+          "relationship": "哥哥",
+          "desc": "父母早逝，相依为命的百里兄弟二人不幸在长城陷落的战乱中失散。幸亏后来玄策辗转重回故乡，终于与加入长城守卫军的哥哥重逢。"
+        },
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "师父",
+          "desc": "兰陵王这般苛刻严厉的师父，经年累月的残忍训练，造就了威震戈壁的玄策，冷酷背后藏着满满的爱，独来独往的风格也深深影响了徒儿。"
+        },
+        {
+          "id": 193,
+          "hero": "铠",
+          "relationship": "长城守卫军队友",
+          "desc": "若不是那声哭喊的“哥哥”，铠不会被唤起记忆踏进法阵中，作为祭品困在法阵中的玄策也不会因此得救，后来二人都加入了长城守卫军。"
+        },
+        {
+          "id": 154,
+          "hero": "花木兰",
+          "relationship": "长城守卫军队长",
+          "desc": "在师父训练下威震一方的玄策万万想不到竟会遇到强大的对手——严格如家长般的花木兰，并在她的说服下加入长城守卫军与哥哥重聚。"
+        },
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "长城守卫军队友",
+          "desc": "二人加入长城守卫军，都因队长花木兰的劝服，玄策因为年龄最小，得到大家的爱护和宽容，最年长的苏烈大叔自然也对他疼爱有加。"
+        },
+        {
+          "id": 312,
+          "hero": "沈梦溪",
+          "relationship": "长城守卫军队友",
+          "desc": "曾因自己制作的爆弹吓哭了玄策，就被守约掐断了引线，并受到小镇人的谴责，落荒而逃。终于如愿以偿加入长城守卫军后的某天，竟与两兄弟成为了队友……"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "苏烈",
+      "relationships": [
+        {
+          "id": 508,
+          "hero": "伽罗",
+          "relationship": "知己",
+          "desc": "一场被谋划的长安魔种骚乱让他们相遇。一个失去了长安的信任，一个失去了自己的故乡，查明那场骚乱背后的真相是他们要共同面对的命运。"
+        },
+        {
+          "id": 131,
+          "hero": "李白",
+          "relationship": "好友",
+          "desc": "你爱种花，我爱舞剑，你有美酒，我有好诗，二人还曾饮过送别的美酒，难怪长城的月色下，苏烈常常会想起和这位友人的诀别。"
+        },
+        {
+          "id": 154,
+          "hero": "花木兰",
+          "relationship": "长城守卫军队长",
+          "desc": "若不是花木兰的激励和劝慰，自我放逐的苏烈恐怕依旧流落在塞外，但有些羁绊是永恒存在的，比如信念与长城，于是苏烈选择重返。"
+        },
+        {
+          "id": 196,
+          "hero": "百里守约",
+          "relationship": "长城守卫军队友",
+          "desc": "全队最擅长家务和厨艺的非守约莫属，而最年长的苏烈是全队最可靠的后盾。他们因不同的原因加入长城守卫军，却有着同样热忱的心。"
+        },
+        {
+          "id": 193,
+          "hero": "铠",
+          "relationship": "长城守卫军队友",
+          "desc": "同为长城守卫军，他们都是将信念寄托于长城的男人，被队长带回的异乡人成为队伍的中坚力量，而重回长城的苏烈成为最可靠的后盾。"
+        },
+        {
+          "id": 195,
+          "hero": "百里玄策",
+          "relationship": "长城守卫军队友",
+          "desc": "二人加入长城守卫军，都因队长花木兰的劝服，玄策因为年龄最小，得到大家的爱护和宽容，最年长的苏烈大叔自然也对他疼爱有加。"
+        },
+        {
+          "id": 502,
+          "hero": "裴擒虎",
+          "relationship": "曾经部下",
+          "desc": "长城陷入苦战，裴擒虎揣着长官苏烈的亲笔求援书直入长安却求助无门，长官被莫名诬陷，自己竟被判定为私逃者，这背后的真相是什么？"
+        },
+        {
+          "id": 507,
+          "hero": "李信",
+          "relationship": "曾经部下",
+          "desc": "与方士交易之后，初到长城的李信，被分配至苏烈麾下。曾经的王族遇见曾经的长安将领，命运交叠，他们却做出了各自的选择。"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "name": "梦奇",
+      "relationships": []
+    },
+    {
+      "id": 179,
+      "name": "女娲",
+      "relationships": [
+        {
+          "id": 178,
+          "hero": "杨戬",
+          "relationship": "继承人",
+          "desc": "并非人人都能成为神的继承人，除非像杨戬一样出身高贵，又天赋异禀。可少年叛逆的热血却在升腾，怎样才算真正的”守护“呢？"
+        },
+        {
+          "id": 529,
+          "hero": "盘古",
+          "relationship": "战友",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "敌人",
+          "desc": "水火不容的分歧，存在在神明般的创世者女娲，与伟大智者姜子牙之间，二人对守护人间的理念各执己见，于是秘密行动在精心筹划中。"
+        },
+        {
+          "id": 167,
+          "hero": "孙悟空",
+          "relationship": "叛乱者",
+          "desc": "“人类历史上黑暗的一天”——对孙悟空发动的战役来说大概是最风光的注解，但对创世者女娲来说，这简直是最不能容忍的事情！"
+        },
+        {
+          "id": 168,
+          "hero": "牛魔",
+          "relationship": "归顺者",
+          "desc": "造物主女娲绝不许谁破坏她守护的人间，牛魔于是趋利避害，最终选择背叛伙伴，从奴隶领袖摇身一变为荒漠霸主。"
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "name": "明世隐",
+      "relationships": [
+        {
+          "id": 197,
+          "hero": "弈星",
+          "relationship": "徒弟",
+          "desc": "他拯救了他，也是他教会他弈棋。他怀着复仇之心收少年为徒，为己所用，却不曾想尧天真的成为了“家”一样的存在。或许自己走后，少年能找到属于自己的棋道。"
+        },
+        {
+          "id": 133,
+          "hero": "狄仁杰",
+          "relationship": "敌人",
+          "desc": "尽管明世隐靠精准卜卦获得女帝赏识，作为女帝心腹的狄仁杰却始终疑虑重重，否则怎会对这位神秘方士始终保持着警惕的关注呢？"
+        },
+        {
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "君主",
+          "desc": "牡丹方士明世隐因精准卜卦得到女帝赏识，但他要绝不是女帝重重的犒劳，一间长安城的小院足矣。而他真正想要的是什么呢？"
+        },
+        {
+          "id": 507,
+          "hero": "李信",
+          "relationship": "交易之人",
+          "desc": "一个是已故废太子之子，想要夺回长安，一个是神秘的方士，谋划着重新得到长城，为了各自的心爱之物，两人之间是一场秘密的交易。"
+        },
+        {
+          "id": 199,
+          "hero": "公孙离",
+          "relationship": "下属",
+          "desc": "从一百位孤儿中被明世隐选中，在教坊中成长为舞姬，阿离作为明世隐手下尧天组织的一员，她的身影穿梭于长安城探索秘密，惩恶扬善。"
+        },
+        {
+          "id": 176,
+          "hero": "杨玉环",
+          "relationship": "下属",
+          "desc": "绝代佳人杨玉环是谜样的存在，天籁琴音能使人沉浸于幸福，她因首领明世隐的要求来到长安，加入尧天组织，探寻城中隐藏的秘密。"
+        },
+        {
+          "id": 502,
+          "hero": "裴擒虎",
+          "relationship": "下属",
+          "desc": "魔种进攻长城，守卫军裴擒虎独往长安却因长官被诬陷求助无门。无助的他加入了明世隐的尧天组织，一边完成组织任务一边探查真相。"
+        },
+        {
+          "id": 312,
+          "hero": "沈梦溪",
+          "relationship": "棋子",
+          "desc": "按照牡丹方士指引的方法，在关市举行时用爆弹断掉敌人的后路，沈梦溪如愿以偿地加入了长城守卫军，然而方士的建议背后却隐藏着更深的阴谋……"
+        },
+        {
+          "id": 540,
+          "hero": "金蝉",
+          "relationship": "辩道之人",
+          "desc": "一场关于辩道的“巅峰对决”中，早已名动长安的牡丹方士大败各方，而年纪轻轻的金蝉横空出世与之旗鼓相当。"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "公孙离",
+      "relationships": [
+        {
+          "id": 502,
+          "hero": "裴擒虎",
+          "relationship": "同伴",
+          "desc": "颓丧的虎随手拉住路过的舞姬，想看完人生最后一支舞。没想到舞姬却知道他全部的故事，就这样被“捡回”阿离所在的神秘组织中。"
+        },
+        {
+          "id": 507,
+          "hero": "李信",
+          "relationship": "仰慕之人",
+          "desc": "一次任务中，李信为掩护阿离而被捕，再次听见李信的消息时，他已经去了长城，而直到现在，公孙离都没能向李信表达自己的谢意与仰慕。"
+        },
+        {
+          "id": 176,
+          "hero": "杨玉环",
+          "relationship": "同伴",
+          "desc": "“不管听多少次，玉环姐姐的琵琶都如此动人，为何阿离的舞蹈做不到呢？”同为女子，阿离也为玉环的琵琶所倾倒，关于幸福的琴声。"
+        },
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "首领",
+          "desc": "从一百位孤儿中被明世隐选中，在教坊中成长为舞姬，阿离作为明世隐手下尧天组织的一员，她的身影穿梭于长安城探索秘密，惩恶扬善。"
+        },
+        {
+          "id": 197,
+          "hero": "弈星",
+          "relationship": "同伴",
+          "desc": "与内向安静的弈星不同，阿离要显得活力四射许多，每当阿离作为密探执行组织任务时，围棋少年总是以棋盘创造空间来协助她完成。"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "name": "杨玉环",
+      "relationships": [
+        {
+          "id": 199,
+          "hero": "公孙离",
+          "relationship": "同伴",
+          "desc": "“不管听多少次，玉环姐姐的琵琶都如此动人，为何阿离的舞蹈做不到呢？”同为女子，阿离也为玉环的琵琶所倾倒，关于幸福的琴声。"
+        },
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "首领",
+          "desc": "绝代佳人杨玉环是谜样的存在，天籁琴音能使人沉浸于幸福，她因首领明世隐的要求来到长安，加入尧天组织，探寻城中隐藏的秘密。"
+        },
+        {
+          "id": 502,
+          "hero": "裴擒虎",
+          "relationship": "同伴",
+          "desc": "名动长安的杨玉环是人们心中的女神，在喜欢用拳头解决一切的少年阿虎眼中也不例外，因为这琴音充满了神奇的力量，能鼓舞人心。"
+        },
+        {
+          "id": 197,
+          "hero": "弈星",
+          "relationship": "同伴",
+          "desc": "同为长安神秘组织尧天的一员，孤僻安静的弈星也不免被玉环姐姐的天籁琴音所打动。很多人都说这琵琶能唤起人梦寐以求的幸福，但少年觉得听到这琴声便是幸福所在。"
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "name": "裴擒虎",
+      "relationships": [
+        {
+          "id": 199,
+          "hero": "公孙离",
+          "relationship": "同伴",
+          "desc": "颓丧的虎随手拉住路过的舞姬，想看完人生最后一支舞。没想到舞姬却知道他全部的故事，就这样被”捡回“阿离所在的神秘组织中。"
+        },
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "过去的上级",
+          "desc": "长城陷入苦战，裴擒虎揣着长官苏烈的亲笔求援书直入长安却求助无门，长官被莫名诬陷，自己竟被判定为私逃者，这背后的真相是什么？"
+        },
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "首领",
+          "desc": "魔种进攻长城，守卫军裴擒虎独往长安却因长官被诬陷求助无门。无助的他加入了明世隐的尧天组织，一边完成组织任务一边探查真相。"
+        },
+        {
+          "id": 176,
+          "hero": "杨玉环",
+          "relationship": "同伴",
+          "desc": "名动长安的杨玉环是人们心中的女神，在喜欢用拳头解决一切的少年阿虎眼中也不例外，因为这琴音充满了神奇的力量，能鼓舞人心。"
+        },
+        {
+          "id": 197,
+          "hero": "弈星",
+          "relationship": "同伴",
+          "desc": "一文一武，一静一动的两个少年各怀绝技，在组织中同样不可或缺，棋盘之术和硬朗拳头强强组合，让他们一道去寻求属于自己的幸福。"
+        },
+        {
+          "id": 538,
+          "hero": "云缨",
+          "relationship": "不打不相识",
+          "desc": "上次她来俺这儿砸场子，好家伙，俺们俩打得那叫一个昏天黑地，真是痛快。俺们也算是不打不相识，俺猜她一定是全长安枪法最好的人了！"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "name": "弈星",
+      "relationships": [
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "首领",
+          "desc": "他拯救了他，也是他教会他弈棋。少年曾遵照师父的指点，在无穷又封闭的黑白宇宙中落子，执行任务。如今，为守护自己的“家”，少年终于也有了主动落子的理由。"
+        },
+        {
+          "id": 199,
+          "hero": "公孙离",
+          "relationship": "同伴",
+          "desc": "与内向安静的弈星不同，阿离要显得活力四射许多，每当阿离作为密探执行组织任务时，围棋少年总是以棋盘创造空间来协助她完成。"
+        },
+        {
+          "id": 176,
+          "hero": "杨玉环",
+          "relationship": "同伴",
+          "desc": "同为长安神秘组织尧天的一员，孤僻安静的弈星也不免被玉环姐姐的天籁琴音所打动。很多人都说这琵琶能唤起人梦寐以求的幸福，但少年觉得听到这琴声便是幸福所在。"
+        },
+        {
+          "id": 502,
+          "hero": "裴擒虎",
+          "relationship": "同伴",
+          "desc": "一文一武，一静一动的两个少年各怀绝技，在组织中同样不可或缺，棋盘之术和硬朗拳头强强组合，让他们一道去寻求属于自己的幸福。"
+        },
+        {
+          "id": 537,
+          "hero": "司空震",
+          "relationship": "血亲",
+          "desc": "两人拥有相同的血脉，却因想要守护之物不同，注定成为对弈的敌手。"
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "name": "狂铁",
+      "relationships": [
+        {
+          "id": 545,
+          "hero": "莱西奥",
+          "relationship": "患难与共的兄弟",
+          "desc": "莱西奥与狂铁少时因救猫而相识，成为彼此唯一的兄弟，多年来患难与共。虽然嘴上总是互不相让，但莱西奥会为狂铁的机械臂钻研机关技术，狂铁也会陪莱西奥冒险远航。"
+        },
+        {
+          "id": 504,
+          "hero": "米莱狄",
+          "relationship": "执政者",
+          "desc": "因为喊出海都被污染的秘密，低等佣兵狂铁在执政者的镇压下，付出了失去一条手臂的代价。但他还在继续追寻……"
+        },
+        {
+          "id": 193,
+          "hero": "铠",
+          "relationship": "偶遇之人",
+          "desc": "篝火旁边的那个神秘男子似乎是来杀自己的，但交谈之后却放弃了这个想法。谈了什么呢？似乎是污染、诅咒、灾难……还有他的名字，凯因。"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "朋友",
+          "desc": "狂铁与姬小满的关系从不打不相识到患难与共。姬小满的出现对狂铁来说充满了惊吓与惊喜。姬小满身上有一种独特的魅力，狂铁坚信这就是情比金坚的友谊。"
+        },
+        {
+          "id": 159,
+          "hero": "朵莉亚",
+          "relationship": "伙伴",
+          "desc": "对海都的一切都充满了无比好奇，精力旺盛，但总是需要我指路的家伙，经常粘着小满，有一说一唱歌是真的好听。"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "name": "米莱狄",
+      "relationships": [
+        {
+          "id": 503,
+          "hero": "狂铁",
+          "relationship": "反抗者",
+          "desc": "因为喊出海都被污染的秘密，低等佣兵狂铁在执政者的镇压下，付出了失去一条手臂的代价。但他还在继续追寻……"
+        },
+        {
+          "id": 132,
+          "hero": "马可波罗",
+          "relationship": "属下",
+          "desc": "年轻的商人之子起航冒险，追寻父亲留下的知识足迹。他不知道是，他已经处于城市执政者的监视之下，肩负着寻求知识与解除诅咒方法的重任。"
+        },
+        {
+          "id": 545,
+          "hero": "莱西奥",
+          "relationship": "反抗者",
+          "desc": "胆敢与自己对抗的外城区毛头小子，和那个佣兵一样愚蠢。"
+        },
+        {
+          "id": 514,
+          "hero": "亚连",
+          "relationship": "手下",
+          "desc": "虽然是难得的利刃，用着却不是很趁手。"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "元歌",
+      "relationships": [
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "学长",
+          "desc": "来自师兄诸葛亮的鼓励，让失声的少年元歌造出完美的机关傀儡，代替自己与世界交流。为了师兄能重启奇迹，少年可以付出一切，甚至生命。"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "敌人",
+          "desc": "机关师元歌用巧舌如簧的傀儡赢得了君主曹操的信任。他离间曹操与得力部下徐福，在赤壁之战中给予了曹操沉重一击。一切都是为了师兄诸葛亮。"
+        },
+        {
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "校友",
+          "desc": "鲁班大师在“代号鲁班”项目研发期间曾在后山遇到自闭的元歌，从他的傀儡身上引发了制造AI的灵感，并最终打造出鲁班七号"
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "name": "孙策",
+      "relationships": [
+        {
+          "id": 191,
+          "hero": "大乔",
+          "relationship": "爱人",
+          "desc": "大乔的灯指引暴风雨中的孙策来到了江郡，两人一见便陷入爱河。然而孙策在阴谋中被害，生死分离让大乔走向了东风祭坛与复仇之路。"
+        },
+        {
+          "id": 111,
+          "hero": "孙尚香",
+          "relationship": "妹妹",
+          "desc": "兄妹二人从小一起长大，妹妹冲着那些只敢打劫穷人的流氓开炮，哥哥学习着做船员，是江东青年才俊里闪耀的存在！"
+        },
+        {
+          "id": 124,
+          "hero": "周瑜",
+          "relationship": "挚友",
+          "desc": "从小一起厮混的兄弟！高材生周瑜从稷下毕业后，和挚友孙策扬帆开启了他们伟大的事业，解救了江郡。不幸的是，命运终让他们生死分离。"
+        },
+        {
+          "id": 137,
+          "hero": "司马懿",
+          "relationship": "凶手",
+          "desc": "司马懿不允许那个被他解救的江郡女孩脱离自己的掌控。为了防止大乔的背弃，司马懿下令杀死了她的爱人孙策。"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "司马懿",
+      "relationships": [
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "对手",
+          "desc": "曾经的同窗好友，相知、相惜，共同寻找天书碎片。到底为什么会变成现在这样呢？好友变成对峙的死敌。在山顶的天书阵中，过往的秘密正在被揭开。"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "主公",
+          "desc": "天才军师司马懿归顺于曹操麾下，但曹操不知道的是，自己其实是司马懿的杀父仇人！司马懿的计划正在一步步酝酿！"
+        },
+        {
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "恩师",
+          "desc": "来自武都的少年司马懿中了君主的埋伏，在被军队暗杀的千钧一发之际，骑鲲的贤者路过相救，把这个孩子“捡”回了稷下学院。"
+        },
+        {
+          "id": 528,
+          "hero": "澜",
+          "relationship": "后患无穷",
+          "desc": "这小子能力不容小觑，但从不与人攀谈，让人总觉得似乎藏着什么心思。"
+        },
+        {
+          "id": 191,
+          "hero": "大乔",
+          "relationship": "棋子",
+          "desc": "同样受诅咒的命运！司马懿一手解救并培养了江郡女婴大乔，最后却仍然怀有利用的私心。为了让她不脱离自己的掌控，甚至不惜杀掉她的恋人孙策。"
+        },
+        {
+          "id": 518,
+          "hero": "马超",
+          "relationship": "被害者",
+          "desc": "教授御枪之术的老师"
+        },
+        {
+          "id": 510,
+          "hero": "孙策",
+          "relationship": "被害者",
+          "desc": "司马懿不允许那个被他解救的江郡女孩脱离自己的掌控。为了防止大乔的背弃，司马懿下令杀死了她的爱人孙策。"
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "name": "盾山",
+      "relationships": [
+        {
+          "id": 196,
+          "hero": "百里守约",
+          "relationship": "长城守卫军队友",
+          "desc": "自从无意间发现了长城的缔造者盾山之后，守约就将这个看上去坏掉的机关造物当成了放平底锅的家具，直到某一天，长城震动，盾山重新运作。"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "name": "伽罗",
+      "relationships": [
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "知己",
+          "desc": "一场被谋划的长安魔种骚乱让他们相遇。一个失去了长安的信任，一个失去了自己的故乡，查明那场骚乱背后的真相是他们要共同面对的命运。"
+        },
+        {
+          "id": 542,
+          "hero": "暃",
+          "relationship": "发小与盟友",
+          "desc": "因家族世代交好，作为千窟城主之女的伽罗和玉城大王子暃，二人打小便认识，幼时还曾在千窟城一同学习。"
+        },
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "盟友与幼时同窗",
+          "desc": "幼时曾在千窟城一同学习的同窗。面对这场席卷整个云中的魔种之灾，将联合起来组成“云中沙之盟”，为重现失落之地的荣光而奋斗。"
+        },
+        {
+          "id": 534,
+          "hero": "桑启",
+          "relationship": "沙之盟伙伴",
+          "desc": "一个从壁画中走出来的少年，总是用最干净的目光看待身边，就像他一路记下的故事，我们都很喜欢。"
+        },
+        {
+          "id": 548,
+          "hero": "戈娅",
+          "relationship": "沙之盟伙伴",
+          "desc": "因为调查云中蝶的线索而认识的伙伴，多亏了她我们才能穿越那片风暴。你们说她很难相处？不会啊……"
+        },
+        {
+          "id": 521,
+          "hero": "海月",
+          "relationship": "敌对",
+          "desc": "海月企图复活魔神帝俊，这会给云中带来毁灭，必须要阻止她的阴谋。云中蝶在她手中，那千窟城的灾难一定也与她脱不了干系。"
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "name": "沈梦溪",
+      "relationships": [
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "恩人",
+          "desc": "按照牡丹方士指引的方法，在关市举行时用爆弹断掉敌人的后路，沈梦溪如愿以偿地加入了长城守卫军，然而方士的建议背后却隐藏着更深的阴谋……"
+        },
+        {
+          "id": 196,
+          "hero": "百里守约",
+          "relationship": "长城守卫军队友",
+          "desc": "曾因自己制作的爆弹吓哭了玄策，就被守约掐断了引线，并受到小镇人的谴责，落荒而逃。终于如愿以偿加入长城守卫军后的某天，竟与两兄弟成为了队友……"
+        },
+        {
+          "id": 195,
+          "hero": "百里玄策",
+          "relationship": "长城守卫军队友",
+          "desc": "曾因自己制作的爆弹吓哭了玄策，就被守约掐断了引线，并受到小镇人的谴责，落荒而逃。终于如愿以偿加入长城守卫军后的某天，竟与两兄弟成为了队友……"
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "name": "李信",
+      "relationships": [
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "交易之人",
+          "desc": "一个是已故废太子之子，想要夺回长安，一个是神秘的方士，谋划着重新得到长城，为了各自的心爱之物，两人之间是一场秘密的交易。"
+        },
+        {
+          "id": 199,
+          "hero": "公孙离",
+          "relationship": "旧友",
+          "desc": "一次任务中，李信为掩护阿离而被捕，再次听见李信的消息时，他已经去了长城，而直到现在，公孙离都没能向李信表达自己的谢意与仰慕。"
+        },
+        {
+          "id": 194,
+          "hero": "苏烈",
+          "relationship": "曾经的长官",
+          "desc": "与方士交易之后，初到长城的李信，被分配至苏烈麾下。曾经的王族遇见曾经的长安将领，命运交叠，他们却做出了各自的选择。"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "name": "上官婉儿",
+      "relationships": [
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "仇敌",
+          "desc": "隐隐约约的年幼记忆与持续多年存在的梦境交织缠绕，上官婉儿知道，那个与牡丹花有关的男人，与自己祖父被害和太子谋反案之间定有不可脱离的关系。"
+        },
+        {
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "君主",
+          "desc": "为了探寻梦中字帖的真相，上官婉儿自愿成为女帝探听民语风声的耳目，并以一纸书信将其打动。如愿以偿的她女扮男装出入宫廷内外，触碰祖父冤案之谜。"
+        },
+        {
+          "id": 133,
+          "hero": "狄仁杰",
+          "relationship": "治安官",
+          "desc": "上官婉儿回忆起自己身为幼时某桩阴谋的见证者，在大理寺新官狄仁杰上任首日便递上一纸诉状，为的只是给冤死狱中的祖父讨回清白。"
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "name": "嫦娥",
+      "relationships": [
+        {
+          "id": 169,
+          "hero": "后羿",
+          "relationship": "爱人",
+          "desc": "嫦娥家族因私自启蒙魔种，被抓到日之塔顶端进行公开处刑，神职者中最刚强的弓箭手射偏了箭，月光家族最后一人因此留存。有人说他失手，有人说他起了怜悯之心....."
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "name": "猪八戒",
+      "relationships": [
+        {
+          "id": 167,
+          "hero": "孙悟空",
+          "relationship": "战友",
+          "desc": "在日之塔辛勤劳苦的日子里猪八戒与孙悟空建立了友谊，后来在魔种起义悟空被擒后，他强忍饥饿孤军奋战，杀进神居住的城市的最中心，誓死寻求挚友下落。"
+        },
+        {
+          "id": 540,
+          "hero": "金蝉",
+          "relationship": "师傅",
+          "desc": "九尺钉耙可是八戒最具威慑力的存在，然而，在这个前世慈眉善目的神职行者面前，他却收起武器乖乖地跟在后面。"
+        },
+        {
+          "id": 168,
+          "hero": "牛魔",
+          "relationship": "背叛的战友",
+          "desc": "当牛魔与猴子决心起义推翻超智慧生命体时，以西瓜山“诱骗”猪八戒一同起义，可是不久之后，计划被泄露，魔种一方陷入绝境。猴子被抓，牛魔消失不见……"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "name": "盘古",
+      "relationships": [
+        {
+          "id": 179,
+          "hero": "女娲",
+          "relationship": "战友",
+          "desc": "—敬请期待—"
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "name": "瑶",
+      "relationships": [
+        {
+          "id": 506,
+          "hero": "云中君",
+          "relationship": "爱慕之人",
+          "desc": "前世她是一只幼鹿，与一只同样无所依靠的孤鸟结伴生活。今世的重逢让初为少女的瑶对云中君又好奇又生气……"
+        },
+        {
+          "id": 189,
+          "hero": "鬼谷子",
+          "relationship": "师父",
+          "desc": "鬼谷子给阿瑶法杖，教她引导玄微子，当阿瑶走过寸草不生的土地，会有青藤长出。但阿瑶还是个孩子，被她召唤生长的东西往往在半途就变为一缕青烟而去。"
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "name": "云中君",
+      "relationships": [
+        {
+          "id": 505,
+          "hero": "瑶",
+          "relationship": "爱慕之人",
+          "desc": "前世他是一只孤鸟，与一只小鹿结伴生活。今世的重逢让作为东神使者的他在瑶面前显得冷酷无情，但又被她吸引而去。"
+        },
+        {
+          "id": 187,
+          "hero": "东皇太一",
+          "relationship": "君主",
+          "desc": "他曾从大河以东逃亡而来，东皇太一将他收留并培养为使者。"
+        },
+        {
+          "id": 189,
+          "hero": "鬼谷子",
+          "relationship": "恩人",
+          "desc": "他曾被鬼谷子用转生之术重造，却因袭击奇迹而被鬼谷子弟子设下陷井试图剥夺它前世的记忆，它在搏斗中失明，逃亡到大河以西，再不念重生恩情。"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "name": "曜",
+      "relationships": [
+        {
+          "id": 531,
+          "hero": "镜",
+          "relationship": "姐姐",
+          "desc": "冷酷无情，毫无人性，狂妄自大的姐姐，我总有一天要战胜她？让她看看我的厉害。"
+        },
+        {
+          "id": 523,
+          "hero": "西施",
+          "relationship": "星之队队友",
+          "desc": "勉强欣赏我的好队友"
+        },
+        {
+          "id": 524,
+          "hero": "蒙犽",
+          "relationship": "星之队队友",
+          "desc": "勉强欣赏我的好队友"
+        },
+        {
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "星之队队友",
+          "desc": "欣赏我的好队友"
+        },
+        {
+          "id": 118,
+          "hero": "孙膑",
+          "relationship": "星之队队友",
+          "desc": "欣赏我的好队友"
+        },
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 131,
+          "hero": "李白",
+          "relationship": "偶像",
+          "desc": "崇拜的偶像"
+        },
+        {
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "魔道老师",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "机关老师",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "同班同学",
+          "desc": "平时低调的同班同学，却是夫子口中的武道天才。竟然没有成功与她比试一番，深感遗憾。"
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "name": "马超",
+      "relationships": [
+        {
+          "id": 137,
+          "hero": "司马懿",
+          "relationship": "老师",
+          "desc": "教授御枪之术的老师。"
+        },
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "军师",
+          "desc": "—敬请期待—"
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "name": "西施",
+      "relationships": [
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "星之队队长",
+          "desc": "好像有不止一块披风的队友"
+        },
+        {
+          "id": 524,
+          "hero": "蒙犽",
+          "relationship": "星之队队友",
+          "desc": "武器很多的队友"
+        },
+        {
+          "id": 118,
+          "hero": "孙膑",
+          "relationship": "星之队队友",
+          "desc": "长翅膀的队友"
+        },
+        {
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "星之队队友",
+          "desc": "八条手臂的队友"
+        },
+        {
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "魔道老师",
+          "desc": "一场针对西施精心筹划的诱捕，被一位云游至此的学者在危机时刻出手相救，少女在蓝色能量场域的笼罩下逃出生天，跟着那位学者一路到了稷下学院。"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "校友",
+          "desc": "阔绰的财神爷，不管是处理各类麻烦事的雇主还是联合卖书的合伙人，都让自己赚得盆满钵满。"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "name": "鲁班大师",
+      "relationships": [
+        {
+          "id": 112,
+          "hero": "鲁班七号",
+          "relationship": "儿子",
+          "desc": "稷下学院的机关大师鲁班一向独来独往，却在机关造物鲁班七号身上，感受到了人与人之间的温度。"
+        },
+        {
+          "id": 523,
+          "hero": "西施",
+          "relationship": "星之队队友",
+          "desc": "神秘的小朋友"
+        },
+        {
+          "id": 524,
+          "hero": "蒙犽",
+          "relationship": "星之队队友",
+          "desc": "嘈杂的小朋友，偶尔会让鲁班大师想起爱捣蛋的鲁班七号"
+        },
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "星之队队友",
+          "desc": "嘈杂的小朋友"
+        },
+        {
+          "id": 118,
+          "hero": "孙膑",
+          "relationship": "星之队队友",
+          "desc": "神秘的小朋友"
+        },
+        {
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "校友",
+          "desc": "曾经的朋友，因为墨子把鲁班七号送到玄雍走失后开始看不顺眼他，两个人很多年没说过话了"
+        },
+        {
+          "id": 125,
+          "hero": "元歌",
+          "relationship": "校友",
+          "desc": "鲁班大师在“代号鲁班”项目研发期间曾在后山遇到自闭的元歌，从他的傀儡身上引发了制造AI的灵感，并最终打造出鲁班七号"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "name": "蒙犽",
+      "relationships": [
+        {
+          "id": 527,
+          "hero": "蒙恬",
+          "relationship": "父亲",
+          "desc": "古板不知变通的父亲，总是用规则和秩序教育自己，将自己当小孩，但总有一天，自己会证明自己。"
+        },
+        {
+          "id": 525,
+          "hero": "鲁班大师",
+          "relationship": "星之队队友",
+          "desc": "鲁班大师一直是蒙犽尊敬的对象，幼时实验室的偶遇开启了蒙犽对于枪炮的热情，如今校园重逢他必是鲁班大师枪炮发明的第一个试用者。"
+        },
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "星之队队长",
+          "desc": "不行的队友，总是能轻易的惹怒蒙犽，不过莫名的在审美和爱好上倒是意外的出奇一致。"
+        },
+        {
+          "id": 523,
+          "hero": "西施",
+          "relationship": "星之队队友",
+          "desc": "不行的队友，总是惹我生气的奇怪女生，在班叔实验室的N次狭路相逢，让蒙犽有些担忧可能会打破自己第一个试用者的危险人士，需重点监控。"
+        },
+        {
+          "id": 118,
+          "hero": "孙膑",
+          "relationship": "星之队队友",
+          "desc": "面对可爱的生物，蒙犽总是感到手足无措，唯一让蒙犽服软的存在，真是太难了。"
+        },
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "机关老师",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "魔道老师",
+          "desc": "—敬请期待—"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "发小",
+          "desc": "由于父辈的关系而成为儿时发小，不知道在想些什么的机灵鬼。"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "name": "镜",
+      "relationships": [
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "弟弟",
+          "desc": "总是不好好练剑的弟弟，需严苛要求，作为长姐，必须承担起保护弟弟的责任。"
+        },
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "授业恩师，在镜无家可归时收留并悉心教导她，并透露了万镜之厅的存在。"
+        },
+        {
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "魔道老师",
+          "desc": "为她开启了进入万镜之厅的大门，赢得了获取力量的契机。"
+        },
+        {
+          "id": 110,
+          "hero": "嬴政",
+          "relationship": "君主",
+          "desc": "玄雍面临的危机和自己想做的事情不谋而合，也许会是个不错的雇主。"
+        },
+        {
+          "id": 527,
+          "hero": "蒙恬",
+          "relationship": "战友",
+          "desc": "令人非常敬佩的大将军，正派，有能力，爱百姓，可在战场上生死相托。"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "蒙恬",
+      "relationships": [
+        {
+          "id": 524,
+          "hero": "蒙犽",
+          "relationship": "儿子",
+          "desc": "脾气火爆，叛逆，不循常理的儿子，因为父子间理念的不合，常爆发严重冲突。"
+        },
+        {
+          "id": 110,
+          "hero": "嬴政",
+          "relationship": "君主",
+          "desc": "从小看着长大的王室子弟，有王者的魄力和担当，还有以往的君主都不曾有的对百姓的关爱。"
+        },
+        {
+          "id": 120,
+          "hero": "白起",
+          "relationship": "战友",
+          "desc": "改变了自己对血族的固有印象，血族之灾中的行动和牺牲，令蒙恬深深敬佩。"
+        },
+        {
+          "id": 531,
+          "hero": "镜",
+          "relationship": "战友",
+          "desc": "十分看好和欣赏的阴曲新秀，她的自律和冷静，让蒙恬仿佛看到了自己的影子。"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "name": "阿古朵",
+      "relationships": [
+        {
+          "id": 190,
+          "hero": "诸葛亮",
+          "relationship": "带头大哥",
+          "desc": "和阿古朵志同道合的益城军师，在阿古朵因为饥饿当山贼的岁月里曾经抓了她七次又放了她七次。"
+        },
+        {
+          "id": 114,
+          "hero": "刘禅",
+          "relationship": "二当家的",
+          "desc": "一起抢劫过军粮的好兄弟！"
+        },
+        {
+          "id": 171,
+          "hero": "张飞",
+          "relationship": "偶尔很凶的战友",
+          "desc": "凶起来很恐怖！打个喷嚏就能吹飞我和球球的可怕大猩猩！"
+        },
+        {
+          "id": 140,
+          "hero": "关羽",
+          "relationship": "小马不错的战友",
+          "desc": "十分觊觎关羽的小马。"
+        },
+        {
+          "id": 170,
+          "hero": "刘备",
+          "relationship": "小鸡不错的战友",
+          "desc": "十分觊觎刘备的小鸡。"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "name": "夏洛特",
+      "relationships": [
+        {
+          "id": 155,
+          "hero": "艾琳",
+          "relationship": "偶遇",
+          "desc": "虽然只有远航前的一次偶遇，但有勇气打破束缚离开的小精灵，也一定会用这年轻的勇气寻找到自己的使命。"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "name": "澜",
+      "relationships": [
+        {
+          "id": 184,
+          "hero": "蔡文姬",
+          "relationship": "值得保护之人",
+          "desc": "对于流落荒岛的杀手澜来说，任务对象蔡文姬毫不设防的温暖与纯真，犹如黑暗人生之中的亮光。"
+        },
+        {
+          "id": 128,
+          "hero": "曹操",
+          "relationship": "曾经的主公",
+          "desc": "乱世三分炼狱般的战场里，一个拥有“异能”的少年从死人堆中爬了出来，那时一只霸道有力的大手伸向了他……"
+        },
+        {
+          "id": 137,
+          "hero": "司马懿",
+          "relationship": "看不透彻",
+          "desc": "偶尔会跟这个面色苍白的男人一起执行任务，仅此而已，有些人从来不可能成为朋友，也不必要。"
+        },
+        {
+          "id": 126,
+          "hero": "夏侯惇",
+          "relationship": "“教授”过刀法",
+          "desc": "这个独眼大刀的男人算是魏营里还不错的汉子，曾听他提起过 “木槿花“的事儿。"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "name": "司空震",
+      "relationships": [
+        {
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "君主",
+          "desc": "一起为了共同目的而前行的盟友，能力出众，格局高远，但有时也会有一些天真的想法，相信不值得相信的人，但在应付百官和国家政令相关的问题，胜于自己。"
+        },
+        {
+          "id": 133,
+          "hero": "狄仁杰",
+          "relationship": "同僚",
+          "desc": "共事十载的同僚，一心想寻求心中的公正，也是维系朝堂的核心，比起自己，百官更愿与他接触，知道自己身世，是自己来到长安接触的第一个人。"
+        },
+        {
+          "id": 197,
+          "hero": "弈星",
+          "relationship": "血亲",
+          "desc": "两人拥有相同的血脉，却因想要守护之物不同，注定成为对弈的敌手。"
+        },
+        {
+          "id": 538,
+          "hero": "云缨",
+          "relationship": "世侄",
+          "desc": "每天都活蹦乱跳的云家丫头，将来，一定会成为大有作为的人吧。"
+        },
+        {
+          "id": 544,
+          "hero": "赵怀真",
+          "relationship": "世侄",
+          "desc": "司空震为虞衡司司丞，赵怀真之父为鸿胪寺少卿，两家乃世交，得知赵怀真生病，曾提点过他，外力即可伤己，亦可纳为所用。"
+        },
+        {
+          "id": 154,
+          "hero": "花木兰",
+          "relationship": "属下",
+          "desc": "异常坚韧的女子，曾数次令其执行任务，行事非常可靠，其手下的小队，也是长安守护边境的极大臂助。"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "艾琳",
+      "relationships": [
+        {
+          "id": 142,
+          "hero": "安琪拉",
+          "relationship": "闺蜜",
+          "desc": "小法师是一支变化莫测的舞蹈，舞步中混杂了蜂蜜、火焰和书本~！是第一个不因异族害怕自己的人，是第一个朋友，是鬼点子最多的人，是自己要一定保护的“妹妹”!"
+        },
+        {
+          "id": 166,
+          "hero": "亚瑟",
+          "relationship": "团长",
+          "desc": "靠谱、认真、责任感……团长一定是历史上最正统的舞蹈。有任何不懂的问题，以及如果不小心闯了祸，都去找团长就对了。不过，他对舞蹈似乎毫无办法呢……"
+        },
+        {
+          "id": 536,
+          "hero": "夏洛特",
+          "relationship": "偶遇",
+          "desc": "自己见过最月桂…哦不，最美丽的人类！她的心在跳着一支远航之舞，上面满载着使命、荣光、与一船的玫瑰花！总有一天，自己会回答出她的问题……"
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "name": "云缨",
+      "relationships": [
+        {
+          "id": 544,
+          "hero": "赵怀真",
+          "relationship": "青梅竹马",
+          "desc": "赵府与云府乃世交，二人是府邸相对的邻居，从小一起长大，身为官员之子，亦在一个学堂上学，但从小争吵不断，直到年岁渐长才有所缓和，但斗嘴的习惯却一如既往。"
+        },
+        {
+          "id": 133,
+          "hero": "狄仁杰",
+          "relationship": "老大",
+          "desc": "刻板的、无趣的、沉闷的呆头上司，他的脑袋究竟是怎么记住那么多条例的啊……话说他平时都不玩儿的吗？"
+        },
+        {
+          "id": 173,
+          "hero": "李元芳",
+          "relationship": "小弟",
+          "desc": "大理寺打工人，事实上应该算云缨的前辈，但在云缨眼里更像个可怜巴巴的小弟。"
+        },
+        {
+          "id": 144,
+          "hero": "程咬金",
+          "relationship": "忘年之交",
+          "desc": "世界上最有趣的老头儿。竟然也喜欢追《李娘子传奇》，真是英雄所见略同。"
+        },
+        {
+          "id": 537,
+          "hero": "司空震",
+          "relationship": "世叔",
+          "desc": "听说司空世叔最近又立了好大一个功啊！他真是长安城的英雄，羡慕。"
+        },
+        {
+          "id": 502,
+          "hero": "裴擒虎",
+          "relationship": "不打不相识",
+          "desc": "上次我错把他当做街头恶霸暴揍一顿，没想到他只是卖艺的拳师。不过也算是不打不相识啦，我猜虎子一定是全长安拳法最好的人啦。"
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "name": "金蝉",
+      "relationships": [
+        {
+          "id": 167,
+          "hero": "孙悟空",
+          "relationship": "徒弟",
+          "desc": "前世见到那只巨石下灰头土脸冲他龇牙的“猴子”时，怜悯之心使他不得不停下脚步，心中只有个声音“救他”。 "
+        },
+        {
+          "id": 511,
+          "hero": "猪八戒",
+          "relationship": "徒弟",
+          "desc": "前世离开倒悬天后的金蝉竟与他们结下善缘共度苦难。有时为了让八戒这样的“大胃王”能饱餐一顿，可谓操碎了心。"
+        },
+        {
+          "id": 136,
+          "hero": "武则天",
+          "relationship": "君主",
+          "desc": "女帝是至高无上的存在，在她的授意下，金蝉开始掌管长安最大的经院，拥有进入“无量”暗室研读古籍的权力。"
+        },
+        {
+          "id": 134,
+          "hero": "达摩",
+          "relationship": "出手相救",
+          "desc": "放逐自我途中，饥饿与干旱令人濒临绝境，所幸前往西方的行者出手相救，茫茫大漠中清水带来了生机也带来光明。"
+        },
+        {
+          "id": 168,
+          "hero": "牛魔",
+          "relationship": "伙伴",
+          "desc": "牛魔不像那猴头和 “大胃王“，他从未叫过前世的金蝉一声师傅，反而总对这个从倒悬天上下来的神职行者保持着警惕。"
+        },
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "干戈化玉帛",
+          "desc": "茫茫大漠中，跋涉的行者误入迷宫般的金庭废墟，感叹于它昔日的辉煌，而一双敏锐的眼睛正从暗处审慎地打量着。"
+        },
+        {
+          "id": 501,
+          "hero": "明世隐",
+          "relationship": "辩道之人",
+          "desc": "一场修行者与术士辩道的“巅峰对决”中，早已名动长安的牡丹方士大败各方代表，却小看了那年纪轻轻的法师。"
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "name": "暃",
+      "relationships": [
+        {
+          "id": 508,
+          "hero": "伽罗",
+          "relationship": "发小与盟友",
+          "desc": "因家族世代交好，作为千窟城主之女的伽罗和玉城大王子暃，二人打小便认识，幼时还曾在千窟城一同学习。"
+        },
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "盟友与幼时同窗",
+          "desc": "同为云中王子，幼时千窟求学那会儿俩人都是出了名的逃课王，后来虽经历不同，冥冥中又似乎肩负某种同样的使命。"
+        },
+        {
+          "id": 131,
+          "hero": "李白",
+          "relationship": "友人",
+          "desc": "暃常常一顿酒几番话就能交到个不错的朋友，那位曾游历玉城的侠客，无论是酒品诗才还是剑法，总令人记忆犹新。"
+        },
+        {
+          "id": 534,
+          "hero": "桑启",
+          "relationship": "沙之盟盟友",
+          "desc": "一个有趣的小家伙，他书里的故事为我们的旅途增添了许多乐趣。"
+        },
+        {
+          "id": 548,
+          "hero": "戈娅",
+          "relationship": "沙之盟盟友",
+          "desc": "因为调查云中蝶的线索而认识的伙伴，外人眼中绝情的沙海飞花，其实外冷内热的可靠之人"
+        },
+        {
+          "id": 521,
+          "hero": "海月",
+          "relationship": "敌对",
+          "desc": "玉城背后的阴谋与魔神息息相关，海月作为魔神的信徒，也许秘玉会也早已与她勾结。"
+        },
+        {
+          "id": 154,
+          "hero": "花木兰",
+          "relationship": "偶遇",
+          "desc": "暃在马帮铁壁处打听变异魔种时，为了救出弟弟，曾将情报“分享”给了前来调查的长城守卫军的红发女子。"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "name": "桑启",
+      "relationships": [
+        {
+          "id": 508,
+          "hero": "伽罗",
+          "relationship": "沙之盟伙伴",
+          "desc": "伽罗姐姐很温柔，懂得许多有趣的知识，但提到大火，眉间总有淡淡的愁绪，好想问问她为什么。"
+        },
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "沙之盟伙伴",
+          "desc": "总是戴着面具的哥哥，不喜欢说话，但其实内心很温暖，我知道。"
+        },
+        {
+          "id": 542,
+          "hero": "暃",
+          "relationship": "沙之盟伙伴",
+          "desc": "喜欢躺在房顶的哥哥，常给我们带很多有趣的东西。"
+        },
+        {
+          "id": 548,
+          "hero": "戈娅",
+          "relationship": "沙之盟伙伴",
+          "desc": "因为调查云中蝶的线索而认识的伙伴，虽然大家都说她凶神恶煞的，但其实是个很有爱心的大姐姐！"
+        },
+        {
+          "id": 521,
+          "hero": "海月",
+          "relationship": "敌对",
+          "desc": "她困在过去的故事里走不出来，如今企图复活魔神帝俊，搅乱云中漠地。桑启必须要阻止她！"
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "name": "戈娅",
+      "relationships": [
+        {
+          "id": 542,
+          "hero": "暃",
+          "relationship": "盟友",
+          "desc": "因为点火仪式认识的玉城大王子，是只花里胡哨的大鹦鹉，但为人还算可靠。"
+        },
+        {
+          "id": 508,
+          "hero": "伽罗",
+          "relationship": "盟友",
+          "desc": "千窟城的大文化人，跟她学了很多字。"
+        },
+        {
+          "id": 534,
+          "hero": "桑启",
+          "relationship": "盟友",
+          "desc": "暃的朋友，一个少年老成的小屁孩儿……什么？我哪儿有特别关照他？？"
+        },
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "盟友",
+          "desc": "暃的发小，总喜欢带着面具装冷酷。在他身上嗅到了同类的气息。"
+        },
+        {
+          "id": 132,
+          "hero": "马可波罗",
+          "relationship": "？",
+          "desc": "二人之间似乎颇有渊源"
+        },
+        {
+          "id": 521,
+          "hero": "海月",
+          "relationship": "敌对",
+          "desc": "卫野背后的阴谋家，就是她下令袭击铁壁，搅乱云中漠地。我一定会给沙漠讨个公道！"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "name": "海月",
+      "relationships": [
+        {
+          "id": 542,
+          "hero": "暃",
+          "relationship": "敌对",
+          "desc": "神之烙印的持有人之一，他是复活帝俊大人的关键。"
+        },
+        {
+          "id": 508,
+          "hero": "伽罗",
+          "relationship": "敌对",
+          "desc": "神之烙印的持有人之一，她是复活帝俊大人的关键。"
+        },
+        {
+          "id": 534,
+          "hero": "桑启",
+          "relationship": "敌对",
+          "desc": "神之烙印的持有人之一，他是复活帝俊大人的关键。"
+        },
+        {
+          "id": 153,
+          "hero": "兰陵王",
+          "relationship": "敌对",
+          "desc": "神之烙印的持有人之一，他是复活帝俊大人的关键。"
+        },
+        {
+          "id": 548,
+          "hero": "戈娅",
+          "relationship": "敌对",
+          "desc": "神之烙印的持有人之一，她是复活帝俊大人的关键。"
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "name": "赵怀真",
+      "relationships": [
+        {
+          "id": 538,
+          "hero": "云缨",
+          "relationship": "青梅竹马",
+          "desc": "赵府与云府乃世交，二人是府邸相对的邻居，从小一起长大，身为官员之子，亦在一个学堂上学，但从小争吵不断，直到年岁渐长才有所缓和，但斗嘴的习惯却一如既往。"
+        },
+        {
+          "id": 144,
+          "hero": "程咬金",
+          "relationship": "世伯",
+          "desc": "程咬金是鸿胪寺卿，赵怀真之父是鸿胪寺少卿，两家乃世交，程咬金外出之时，亦曾多方为赵怀真留意治病之法。"
+        },
+        {
+          "id": 537,
+          "hero": "司空震",
+          "relationship": "世叔",
+          "desc": "司空震为虞衡司司丞，赵怀真之父为鸿胪寺少卿，两家乃世交，得知赵怀真生病，曾提点过他，外力即可伤己，亦可纳为所用。"
+        },
+        {
+          "id": 148,
+          "hero": "姜子牙",
+          "relationship": "不知身份的老师",
+          "desc": "赵怀真幼时为解修行之疑，常去玄都观翻阅道藏，亦常在其后山竹林修炼太极术，曾有一日，忽闻一神秘老者声音，无意间数句闲话，却助他勘破了修行中的关窍。"
+        }
+      ]
+    },
+    {
+      "id": 545,
       "name": "莱西奥",
-      "relationship": [
+      "relationships": [
         {
-          "relation": "执政者",
-          "id": 80
+          "id": 503,
+          "hero": "狂铁",
+          "relationship": "患难与共的兄弟",
+          "desc": "莱西奥与狂铁少时因救猫而相识，成为彼此唯一的兄弟，多年来患难与共。虽然嘴上总是互不相让，但莱西奥会为狂铁的机械臂钻研机关技术，狂铁也会陪莱西奥冒险远航。"
         },
         {
-          "relation": "患难与共的兄弟",
-          "id": 79
+          "id": 504,
+          "hero": "米莱狄",
+          "relationship": "执政者",
+          "desc": "生活在自由外城区的莱西奥，原本对高居内城的执政官只是抱有警惕，但自从兄弟狂铁与米莱狄对峙、被砍掉一只手臂后，米莱狄也成为了莱西奥心中需要对峙的“敌人”。"
         },
         {
-          "relation": "一猫之交",
-          "id": 6
+          "id": 132,
+          "hero": "马可波罗",
+          "relationship": "一船之交",
+          "desc": "在调查火鹰号过程中偶遇的魔道贵族少爷，从他那里得知了关于火鹰号和老船长的更多过往。"
         },
         {
-          "relation": "一船之交",
-          "id": 56
+          "id": 146,
+          "hero": "露娜",
+          "relationship": "一猫之交",
+          "desc": "莱西奥少时曾救过一只猫并与它成为朋友，后来才发现它属于月亮家族，名字叫“大白”。大白常来找莱西奥蹭吃蹭喝，莱西奥也数次护送大白回家，并偶遇过它的主人。"
+        },
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "队友",
+          "desc": "一起踏上寻找火鹰船长旅途的靠谱队友，如果勤快一点就更好了。"
+        },
+        {
+          "id": 159,
+          "hero": "朵莉亚",
+          "relationship": "伙伴",
+          "desc": "偷偷溜上我的火鹰号躲在箱子里，还被发现了的家伙，竟然是航海日志里传说中的美人鱼，天哪，这也太神奇了吧。"
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "name": "姬小满",
+      "relationships": [
+        {
+          "id": 139,
+          "hero": "老夫子",
+          "relationship": "武道老师",
+          "desc": "小满因老夫子而对稷下产生了家一般的感情，二人情同祖孙。虽然姬小满终日与夫子“斗智斗勇”，但也知道夫子严厉的戒尺教育下隐藏着对自己的关爱。"
+        },
+        {
+          "id": 503,
+          "hero": "狂铁",
+          "relationship": "朋友",
+          "desc": "姬小满与狂铁的关系从不打不相识到患难与共。狂铁像极了姬小满最讨厌的笨蛋英雄，但她同样也被狂铁的勇气与善良所打动，甚至做了一个”麻烦“的决定。"
+        },
+        {
+          "id": 545,
+          "hero": "莱西奥",
+          "relationship": "队友",
+          "desc": "本以为是任务目标，却是冒牌船长，一起踏上寻找火鹰船长旅途的队友，就是似乎跟狂铁一样不太聪明的样子。"
+        },
+        {
+          "id": 522,
+          "hero": "曜",
+          "relationship": "同班同学",
+          "desc": "爱炫耀的同班同学，是一个一心想当英雄的”笨蛋“，很好忽悠。"
+        },
+        {
+          "id": 524,
+          "hero": "蒙犽",
+          "relationship": "发小",
+          "desc": "由于父辈的关系而成为儿时发小，执着于证明自己的小屁孩。"
+        },
+        {
+          "id": 523,
+          "hero": "西施",
+          "relationship": "校友",
+          "desc": "可靠的合作伙伴，只要有钱，就能帮自己处理一切麻烦事。"
+        },
+        {
+          "id": 113,
+          "hero": "庄周",
+          "relationship": "魔道老师",
+          "desc": "最让人很安心的老师，在老师家能感受到一种内心的平静。老师家里的阿鲲也很好摸。"
+        },
+        {
+          "id": 108,
+          "hero": "墨子",
+          "relationship": "机关老师",
+          "desc": "倡导和平却容易发火的老师，”以和为贵“的小卡片配上一杯热茶能成功降低他的怒气值。"
+        },
+        {
+          "id": 159,
+          "hero": "朵莉亚",
+          "relationship": "伙伴",
+          "desc": "自来熟，总喜欢缠着我问东问西爱笑活泼的家伙，作为一条人鱼害怕下雨天，却热衷于人类的各种食物尤其是果酱。"
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "name": "亚连",
+      "relationships": [
+        {
+          "id": 504,
+          "hero": "米莱狄",
+          "relationship": "上司",
+          "desc": "高高在上的执政官大人，充满了敬畏之心。"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "name": "朵莉亚",
+      "relationships": [
+        {
+          "id": 564,
+          "hero": "姬小满",
+          "relationship": "伙伴",
+          "desc": "火鹰号上认识的可爱女孩，总爱躺在各种地方睡懒觉，我们都热衷于好吃的食物，如果她不那么喜欢小鱼干会更好。"
+        },
+        {
+          "id": 545,
+          "hero": "莱西奥",
+          "relationship": "伙伴",
+          "desc": "没有把我赶下船心地善良的好人，虽然看起来似乎有那么一丝丝不靠谱，但相信他就是人们口中厉害的火鹰船长。"
+        },
+        {
+          "id": 503,
+          "hero": "狂铁",
+          "relationship": "伙伴",
+          "desc": "火鹰号上认识的伙伴，善良又好心，对海都很熟总是不厌其烦为我指路，虽然看上去没我聪明但和我一样勇敢乐观。"
         }
       ]
     }

@@ -3,9 +3,9 @@
     {
       "id": 111,
       "type": "攻击",
-      "level": 1,
+      "level": "1",
       "name": "铁剑",
-      "price": 250,
+      "price": "250",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_1_blur.jpg",
       "effect": [
@@ -18,9 +18,9 @@
     {
       "id": 112,
       "type": "攻击",
-      "level": 1,
+      "level": "1",
       "name": "匕首",
-      "price": 290,
+      "price": "290",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_2_blur.jpg",
       "effect": [
@@ -33,9 +33,9 @@
     {
       "id": 113,
       "type": "攻击",
-      "level": 1,
+      "level": "1",
       "name": "搏击拳套",
-      "price": 320,
+      "price": "320",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_3_blur.jpg",
       "effect": [
@@ -48,9 +48,9 @@
     {
       "id": 114,
       "type": "攻击",
-      "level": 1,
+      "level": "1",
       "name": "吸血之镰",
-      "price": 290,
+      "price": "290",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_4_blur.jpg",
       "effect": [
@@ -63,9 +63,9 @@
     {
       "id": 115,
       "type": "攻击",
-      "level": 1,
+      "level": "1",
       "name": "迅捷长矛",
-      "price": 300,
+      "price": "300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_5_blur.jpg",
       "effect": [
@@ -82,9 +82,9 @@
     {
       "id": 116,
       "type": "攻击",
-      "level": 1,
+      "level": "1",
       "name": "雷鸣刃",
-      "price": 450,
+      "price": "450",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_6_blur.jpg",
       "effect": [
@@ -97,9 +97,9 @@
     {
       "id": 117,
       "type": "攻击",
-      "level": 1,
+      "level": "1",
       "name": "冲能拳套",
-      "price": 550,
+      "price": "550",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_7.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_7_blur.jpg",
       "effect": [
@@ -112,9 +112,9 @@
     {
       "id": 121,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "风暴巨剑",
-      "price": 910,
+      "price": "910",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_1_blur.jpg",
       "effect": [
@@ -127,9 +127,9 @@
     {
       "id": 122,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "日冕",
-      "price": 740,
+      "price": "740",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_2_blur.jpg",
       "effect": [
@@ -158,9 +158,9 @@
     {
       "id": 123,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "狂暴双刃",
-      "price": 890,
+      "price": "890",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_3_blur.jpg",
       "effect": [
@@ -181,9 +181,9 @@
     {
       "id": 124,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "陨星",
-      "price": 1080,
+      "price": "1080",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_4_blur.jpg",
       "effect": [
@@ -207,9 +207,9 @@
     {
       "id": 125,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "速击之枪",
-      "price": 880,
+      "price": "880",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_5_blur.jpg",
       "effect": [
@@ -229,9 +229,9 @@
     {
       "id": 126,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "血魂刃",
-      "price": 830,
+      "price": "830",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_6_blur.jpg",
       "effect": [
@@ -256,10 +256,10 @@
     {
       "id": 127,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "穿云弓",
       "desc": "远程打坦克用",
-      "price": 1100,
+      "price": "1100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_7.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_7_blur.jpg",
       "effect": [
@@ -283,10 +283,10 @@
     {
       "id": 128,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "名刀·司命",
       "desc": "保命",
-      "price": 1900,
+      "price": "1900",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_8.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_8_blur.jpg",
       "effect": [
@@ -311,10 +311,10 @@
     {
       "id": 129,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "碎星锤",
       "desc": "打坦克用",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_9.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_9_blur.jpg",
       "effect": [
@@ -331,10 +331,10 @@
     {
       "id": 1210,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "破魔刀",
       "desc": "增加法术防御",
-      "price": 2090,
+      "price": "2090",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_10.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_10_blur.jpg",
       "effect": [
@@ -362,9 +362,9 @@
     {
       "id": 1211,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "寒霜袭侵",
-      "price": 2050,
+      "price": "2050",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_11.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_11_blur.jpg",
       "effect": [
@@ -393,9 +393,9 @@
     {
       "id": 1212,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "制裁之刃",
-      "price": 1860,
+      "price": "1860",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_12.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_12_blur.jpg",
       "effect": [
@@ -429,10 +429,10 @@
     {
       "id": 1213,
       "type": "攻击",
-      "level": 2,
+      "level": "2",
       "name": "纯净苍穹",
       "desc": "暂时增加免伤",
-      "price": 2120,
+      "price": "2120",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_13.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_13_blur.jpg",
       "effect": [
@@ -467,10 +467,10 @@
     {
       "id": 131,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "末世",
       "desc": "普攻额外伤害",
-      "price": 2160,
+      "price": "2160",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_1_blur.jpg",
       "effect": [
@@ -498,10 +498,10 @@
     {
       "id": 132,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "泣血之刃",
       "desc": "物理吸血",
-      "price": 1800,
+      "price": "1800",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_2_blur.jpg",
       "effect": [
@@ -530,10 +530,10 @@
     {
       "id": 133,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "无尽战刃",
       "desc": "高额暴击伤害",
-      "price": 2140,
+      "price": "2140",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_3_blur.jpg",
       "effect": [
@@ -557,10 +557,10 @@
     {
       "id": 134,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "宗师之力",
       "desc": "强化普攻",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_4_blur.jpg",
       "effect": [
@@ -593,10 +593,10 @@
     {
       "id": 135,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "闪电匕首",
       "desc": "普攻附带闪电",
-      "price": 1840,
+      "price": "1840",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_5_blur.jpg",
       "effect": [
@@ -620,10 +620,10 @@
     {
       "id": 136,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "影刃",
       "desc": "暴击增加移速",
-      "price": 1950,
+      "price": "1950",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_6_blur.jpg",
       "effect": [
@@ -651,10 +651,10 @@
     {
       "id": 137,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "暗影战斧",
       "desc": "打脆皮用",
-      "price": 2090,
+      "price": "2090",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_7.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_7_blur.jpg",
       "effect": [
@@ -688,10 +688,10 @@
     {
       "id": 138,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "破军",
       "desc": "高额攻击",
-      "price": 2950,
+      "price": "2950",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_8.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_8_blur.jpg",
       "effect": [
@@ -711,10 +711,10 @@
     {
       "id": 139,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "逐日之弓",
       "desc": "攻击距离变远",
-      "price": 2050,
+      "price": "2050",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_9.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_9_blur.jpg",
       "effect": [
@@ -748,10 +748,10 @@
     {
       "id": 1310,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "破晓",
       "desc": "射手神装",
-      "price": 3400,
+      "price": "3400",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_10.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_10_blur.jpg",
       "effect": [
@@ -784,10 +784,10 @@
     {
       "id": 1311,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "日渊",
       "desc": "攻击距离变远",
-      "price": 3300,
+      "price": "3300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_11.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_11_blur.jpg",
       "effect": [
@@ -821,10 +821,10 @@
     {
       "id": 1312,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "天穹",
       "desc": "暂时增加免伤",
-      "price": 3370,
+      "price": "3370",
       "note": "<p>那一刻，徘徊而没落的王,在暗与光的彷徨中做出最终的抉择</p>",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_12.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_12_blur.jpg",
@@ -860,10 +860,10 @@
     {
       "id": 1313,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "铸梦·逐风",
       "desc": "爆发攻速",
-      "price": 2140,
+      "price": "2140",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_13.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_13_blur.jpg",
       "effect": [
@@ -893,10 +893,10 @@
     {
       "id": 1314,
       "type": "攻击",
-      "level": 3,
+      "level": "3",
       "name": "铸梦·破空",
       "desc": "普攻击退目标",
-      "price": 2130,
+      "price": "2130",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_14.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_14_blur.jpg",
       "effect": [
@@ -930,9 +930,9 @@
     {
       "id": 211,
       "type": "法术",
-      "level": 1,
+      "level": "1",
       "name": "咒术典籍",
-      "price": 300,
+      "price": "300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_1_blur.jpg",
       "effect": [
@@ -945,9 +945,9 @@
     {
       "id": 212,
       "type": "法术",
-      "level": 1,
+      "level": "1",
       "name": "蓝宝石",
-      "price": 220,
+      "price": "220",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_2_blur.jpg",
       "effect": [
@@ -960,9 +960,9 @@
     {
       "id": 213,
       "type": "法术",
-      "level": 1,
+      "level": "1",
       "name": "炼金护符",
-      "price": 120,
+      "price": "120",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_3_blur.jpg",
       "effect": [
@@ -975,9 +975,9 @@
     {
       "id": 214,
       "type": "法术",
-      "level": 1,
+      "level": "1",
       "name": "圣者法典",
-      "price": 400,
+      "price": "400",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_4_blur.jpg",
       "effect": [
@@ -994,9 +994,9 @@
     {
       "id": 215,
       "type": "法术",
-      "level": 1,
+      "level": "1",
       "name": "元素杖",
-      "price": 540,
+      "price": "540",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_5_blur.jpg",
       "effect": [
@@ -1009,9 +1009,9 @@
     {
       "id": 221,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "大棒",
-      "price": 820,
+      "price": "820",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_1_blur.jpg",
       "effect": [
@@ -1024,9 +1024,9 @@
     {
       "id": 222,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "血族之书",
-      "price": 1240,
+      "price": "1240",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_2_blur.jpg",
       "effect": [
@@ -1050,9 +1050,9 @@
     {
       "id": 223,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "光辉之剑",
-      "price": 730,
+      "price": "730",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_3_blur.jpg",
       "effect": [
@@ -1077,9 +1077,9 @@
     {
       "id": 224,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "魔道之石",
-      "price": 890,
+      "price": "890",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_4_blur.jpg",
       "effect": [
@@ -1100,9 +1100,9 @@
     {
       "id": 225,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "进化水晶",
-      "price": 720,
+      "price": "720",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_5_blur.jpg",
       "effect": [
@@ -1126,9 +1126,9 @@
     {
       "id": 226,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "破碎圣杯",
-      "price": 900,
+      "price": "900",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_6_blur.jpg",
       "effect": [
@@ -1149,9 +1149,9 @@
     {
       "id": 227,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "云灵木",
-      "price": 970,
+      "price": "970",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_7.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_7_blur.jpg",
       "effect": [
@@ -1175,10 +1175,10 @@
     {
       "id": 228,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "辉月",
       "desc": "暂时无敌",
-      "price": 1990,
+      "price": "1990",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_8.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_8_blur.jpg",
       "effect": [
@@ -1203,10 +1203,10 @@
     {
       "id": 229,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "炽热支配者",
       "desc": "残血增加护盾",
-      "price": 1950,
+      "price": "1950",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_9.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_9_blur.jpg",
       "effect": [
@@ -1227,10 +1227,10 @@
     {
       "id": 2210,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "日暮之流",
       "desc": "提升法术穿透",
-      "price": 2120,
+      "price": "2120",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_10.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_10_blur.jpg",
       "effect": [
@@ -1259,10 +1259,10 @@
     {
       "id": 2211,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "金色圣剑",
       "desc": "持续强化普攻",
-      "price": 2070,
+      "price": "2070",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_11.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_11_blur.jpg",
       "effect": [
@@ -1297,10 +1297,10 @@
     {
       "id": 2212,
       "type": "法术",
-      "level": 2,
+      "level": "2",
       "name": "梦魇之牙",
       "desc": "减少敌人回血",
-      "price": 2050,
+      "price": "2050",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_12.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_12_blur.jpg",
       "effect": [
@@ -1328,10 +1328,10 @@
     {
       "id": 231,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "圣杯",
       "desc": "快速回蓝回血",
-      "price": 1800,
+      "price": "1800",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_1_blur.jpg",
       "effect": [
@@ -1359,10 +1359,10 @@
     {
       "id": 232,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "虚无法杖",
       "desc": "打坦克用",
-      "price": 2110,
+      "price": "2110",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_2_blur.jpg",
       "effect": [
@@ -1386,10 +1386,10 @@
     {
       "id": 233,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "博学者之怒",
       "desc": "大幅提升法强",
-      "price": 2300,
+      "price": "2300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_3_blur.jpg",
       "effect": [
@@ -1409,10 +1409,10 @@
     {
       "id": 234,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "回响之杖",
       "desc": "技能命中爆炸",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_4_blur.jpg",
       "effect": [
@@ -1437,10 +1437,10 @@
     {
       "id": 235,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "痛苦面具",
       "desc": "技能额外伤害",
-      "price": 2040,
+      "price": "2040",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_5_blur.jpg",
       "effect": [
@@ -1469,10 +1469,10 @@
     {
       "id": 236,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "巫术法杖",
       "desc": "强化普攻",
-      "price": 2120,
+      "price": "2120",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_6_blur.jpg",
       "effect": [
@@ -1505,10 +1505,10 @@
     {
       "id": 237,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "时之预言",
       "desc": "攻防兼备",
-      "price": 2090,
+      "price": "2090",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_7.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_7_blur.jpg",
       "effect": [
@@ -1541,10 +1541,10 @@
     {
       "id": 238,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "破茧之衣",
       "desc": "降低近距离伤害",
-      "price": 2160,
+      "price": "2160",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_8.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_8_blur.jpg",
       "effect": [
@@ -1568,10 +1568,10 @@
     {
       "id": 239,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "贤者之书",
       "desc": "法师神装",
-      "price": 2990,
+      "price": "2990",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_9.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_9_blur.jpg",
       "effect": [
@@ -1595,10 +1595,10 @@
     {
       "id": 2310,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "噬神之书",
       "desc": "法术吸血",
-      "price": 2090,
+      "price": "2090",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_10.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_10_blur.jpg",
       "effect": [
@@ -1626,10 +1626,10 @@
     {
       "id": 2311,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "凝冰之息",
       "desc": "技能命中减速",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_11.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_11_blur.jpg",
       "effect": [
@@ -1663,10 +1663,10 @@
     {
       "id": 2312,
       "type": "法术",
-      "level": 3,
+      "level": "3",
       "name": "月神",
       "desc": "暂时无敌",
-      "price": 3240,
+      "price": "3240",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_12.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_12_blur.jpg",
       "effect": [
@@ -1692,9 +1692,9 @@
     {
       "id": 311,
       "type": "防御",
-      "level": 1,
+      "level": "1",
       "name": "红玛瑙",
-      "price": 300,
+      "price": "300",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_1_blur.jpg",
       "effect": [
@@ -1707,9 +1707,9 @@
     {
       "id": 312,
       "type": "防御",
-      "level": 1,
+      "level": "1",
       "name": "布甲",
-      "price": 220,
+      "price": "220",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_2_blur.jpg",
       "effect": [
@@ -1722,9 +1722,9 @@
     {
       "id": 313,
       "type": "防御",
-      "level": 1,
+      "level": "1",
       "name": "抗魔披风",
-      "price": 220,
+      "price": "220",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_3_blur.jpg",
       "effect": [
@@ -1737,9 +1737,9 @@
     {
       "id": 314,
       "type": "防御",
-      "level": 1,
+      "level": "1",
       "name": "提神水晶",
-      "price": 140,
+      "price": "140",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_4_blur.jpg",
       "effect": [
@@ -1752,9 +1752,9 @@
     {
       "id": 321,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "力量腰带",
-      "price": 900,
+      "price": "900",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_1_blur.jpg",
       "effect": [
@@ -1767,9 +1767,9 @@
     {
       "id": 322,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "熔炼之心",
-      "price": 800,
+      "price": "800",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_2_blur.jpg",
       "effect": [
@@ -1789,9 +1789,9 @@
     {
       "id": 323,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "神隐斗篷",
-      "price": 1020,
+      "price": "1020",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_3_blur.jpg",
       "effect": [
@@ -1812,9 +1812,9 @@
     {
       "id": 324,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "雪山圆盾",
-      "price": 900,
+      "price": "900",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_4_blur.jpg",
       "effect": [
@@ -1835,10 +1835,10 @@
     {
       "id": 325,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "守护者之铠",
       "desc": "受击减速敌人",
-      "price": 730,
+      "price": "730",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_5_blur.jpg",
       "effect": [
@@ -1858,10 +1858,10 @@
     {
       "id": 326,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "荆棘护手",
       "desc": "攻防兼备",
-      "price": 710,
+      "price": "710",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_6_blur.jpg",
       "effect": [
@@ -1878,10 +1878,10 @@
     {
       "id": 327,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "暗夜小甲",
       "desc": "对抗爆发伤害",
-      "price": 710,
+      "price": "710",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_7.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_7_blur.jpg",
       "effect": [
@@ -1902,10 +1902,10 @@
     {
       "id": 328,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "反伤刺甲",
       "desc": "反弹物理伤害",
-      "price": 1950,
+      "price": "1950",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_8.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_8_blur.jpg",
       "effect": [
@@ -1935,10 +1935,10 @@
     {
       "id": 329,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "血魔之怒",
       "desc": "暂时获得攻击和护盾",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_9.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_9_blur.jpg",
       "effect": [
@@ -1969,10 +1969,10 @@
     {
       "id": 3210,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "冰霜冲击",
       "desc": "群体控制",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_10.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_10_blur.jpg",
       "effect": [
@@ -2004,10 +2004,10 @@
     {
       "id": 3211,
       "type": "防御",
-      "level": 2,
+      "level": "2",
       "name": "原初遗珠",
       "desc": "装备进化",
-      "price": 1250,
+      "price": "1250",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_11.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_11_blur.jpg",
       "effect": [
@@ -2033,10 +2033,10 @@
     {
       "id": 331,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "红莲斗篷",
       "desc": "灼烧周围敌人",
-      "price": 1800,
+      "price": "1800",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_1_blur.jpg",
       "effect": [
@@ -2061,10 +2061,10 @@
     {
       "id": 332,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "霸者重装",
       "desc": "脱战快速回血",
-      "price": 2070,
+      "price": "2070",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_2_blur.jpg",
       "effect": [
@@ -2088,10 +2088,10 @@
     {
       "id": 333,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "不祥征兆",
       "desc": "受击减速敌人",
-      "price": 2180,
+      "price": "2180",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_3_blur.jpg",
       "effect": [
@@ -2115,10 +2115,10 @@
     {
       "id": 334,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "不死鸟之眼",
       "desc": "增加回血效果",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_4_blur.jpg",
       "effect": [
@@ -2146,10 +2146,10 @@
     {
       "id": 335,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "魔女斗篷",
       "desc": "吸收法术伤害",
-      "price": 2080,
+      "price": "2080",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_5_blur.jpg",
       "effect": [
@@ -2182,10 +2182,10 @@
     {
       "id": 336,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "极寒风暴",
       "desc": "群体伤害减速",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_6_blur.jpg",
       "effect": [
@@ -2214,10 +2214,10 @@
     {
       "id": 337,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "贤者的庇护",
       "desc": "原地复活",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_7.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_7_blur.jpg",
       "effect": [
@@ -2243,10 +2243,10 @@
     {
       "id": 338,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "暴烈之甲",
       "desc": "能扛能打",
-      "price": 1950,
+      "price": "1950",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_8.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_8_blur.jpg",
       "effect": [
@@ -2278,10 +2278,10 @@
     {
       "id": 339,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "永夜守护",
       "desc": "对抗爆发伤害",
-      "price": 2110,
+      "price": "2110",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_9.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_9_blur.jpg",
       "effect": [
@@ -2307,10 +2307,10 @@
     {
       "id": 3310,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "冰痕之握",
       "desc": "强化普攻减速",
-      "price": 2100,
+      "price": "2100",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_10.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_10_blur.jpg",
       "effect": [
@@ -2347,10 +2347,10 @@
     {
       "id": 3311,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "怒魂",
       "desc": "暂时获得攻击和护盾",
-      "price": 3350,
+      "price": "3350",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_11.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_11_blur.jpg",
       "effect": [
@@ -2380,10 +2380,10 @@
     {
       "id": 3312,
       "type": "防御",
-      "level": 3,
+      "level": "3",
       "name": "凛冬",
       "desc": "群体控制",
-      "price": 3350,
+      "price": "3350",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_12.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_12_blur.jpg",
       "effect": [
@@ -2415,9 +2415,9 @@
     {
       "id": 411,
       "type": "移动",
-      "level": 1,
+      "level": "1",
       "name": "神速之靴",
-      "price": 250,
+      "price": "250",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_1_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_1_1_blur.jpg",
       "motivation": [
@@ -2431,9 +2431,9 @@
     {
       "id": 421,
       "type": "移动",
-      "level": 2,
+      "level": "2",
       "name": "影忍之足",
-      "price": 710,
+      "price": "710",
       "desc": "减少普攻伤害",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_1_blur.jpg",
@@ -2459,9 +2459,9 @@
     {
       "id": 422,
       "type": "移动",
-      "level": 2,
+      "level": "2",
       "name": "抵抗之靴",
-      "price": 710,
+      "price": "710",
       "desc": "减少被控时长",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_2_blur.jpg",
@@ -2487,9 +2487,9 @@
     {
       "id": 423,
       "type": "移动",
-      "level": 2,
+      "level": "2",
       "name": "冷静之靴",
-      "price": 710,
+      "price": "710",
       "desc": "加快技能冷却",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_3_blur.jpg",
@@ -2515,9 +2515,9 @@
     {
       "id": 424,
       "type": "移动",
-      "level": 2,
+      "level": "2",
       "name": "秘法之靴",
-      "price": 710,
+      "price": "710",
       "desc": "法术穿透",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_4_blur.jpg",
@@ -2543,9 +2543,9 @@
     {
       "id": 425,
       "type": "移动",
-      "level": 2,
+      "level": "2",
       "name": "急速战靴",
-      "price": 710,
+      "price": "710",
       "desc": "增加攻速",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_5_blur.jpg",
@@ -2566,9 +2566,9 @@
     {
       "id": 426,
       "type": "移动",
-      "level": 2,
+      "level": "2",
       "name": "疾步之靴",
-      "price": 710,
+      "price": "710",
       "desc": "脱战后加移速",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_6_blur.jpg",
@@ -2588,9 +2588,9 @@
     {
       "id": 511,
       "type": "打野",
-      "level": 1,
+      "level": "1",
       "name": "狩猎宽刃",
-      "price": 250,
+      "price": "250",
       "desc": "加快打野速度",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_1_blur.jpg",
@@ -2611,9 +2611,9 @@
     {
       "id": 512,
       "type": "打野",
-      "level": 1,
+      "level": "1",
       "name": "弃鳞短刃",
-      "price": 250,
+      "price": "250",
       "desc": "加快打野速度",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_2_blur.jpg",
@@ -2634,9 +2634,9 @@
     {
       "id": 521,
       "type": "打野",
-      "level": 2,
+      "level": "2",
       "name": "游击弯刀",
-      "price": 750,
+      "price": "750",
       "desc": "打野怪加法强",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_1_blur.jpg",
@@ -2668,9 +2668,9 @@
     {
       "id": 522,
       "type": "打野",
-      "level": 2,
+      "level": "2",
       "name": "追击刀锋",
-      "price": 750,
+      "price": "750",
       "desc": "打野怪加攻击",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_2_blur.jpg",
@@ -2696,9 +2696,9 @@
     {
       "id": 523,
       "type": "打野",
-      "level": 2,
+      "level": "2",
       "name": "巡守利斧",
-      "price": 750,
+      "price": "750",
       "desc": "打野怪加生命",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_3_blur.jpg",
@@ -2730,9 +2730,9 @@
     {
       "id": 524,
       "type": "打野",
-      "level": 2,
+      "level": "2",
       "name": "龙鳞利剑",
-      "price": 750,
+      "price": "750",
       "desc": "真实伤害灼烧",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_4_blur.jpg",
@@ -2765,9 +2765,9 @@
     {
       "id": 531,
       "type": "打野",
-      "level": 3,
+      "level": "3",
       "name": "符文大剑",
-      "price": 2160,
+      "price": "2160",
       "desc": "打野怪加法强",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_1_blur.jpg",
@@ -2807,9 +2807,9 @@
     {
       "id": 532,
       "type": "打野",
-      "level": 3,
+      "level": "3",
       "name": "贪婪之噬",
-      "price": 2160,
+      "price": "2160",
       "desc": "打野怪加攻击",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_2_blur.jpg",
@@ -2844,9 +2844,9 @@
     {
       "id": 533,
       "type": "打野",
-      "level": 3,
+      "level": "3",
       "name": "巨人之握",
-      "price": 2160,
+      "price": "2160",
       "desc": "打野怪加生命",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_3_blur.jpg",
@@ -2878,9 +2878,9 @@
     {
       "id": 534,
       "type": "打野",
-      "level": 3,
+      "level": "3",
       "name": "浴火之怒",
-      "price": 2160,
+      "price": "2160",
       "desc": "真实伤害灼烧",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_4_blur.jpg",
@@ -2912,9 +2912,9 @@
     {
       "id": 611,
       "type": "游走",
-      "level": 1,
+      "level": "1",
       "name": "学识宝石",
-      "price": 300,
+      "price": "300",
       "desc": "额外金币经验",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_1_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_1_1_blur.jpg",
@@ -2942,9 +2942,9 @@
     {
       "id": 621,
       "type": "游走",
-      "level": 2,
+      "level": "2",
       "name": "凤鸣指环",
-      "price": 900,
+      "price": "900",
       "desc": "光环加输出",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_1_blur.jpg",
@@ -2987,9 +2987,9 @@
     {
       "id": 622,
       "type": "游走",
-      "level": 2,
+      "level": "2",
       "name": "鼓舞之盾",
-      "price": 900,
+      "price": "900",
       "desc": "光环加生存",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_2_blur.jpg",
@@ -3032,9 +3032,9 @@
     {
       "id": 623,
       "type": "游走",
-      "level": 2,
+      "level": "2",
       "name": "风之轻语",
-      "price": 1100,
+      "price": "1100",
       "desc": "群体护盾",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_3_blur.jpg",
@@ -3078,9 +3078,9 @@
     {
       "id": 624,
       "type": "游走",
-      "level": 2,
+      "level": "2",
       "name": "风灵纹章",
-      "price": 1100,
+      "price": "1100",
       "desc": "群体加速",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_4_blur.jpg",
@@ -3124,9 +3124,9 @@
     {
       "id": 625,
       "type": "游走",
-      "level": 2,
+      "level": "2",
       "name": "出影晶石",
-      "price": 1100,
+      "price": "1100",
       "desc": "范围伤害和视野",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_5_blur.jpg",
@@ -3169,9 +3169,9 @@
     {
       "id": 626,
       "type": "游走",
-      "level": 2,
+      "level": "2",
       "name": "星之佩饰",
-      "price": 1100,
+      "price": "1100",
       "desc": "与队友分摊伤害",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_6_blur.jpg",
@@ -3215,9 +3215,9 @@
     {
       "id": 631,
       "type": "游走",
-      "level": 3,
+      "level": "3",
       "name": "极影",
-      "price": 1900,
+      "price": "1900",
       "desc": "光环加出",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_1.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_1_blur.jpg",
@@ -3260,9 +3260,9 @@
     {
       "id": 632,
       "type": "游走",
-      "level": 3,
+      "level": "3",
       "name": "近卫荣耀",
-      "price": 1900,
+      "price": "1900",
       "desc": "光环加生存",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_2.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_2_blur.jpg",
@@ -3305,9 +3305,9 @@
     {
       "id": 633,
       "type": "游走",
-      "level": 3,
+      "level": "3",
       "name": "救赎之翼",
-      "price": 1900,
+      "price": "1900",
       "desc": "群体护盾",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_3.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_3_blur.jpg",
@@ -3350,9 +3350,9 @@
     {
       "id": 634,
       "type": "游走",
-      "level": 3,
+      "level": "3",
       "name": "奔狼纹章",
-      "price": 1900,
+      "price": "1900",
       "desc": "群体加速",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_4.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_4_blur.jpg",
@@ -3396,9 +3396,9 @@
     {
       "id": 635,
       "type": "游走",
-      "level": 3,
+      "level": "3",
       "name": "形昭之鉴",
-      "price": 1900,
+      "price": "1900",
       "desc": "范围伤害和视野",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_5.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_5_blur.jpg",
@@ -3443,9 +3443,9 @@
     {
       "id": 636,
       "type": "游走",
-      "level": 3,
+      "level": "3",
       "name": "星泉",
-      "price": 1900,
+      "price": "1900",
       "desc": "与队友分摊伤害",
       "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_6.jpg",
       "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_6_blur.jpg",
