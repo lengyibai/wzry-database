@@ -2,123 +2,123 @@
   "data": [
     {
       "id": 1,
-      "value": [1]
+      "value": "传承"
     },
     {
       "id": 2,
-      "value": [1]
+      "value": "圣人"
     },
     {
       "id": 3,
-      "value": [6, 7]
+      "value": "红月"
     },
     {
       "id": 4,
-      "value": [1, 8]
+      "value": "异变"
     },
     {
       "id": 5,
-      "value": [1, 5]
+      "value": "纷争"
     },
     {
       "id": 6,
-      "value": [7]
+      "value": "无双"
     },
     {
       "id": 7,
-      "value": [2, 3, 6]
+      "value": "宿命"
     },
     {
       "id": 8,
-      "value": [1, 8]
+      "value": "梦魇"
     },
     {
       "id": 9,
-      "value": [1, 6]
+      "value": "凶兆"
     },
     {
       "id": 10,
-      "value": [7]
+      "value": "祸源"
     },
     {
       "id": 11,
-      "value": [2]
+      "value": "长生"
     },
     {
       "id": 12,
-      "value": [2]
+      "value": "冥想"
     },
     {
       "id": 13,
-      "value": [4, 6]
+      "value": "狩猎"
     },
     {
       "id": 14,
-      "value": [5]
+      "value": "贪婪"
     },
     {
       "id": 15,
-      "value": [5]
+      "value": "夺萃"
     },
     {
       "id": 16,
-      "value": [2, 7]
+      "value": "兽痕"
     },
     {
       "id": 17,
-      "value": [3, 5]
+      "value": "繁荣"
     },
     {
       "id": 18,
-      "value": [1, 5]
+      "value": "轮回"
     },
     {
       "id": 19,
-      "value": [2, 4]
+      "value": "调和"
     },
     {
       "id": 20,
-      "value": [1, 4]
+      "value": "隐匿"
     },
     {
       "id": 21,
-      "value": [1, 8]
+      "value": "鹰眼"
     },
     {
       "id": 22,
-      "value": [6, 8]
+      "value": "心眼"
     },
     {
       "id": 23,
-      "value": [4]
+      "value": "怜悯"
     },
     {
       "id": 24,
-      "value": [3]
+      "value": "霸者"
     },
     {
       "id": 25,
-      "value": [3]
+      "value": "均衡"
     },
     {
       "id": 26,
-      "value": [2, 4]
+      "value": "虚空"
     },
     {
       "id": 27,
-      "value": [3]
+      "value": "灵山"
     },
     {
       "id": 28,
-      "value": [1, 4]
+      "value": "献祭"
     },
     {
       "id": 29,
-      "value": [3, 5]
+      "value": "敬畏"
     },
     {
       "id": 30,
-      "value": [3, 4]
+      "value": "回声"
     }
   ]
 }

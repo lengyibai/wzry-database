@@ -1,0 +1,816 @@
+{
+  "data": [
+    {
+      "id": 107,
+      "survival": 60,
+      "attack": 60,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 109,
+      "survival": 20,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 20
+    },
+    {
+      "id": 115,
+      "survival": 50,
+      "attack": 40,
+      "effect": 90,
+      "difficulty": 40
+    },
+    {
+      "id": 120,
+      "survival": 80,
+      "attack": 30,
+      "effect": 40,
+      "difficulty": 40
+    },
+    {
+      "id": 136,
+      "survival": 20,
+      "attack": 10,
+      "effect": 100,
+      "difficulty": 60
+    },
+    {
+      "id": 146,
+      "survival": 50,
+      "attack": 40,
+      "effect": 70,
+      "difficulty": 90
+    },
+    {
+      "id": 105,
+      "survival": 100,
+      "attack": 30,
+      "effect": 40,
+      "difficulty": 30
+    },
+    {
+      "id": 110,
+      "survival": 30,
+      "attack": 40,
+      "effect": 100,
+      "difficulty": 60
+    },
+    {
+      "id": 116,
+      "survival": 30,
+      "attack": 100,
+      "effect": 40,
+      "difficulty": 60
+    },
+    {
+      "id": 127,
+      "survival": 10,
+      "attack": 10,
+      "effect": 70,
+      "difficulty": 40
+    },
+    {
+      "id": 139,
+      "survival": 60,
+      "attack": 60,
+      "effect": 40,
+      "difficulty": 30
+    },
+    {
+      "id": 148,
+      "survival": 10,
+      "attack": 80,
+      "effect": 80,
+      "difficulty": 30
+    },
+    {
+      "id": 106,
+      "survival": 20,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 30
+    },
+    {
+      "id": 112,
+      "survival": 10,
+      "attack": 100,
+      "effect": 30,
+      "difficulty": 40
+    },
+    {
+      "id": 117,
+      "survival": 70,
+      "attack": 50,
+      "effect": 70,
+      "difficulty": 40
+    },
+    {
+      "id": 133,
+      "survival": 40,
+      "attack": 90,
+      "effect": 30,
+      "difficulty": 20
+    },
+    {
+      "id": 156,
+      "survival": 30,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 60
+    },
+    {
+      "id": 108,
+      "survival": 50,
+      "attack": 40,
+      "effect": 50,
+      "difficulty": 60
+    },
+    {
+      "id": 113,
+      "survival": 80,
+      "attack": 20,
+      "effect": 40,
+      "difficulty": 20
+    },
+    {
+      "id": 118,
+      "survival": 20,
+      "attack": 10,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 129,
+      "survival": 60,
+      "attack": 60,
+      "effect": 30,
+      "difficulty": 10
+    },
+    {
+      "id": 134,
+      "survival": 70,
+      "attack": 50,
+      "effect": 20,
+      "difficulty": 50
+    },
+    {
+      "id": 150,
+      "survival": 20,
+      "attack": 70,
+      "effect": 30,
+      "difficulty": 80
+    },
+    {
+      "id": 166,
+      "survival": 80,
+      "attack": 30,
+      "effect": 50,
+      "difficulty": 20
+    },
+    {
+      "id": 111,
+      "survival": 30,
+      "attack": 80,
+      "effect": 50,
+      "difficulty": 60
+    },
+    {
+      "id": 114,
+      "survival": 70,
+      "attack": 30,
+      "effect": 50,
+      "difficulty": 30
+    },
+    {
+      "id": 119,
+      "survival": 50,
+      "attack": 40,
+      "effect": 30,
+      "difficulty": 40
+    },
+    {
+      "id": 130,
+      "survival": 50,
+      "attack": 50,
+      "effect": 50,
+      "difficulty": 50
+    },
+    {
+      "id": 135,
+      "survival": 90,
+      "attack": 40,
+      "effect": 50,
+      "difficulty": 30
+    },
+    {
+      "id": 144,
+      "survival": 90,
+      "attack": 50,
+      "effect": 50,
+      "difficulty": 10
+    },
+    {
+      "id": 152,
+      "survival": 40,
+      "attack": 40,
+      "effect": 80,
+      "difficulty": 40
+    },
+    {
+      "id": 142,
+      "survival": 40,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 40
+    },
+    {
+      "id": 128,
+      "survival": 60,
+      "attack": 60,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 124,
+      "survival": 30,
+      "attack": 40,
+      "effect": 90,
+      "difficulty": 70
+    },
+    {
+      "id": 168,
+      "survival": 70,
+      "attack": 40,
+      "effect": 50,
+      "difficulty": 50
+    },
+    {
+      "id": 167,
+      "survival": 50,
+      "attack": 80,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 121,
+      "survival": 60,
+      "attack": 50,
+      "effect": 70,
+      "difficulty": 50
+    },
+    {
+      "id": 141,
+      "survival": 40,
+      "attack": 20,
+      "effect": 70,
+      "difficulty": 60
+    },
+    {
+      "id": 123,
+      "survival": 60,
+      "attack": 60,
+      "effect": 30,
+      "difficulty": 40
+    },
+    {
+      "id": 154,
+      "survival": 50,
+      "attack": 70,
+      "effect": 50,
+      "difficulty": 80
+    },
+    {
+      "id": 169,
+      "survival": 30,
+      "attack": 80,
+      "effect": 40,
+      "difficulty": 30
+    },
+    {
+      "id": 171,
+      "survival": 100,
+      "attack": 40,
+      "effect": 50,
+      "difficulty": 60
+    },
+    {
+      "id": 170,
+      "survival": 60,
+      "attack": 60,
+      "effect": 40,
+      "difficulty": 40
+    },
+    {
+      "id": 153,
+      "survival": 40,
+      "attack": 80,
+      "effect": 40,
+      "difficulty": 50
+    },
+    {
+      "id": 162,
+      "survival": 30,
+      "attack": 80,
+      "effect": 60,
+      "difficulty": 40
+    },
+    {
+      "id": 131,
+      "survival": 40,
+      "attack": 70,
+      "effect": 60,
+      "difficulty": 90
+    },
+    {
+      "id": 175,
+      "survival": 50,
+      "attack": 40,
+      "effect": 70,
+      "difficulty": 50
+    },
+    {
+      "id": 173,
+      "survival": 30,
+      "attack": 80,
+      "effect": 50,
+      "difficulty": 50
+    },
+    {
+      "id": 149,
+      "survival": 80,
+      "attack": 40,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 157,
+      "survival": 30,
+      "attack": 30,
+      "effect": 80,
+      "difficulty": 80
+    },
+    {
+      "id": 174,
+      "survival": 40,
+      "attack": 80,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 140,
+      "survival": 60,
+      "attack": 60,
+      "effect": 60,
+      "difficulty": 80
+    },
+    {
+      "id": 184,
+      "survival": 50,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 30
+    },
+    {
+      "id": 126,
+      "survival": 70,
+      "attack": 40,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 183,
+      "survival": 70,
+      "attack": 60,
+      "effect": 40,
+      "difficulty": 60
+    },
+    {
+      "id": 132,
+      "survival": 30,
+      "attack": 60,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 163,
+      "survival": 50,
+      "attack": 60,
+      "effect": 50,
+      "difficulty": 50
+    },
+    {
+      "id": 177,
+      "survival": 30,
+      "attack": 80,
+      "effect": 30,
+      "difficulty": 50
+    },
+    {
+      "id": 178,
+      "survival": 60,
+      "attack": 60,
+      "effect": 50,
+      "difficulty": 50
+    },
+    {
+      "id": 186,
+      "survival": 50,
+      "attack": 10,
+      "effect": 60,
+      "difficulty": 70
+    },
+    {
+      "id": 180,
+      "survival": 80,
+      "attack": 30,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 190,
+      "survival": 30,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 60
+    },
+    {
+      "id": 192,
+      "survival": 40,
+      "attack": 90,
+      "effect": 40,
+      "difficulty": 40
+    },
+    {
+      "id": 191,
+      "survival": 10,
+      "attack": 10,
+      "effect": 60,
+      "difficulty": 60
+    },
+    {
+      "id": 187,
+      "survival": 80,
+      "attack": 20,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 182,
+      "survival": 40,
+      "attack": 30,
+      "effect": 80,
+      "difficulty": 70
+    },
+    {
+      "id": 189,
+      "survival": 50,
+      "attack": 20,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 193,
+      "survival": 70,
+      "attack": 70,
+      "effect": 40,
+      "difficulty": 20
+    },
+    {
+      "id": 196,
+      "survival": 20,
+      "attack": 70,
+      "effect": 40,
+      "difficulty": 70
+    },
+    {
+      "id": 195,
+      "survival": 40,
+      "attack": 80,
+      "effect": 40,
+      "difficulty": 100
+    },
+    {
+      "id": 194,
+      "survival": 70,
+      "attack": 40,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 198,
+      "survival": 80,
+      "attack": 40,
+      "effect": 40,
+      "difficulty": 40
+    },
+    {
+      "id": 179,
+      "survival": 30,
+      "attack": 10,
+      "effect": 90,
+      "difficulty": 70
+    },
+    {
+      "id": 501,
+      "survival": 40,
+      "attack": 40,
+      "effect": 60,
+      "difficulty": 30
+    },
+    {
+      "id": 199,
+      "survival": 20,
+      "attack": 80,
+      "effect": 30,
+      "difficulty": 70
+    },
+    {
+      "id": 176,
+      "survival": 30,
+      "attack": 30,
+      "effect": 90,
+      "difficulty": 50
+    },
+    {
+      "id": 502,
+      "survival": 40,
+      "attack": 80,
+      "effect": 50,
+      "difficulty": 70
+    },
+    {
+      "id": 197,
+      "survival": 60,
+      "attack": 60,
+      "effect": 70,
+      "difficulty": 70
+    },
+    {
+      "id": 503,
+      "survival": 60,
+      "attack": 60,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 504,
+      "survival": 20,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 40
+    },
+    {
+      "id": 125,
+      "survival": 10,
+      "attack": 50,
+      "effect": 90,
+      "difficulty": 100
+    },
+    {
+      "id": 510,
+      "survival": 70,
+      "attack": 50,
+      "effect": 70,
+      "difficulty": 50
+    },
+    {
+      "id": 137,
+      "survival": 50,
+      "attack": 50,
+      "effect": 90,
+      "difficulty": 50
+    },
+    {
+      "id": 509,
+      "survival": 100,
+      "attack": 30,
+      "effect": 40,
+      "difficulty": 30
+    },
+    {
+      "id": 508,
+      "survival": 20,
+      "attack": 90,
+      "effect": 40,
+      "difficulty": 20
+    },
+    {
+      "id": 312,
+      "survival": 30,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 40
+    },
+    {
+      "id": 507,
+      "survival": 60,
+      "attack": 60,
+      "effect": 60,
+      "difficulty": 50
+    },
+    {
+      "id": 513,
+      "survival": 30,
+      "attack": 20,
+      "effect": 90,
+      "difficulty": 80
+    },
+    {
+      "id": 515,
+      "survival": 80,
+      "attack": 10,
+      "effect": 80,
+      "difficulty": 40
+    },
+    {
+      "id": 511,
+      "survival": 70,
+      "attack": 50,
+      "effect": 50,
+      "difficulty": 60
+    },
+    {
+      "id": 529,
+      "survival": 50,
+      "attack": 70,
+      "effect": 40,
+      "difficulty": 50
+    },
+    {
+      "id": 505,
+      "survival": 70,
+      "attack": 30,
+      "effect": 90,
+      "difficulty": 30
+    },
+    {
+      "id": 506,
+      "survival": 40,
+      "attack": 90,
+      "effect": 30,
+      "difficulty": 40
+    },
+    {
+      "id": 522,
+      "survival": 70,
+      "attack": 50,
+      "effect": 60,
+      "difficulty": 40
+    },
+    {
+      "id": 518,
+      "survival": 40,
+      "attack": 80,
+      "effect": 50,
+      "difficulty": 70
+    },
+    {
+      "id": 523,
+      "survival": 10,
+      "attack": 10,
+      "effect": 60,
+      "difficulty": 60
+    },
+    {
+      "id": 525,
+      "survival": 70,
+      "attack": 20,
+      "effect": 50,
+      "difficulty": 70
+    },
+    {
+      "id": 524,
+      "survival": 40,
+      "attack": 90,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 531,
+      "survival": 10,
+      "attack": 50,
+      "effect": 90,
+      "difficulty": 50
+    },
+    {
+      "id": 527,
+      "survival": 80,
+      "attack": 60,
+      "effect": 70,
+      "difficulty": 60
+    },
+    {
+      "id": 533,
+      "survival": 90,
+      "attack": 30,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 536,
+      "survival": 60,
+      "attack": 70,
+      "effect": 50,
+      "difficulty": 70
+    },
+    {
+      "id": 528,
+      "survival": 20,
+      "attack": 70,
+      "effect": 40,
+      "difficulty": 70
+    },
+    {
+      "id": 537,
+      "survival": 60,
+      "attack": 70,
+      "effect": 40,
+      "difficulty": 50
+    },
+    {
+      "id": 155,
+      "survival": 30,
+      "attack": 80,
+      "effect": 50,
+      "difficulty": 40
+    },
+    {
+      "id": 538,
+      "survival": 60,
+      "attack": 80,
+      "effect": 80,
+      "difficulty": 80
+    },
+    {
+      "id": 540,
+      "survival": 30,
+      "attack": 70,
+      "effect": 50,
+      "difficulty": 30
+    },
+    {
+      "id": 542,
+      "survival": 40,
+      "attack": 80,
+      "effect": 40,
+      "difficulty": 50
+    },
+    {
+      "id": 534,
+      "survival": 60,
+      "attack": 30,
+      "effect": 80,
+      "difficulty": 20
+    },
+    {
+      "id": 548,
+      "survival": 40,
+      "attack": 70,
+      "effect": 40,
+      "difficulty": 50
+    },
+    {
+      "id": 521,
+      "survival": 50,
+      "attack": 20,
+      "effect": 70,
+      "difficulty": 30
+    },
+    {
+      "id": 544,
+      "survival": 80,
+      "attack": 50,
+      "effect": 70,
+      "difficulty": 50
+    },
+    {
+      "id": 545,
+      "attack": 80,
+      "difficulty": 30,
+      "effect": 60,
+      "survival": 30
+    },
+    {
+      "id": 564,
+      "attack": 80,
+      "difficulty": 80,
+      "effect": 50,
+      "survival": 60
+    },
+    {
+      "id": 514,
+      "attack": 80,
+      "difficulty": 20,
+      "effect": 40,
+      "survival": 60
+    },
+    {
+      "id": 159,
+      "attack": 20,
+      "difficulty": 20,
+      "effect": 80,
+      "survival": 40
+    }
+  ]
+}

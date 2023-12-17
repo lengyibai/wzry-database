@@ -2,483 +2,483 @@
   "data": [
     {
       "id": 111,
-      "value": "攻击"
+      "value": "铁剑"
     },
     {
       "id": 112,
-      "value": "攻击"
+      "value": "匕首"
     },
     {
       "id": 113,
-      "value": "攻击"
+      "value": "搏击拳套"
     },
     {
       "id": 114,
-      "value": "攻击"
+      "value": "吸血之镰"
     },
     {
       "id": 115,
-      "value": "攻击"
+      "value": "迅捷长矛"
     },
     {
       "id": 116,
-      "value": "攻击"
+      "value": "雷鸣刃"
     },
     {
       "id": 117,
-      "value": "攻击"
+      "value": "冲能拳套"
     },
     {
       "id": 121,
-      "value": "攻击"
+      "value": "风暴巨剑"
     },
     {
       "id": 122,
-      "value": "攻击"
+      "value": "日冕"
     },
     {
       "id": 123,
-      "value": "攻击"
+      "value": "狂暴双刃"
     },
     {
       "id": 124,
-      "value": "攻击"
+      "value": "陨星"
     },
     {
       "id": 125,
-      "value": "攻击"
+      "value": "速击之枪"
     },
     {
       "id": 126,
-      "value": "攻击"
+      "value": "血魂刃"
     },
     {
       "id": 127,
-      "value": "攻击"
+      "value": "穿云弓"
     },
     {
       "id": 128,
-      "value": "攻击"
+      "value": "名刀·司命"
     },
     {
       "id": 129,
-      "value": "攻击"
+      "value": "碎星锤"
     },
     {
       "id": 1210,
-      "value": "攻击"
+      "value": "破魔刀"
     },
     {
       "id": 1211,
-      "value": "攻击"
+      "value": "寒霜袭侵"
     },
     {
       "id": 1212,
-      "value": "攻击"
+      "value": "制裁之刃"
     },
     {
       "id": 1213,
-      "value": "攻击"
+      "value": "纯净苍穹"
     },
     {
       "id": 131,
-      "value": "攻击"
+      "value": "末世"
     },
     {
       "id": 132,
-      "value": "攻击"
+      "value": "泣血之刃"
     },
     {
       "id": 133,
-      "value": "攻击"
+      "value": "无尽战刃"
     },
     {
       "id": 134,
-      "value": "攻击"
+      "value": "宗师之力"
     },
     {
       "id": 135,
-      "value": "攻击"
+      "value": "闪电匕首"
     },
     {
       "id": 136,
-      "value": "攻击"
+      "value": "影刃"
     },
     {
       "id": 137,
-      "value": "攻击"
+      "value": "暗影战斧"
     },
     {
       "id": 138,
-      "value": "攻击"
+      "value": "破军"
     },
     {
       "id": 139,
-      "value": "攻击"
+      "value": "逐日之弓"
     },
     {
       "id": 1310,
-      "value": "攻击"
+      "value": "破晓"
     },
     {
       "id": 1311,
-      "value": "攻击"
+      "value": "日渊"
     },
     {
       "id": 1312,
-      "value": "攻击"
+      "value": "天穹"
     },
     {
       "id": 1313,
-      "value": "攻击"
+      "value": "铸梦·逐风"
     },
     {
       "id": 1314,
-      "value": "攻击"
+      "value": "铸梦·破空"
     },
     {
       "id": 211,
-      "value": "法术"
+      "value": "咒术典籍"
     },
     {
       "id": 212,
-      "value": "法术"
+      "value": "蓝宝石"
     },
     {
       "id": 213,
-      "value": "法术"
+      "value": "炼金护符"
     },
     {
       "id": 214,
-      "value": "法术"
+      "value": "圣者法典"
     },
     {
       "id": 215,
-      "value": "法术"
+      "value": "元素杖"
     },
     {
       "id": 221,
-      "value": "法术"
+      "value": "大棒"
     },
     {
       "id": 222,
-      "value": "法术"
+      "value": "血族之书"
     },
     {
       "id": 223,
-      "value": "法术"
+      "value": "光辉之剑"
     },
     {
       "id": 224,
-      "value": "法术"
+      "value": "魔道之石"
     },
     {
       "id": 225,
-      "value": "法术"
+      "value": "进化水晶"
     },
     {
       "id": 226,
-      "value": "法术"
+      "value": "破碎圣杯"
     },
     {
       "id": 227,
-      "value": "法术"
+      "value": "云灵木"
     },
     {
       "id": 228,
-      "value": "法术"
+      "value": "辉月"
     },
     {
       "id": 229,
-      "value": "法术"
+      "value": "炽热支配者"
     },
     {
       "id": 2210,
-      "value": "法术"
+      "value": "日暮之流"
     },
     {
       "id": 2211,
-      "value": "法术"
+      "value": "金色圣剑"
     },
     {
       "id": 2212,
-      "value": "法术"
+      "value": "梦魇之牙"
     },
     {
       "id": 231,
-      "value": "法术"
+      "value": "圣杯"
     },
     {
       "id": 232,
-      "value": "法术"
+      "value": "虚无法杖"
     },
     {
       "id": 233,
-      "value": "法术"
+      "value": "博学者之怒"
     },
     {
       "id": 234,
-      "value": "法术"
+      "value": "回响之杖"
     },
     {
       "id": 235,
-      "value": "法术"
+      "value": "痛苦面具"
     },
     {
       "id": 236,
-      "value": "法术"
+      "value": "巫术法杖"
     },
     {
       "id": 237,
-      "value": "法术"
+      "value": "时之预言"
     },
     {
       "id": 238,
-      "value": "法术"
+      "value": "破茧之衣"
     },
     {
       "id": 239,
-      "value": "法术"
+      "value": "贤者之书"
     },
     {
       "id": 2310,
-      "value": "法术"
+      "value": "噬神之书"
     },
     {
       "id": 2311,
-      "value": "法术"
+      "value": "凝冰之息"
     },
     {
       "id": 2312,
-      "value": "法术"
+      "value": "月神"
     },
     {
       "id": 311,
-      "value": "防御"
+      "value": "红玛瑙"
     },
     {
       "id": 312,
-      "value": "防御"
+      "value": "布甲"
     },
     {
       "id": 313,
-      "value": "防御"
+      "value": "抗魔披风"
     },
     {
       "id": 314,
-      "value": "防御"
+      "value": "提神水晶"
     },
     {
       "id": 321,
-      "value": "防御"
+      "value": "力量腰带"
     },
     {
       "id": 322,
-      "value": "防御"
+      "value": "熔炼之心"
     },
     {
       "id": 323,
-      "value": "防御"
+      "value": "神隐斗篷"
     },
     {
       "id": 324,
-      "value": "防御"
+      "value": "雪山圆盾"
     },
     {
       "id": 325,
-      "value": "防御"
+      "value": "守护者之铠"
     },
     {
       "id": 326,
-      "value": "防御"
+      "value": "荆棘护手"
     },
     {
       "id": 327,
-      "value": "防御"
+      "value": "暗夜小甲"
     },
     {
       "id": 328,
-      "value": "防御"
+      "value": "反伤刺甲"
     },
     {
       "id": 329,
-      "value": "防御"
+      "value": "血魔之怒"
     },
     {
       "id": 3210,
-      "value": "防御"
+      "value": "冰霜冲击"
     },
     {
       "id": 3211,
-      "value": "防御"
+      "value": "原初遗珠"
     },
     {
       "id": 331,
-      "value": "防御"
+      "value": "红莲斗篷"
     },
     {
       "id": 332,
-      "value": "防御"
+      "value": "霸者重装"
     },
     {
       "id": 333,
-      "value": "防御"
+      "value": "不祥征兆"
     },
     {
       "id": 334,
-      "value": "防御"
+      "value": "不死鸟之眼"
     },
     {
       "id": 335,
-      "value": "防御"
+      "value": "魔女斗篷"
     },
     {
       "id": 336,
-      "value": "防御"
+      "value": "极寒风暴"
     },
     {
       "id": 337,
-      "value": "防御"
+      "value": "贤者的庇护"
     },
     {
       "id": 338,
-      "value": "防御"
+      "value": "暴烈之甲"
     },
     {
       "id": 339,
-      "value": "防御"
+      "value": "永夜守护"
     },
     {
       "id": 3310,
-      "value": "防御"
+      "value": "冰痕之握"
     },
     {
       "id": 3311,
-      "value": "防御"
+      "value": "怒魂"
     },
     {
       "id": 3312,
-      "value": "防御"
+      "value": "凛冬"
     },
     {
       "id": 411,
-      "value": "移动"
+      "value": "神速之靴"
     },
     {
       "id": 421,
-      "value": "移动"
+      "value": "影忍之足"
     },
     {
       "id": 422,
-      "value": "移动"
+      "value": "抵抗之靴"
     },
     {
       "id": 423,
-      "value": "移动"
+      "value": "冷静之靴"
     },
     {
       "id": 424,
-      "value": "移动"
+      "value": "秘法之靴"
     },
     {
       "id": 425,
-      "value": "移动"
+      "value": "急速战靴"
     },
     {
       "id": 426,
-      "value": "移动"
+      "value": "疾步之靴"
     },
     {
       "id": 511,
-      "value": "打野"
+      "value": "狩猎宽刃"
     },
     {
       "id": 512,
-      "value": "打野"
+      "value": "弃鳞短刃"
     },
     {
       "id": 521,
-      "value": "打野"
+      "value": "游击弯刀"
     },
     {
       "id": 522,
-      "value": "打野"
+      "value": "追击刀锋"
     },
     {
       "id": 523,
-      "value": "打野"
+      "value": "巡守利斧"
     },
     {
       "id": 524,
-      "value": "打野"
+      "value": "龙鳞利剑"
     },
     {
       "id": 531,
-      "value": "打野"
+      "value": "符文大剑"
     },
     {
       "id": 532,
-      "value": "打野"
+      "value": "贪婪之噬"
     },
     {
       "id": 533,
-      "value": "打野"
+      "value": "巨人之握"
     },
     {
       "id": 534,
-      "value": "打野"
+      "value": "浴火之怒"
     },
     {
       "id": 611,
-      "value": "游走"
+      "value": "学识宝石"
     },
     {
       "id": 621,
-      "value": "游走"
+      "value": "凤鸣指环"
     },
     {
       "id": 622,
-      "value": "游走"
+      "value": "鼓舞之盾"
     },
     {
       "id": 623,
-      "value": "游走"
+      "value": "风之轻语"
     },
     {
       "id": 624,
-      "value": "游走"
+      "value": "风灵纹章"
     },
     {
       "id": 625,
-      "value": "游走"
+      "value": "出影晶石"
     },
     {
       "id": 626,
-      "value": "游走"
+      "value": "星之佩饰"
     },
     {
       "id": 631,
-      "value": "游走"
+      "value": "极影"
     },
     {
       "id": 632,
-      "value": "游走"
+      "value": "近卫荣耀"
     },
     {
       "id": 633,
-      "value": "游走"
+      "value": "救赎之翼"
     },
     {
       "id": 634,
-      "value": "游走"
+      "value": "奔狼纹章"
     },
     {
       "id": 635,
-      "value": "游走"
+      "value": "形昭之鉴"
     },
     {
       "id": 636,
-      "value": "游走"
+      "value": "星泉"
     }
   ]
 }
