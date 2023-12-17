@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "传承",
-      "type": ["攻击"],
+      "type": [1],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/1.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/1_blur.png",
       "effect": [
         {
-          "type": "物理攻击",
+          "type": 1,
           "num": "3.2"
         }
       ]
@@ -16,12 +16,12 @@
     {
       "id": 2,
       "name": "圣人",
-      "type": ["攻击"],
+      "type": [1],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/2.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/2_blur.png",
       "effect": [
         {
-          "type": "法术攻击",
+          "type": 2,
           "num": "5.3"
         }
       ]
@@ -29,16 +29,16 @@
     {
       "id": 3,
       "name": "红月",
-      "type": ["攻速", "暴击"],
+      "type": [6, 7],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/3.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/3_blur.png",
       "effect": [
         {
-          "type": "攻击速度",
+          "type": 3,
           "num": "1.6%"
         },
         {
-          "type": "暴击率",
+          "type": 4,
           "num": "0.5%"
         }
       ]
@@ -46,16 +46,16 @@
     {
       "id": 4,
       "name": "异变",
-      "type": ["攻击", "穿透"],
+      "type": [1, 8],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/4.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/4_blur.png",
       "effect": [
         {
-          "type": "物理攻击",
+          "type": 1,
           "num": "2"
         },
         {
-          "type": "物理穿透",
+          "type": 5,
           "num": "3.6"
         }
       ]
@@ -63,16 +63,16 @@
     {
       "id": 5,
       "name": "纷争",
-      "type": ["攻击", "吸血"],
+      "type": [1, 5],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/5.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/5_blur.png",
       "effect": [
         {
-          "type": "物理攻击",
+          "type": 1,
           "num": "2.5"
         },
         {
-          "type": "物理吸血",
+          "type": 6,
           "num": "0.5%"
         }
       ]
@@ -80,16 +80,16 @@
     {
       "id": 6,
       "name": "无双",
-      "type": ["暴击"],
+      "type": [7],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/6.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/6_blur.png",
       "effect": [
         {
-          "type": "暴击率",
+          "type": 4,
           "num": "0.7%"
         },
         {
-          "type": "暴击效果",
+          "type": 7,
           "num": "3.6%"
         }
       ]
@@ -97,20 +97,20 @@
     {
       "id": 7,
       "name": "宿命",
-      "type": ["生命", "防御", "攻速"],
+      "type": [2, 3, 6],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/7.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/7_blur.png",
       "effect": [
         {
-          "type": "攻击速度",
+          "type": 3,
           "num": "1%"
         },
         {
-          "type": "最大生命",
+          "type": 8,
           "num": "33.7"
         },
         {
-          "type": "物理防御",
+          "type": 9,
           "num": "2.3"
         }
       ]
@@ -118,16 +118,16 @@
     {
       "id": 8,
       "name": "梦魇",
-      "type": ["攻击", "穿透"],
+      "type": [1, 8],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/8.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/8_blur.png",
       "effect": [
         {
-          "type": "法术攻击",
+          "type": 2,
           "num": "4.2"
         },
         {
-          "type": "法术穿透",
+          "type": 10,
           "num": "2.4"
         }
       ]
@@ -135,16 +135,16 @@
     {
       "id": 9,
       "name": "凶兆",
-      "type": ["攻击", "攻速"],
+      "type": [1, 6],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/9.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/9_blur.png",
       "effect": [
         {
-          "type": "法术攻击",
+          "type": 2,
           "num": "4.2"
         },
         {
-          "type": "攻击速度",
+          "type": 3,
           "num": "0.6%"
         }
       ]
@@ -152,12 +152,12 @@
     {
       "id": 10,
       "name": "祸源",
-      "type": ["暴击"],
+      "type": [7],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/10.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/10_blur.png",
       "effect": [
         {
-          "type": "暴击率",
+          "type": 4,
           "num": "1.6%"
         }
       ]
@@ -165,12 +165,12 @@
     {
       "id": 11,
       "name": "长生",
-      "type": ["生命"],
+      "type": [2],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/11.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/11_blur.png",
       "effect": [
         {
-          "type": "最大生命",
+          "type": 8,
           "num": "75"
         }
       ]
@@ -178,16 +178,16 @@
     {
       "id": 12,
       "name": "冥想",
-      "type": ["生命"],
+      "type": [2],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/12.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/12_blur.png",
       "effect": [
         {
-          "type": "最大生命",
+          "type": 8,
           "num": "60"
         },
         {
-          "type": "每5秒回血",
+          "type": 11,
           "num": "4.5"
         }
       ]
@@ -195,16 +195,16 @@
     {
       "id": 13,
       "name": "狩猎",
-      "type": ["功能", "攻速"],
+      "type": [4, 6],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/13.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/13_blur.png",
       "effect": [
         {
-          "type": "攻击速度",
+          "type": 3,
           "num": "1%"
         },
         {
-          "type": "移速",
+          "type": 12,
           "num": "1%"
         }
       ]
@@ -212,12 +212,12 @@
     {
       "id": 14,
       "name": "贪婪",
-      "type": ["吸血"],
+      "type": [5],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/14.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/14_blur.png",
       "effect": [
         {
-          "type": "法术吸血",
+          "type": 13,
           "num": "1.6%"
         }
       ]
@@ -225,12 +225,12 @@
     {
       "id": 15,
       "name": "夺萃",
-      "type": ["吸血"],
+      "type": [5],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/15.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/15_blur.png",
       "effect": [
         {
-          "type": "物理吸血",
+          "type": 6,
           "num": "1.6%"
         }
       ]
@@ -238,16 +238,16 @@
     {
       "id": 16,
       "name": "兽痕",
-      "type": ["生命", "暴击"],
+      "type": [2, 7],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/16.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/16_blur.png",
       "effect": [
         {
-          "type": "暴击率",
+          "type": 4,
           "num": "0.5%"
         },
         {
-          "type": "最大生命",
+          "type": 8,
           "num": "60"
         }
       ]
@@ -255,16 +255,16 @@
     {
       "id": 17,
       "name": "繁荣",
-      "type": ["防御", "吸血"],
+      "type": [3, 5],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/17.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/17_blur.png",
       "effect": [
         {
-          "type": "物理吸血",
+          "type": 6,
           "num": "1%"
         },
         {
-          "type": "法术防御",
+          "type": 14,
           "num": "4.1"
         }
       ]
@@ -272,16 +272,16 @@
     {
       "id": 18,
       "name": "轮回",
-      "type": ["攻击", "吸血"],
+      "type": [1, 5],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/18.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/18_blur.png",
       "effect": [
         {
-          "type": "法术攻击",
+          "type": 2,
           "num": "2.4"
         },
         {
-          "type": "法术吸血",
+          "type": 13,
           "num": "1%"
         }
       ]
@@ -289,20 +289,20 @@
     {
       "id": 19,
       "name": "调和",
-      "type": ["生命", "功能"],
+      "type": [2, 4],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/19.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/19_blur.png",
       "effect": [
         {
-          "type": "最大生命",
+          "type": 8,
           "num": "45"
         },
         {
-          "type": "每5秒回血",
+          "type": 11,
           "num": "5.2"
         },
         {
-          "type": "移速",
+          "type": 12,
           "num": "0.4%"
         }
       ]
@@ -310,16 +310,16 @@
     {
       "id": 20,
       "name": "隐匿",
-      "type": ["攻击", "功能"],
+      "type": [1, 4],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/20.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/20_blur.png",
       "effect": [
         {
-          "type": "物理攻击",
+          "type": 1,
           "num": "1.6"
         },
         {
-          "type": "移速",
+          "type": 12,
           "num": "1%"
         }
       ]
@@ -327,12 +327,12 @@
     {
       "id": 21,
       "name": "鹰眼",
-      "type": ["攻击", "穿透"],
+      "type": [1, 8],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/21.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/21_blur.png",
       "effect": [
         {
-          "type": "物理攻击",
+          "type": 1,
           "num": "0.9"
         }
       ]
@@ -340,16 +340,16 @@
     {
       "id": 22,
       "name": "心眼",
-      "type": ["攻速", "穿透"],
+      "type": [6, 8],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/22.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/22_blur.png",
       "effect": [
         {
-          "type": "攻击速度",
+          "type": 3,
           "num": "0.6%"
         },
         {
-          "type": "法术穿透",
+          "type": 10,
           "num": "6.4"
         }
       ]
@@ -357,12 +357,12 @@
     {
       "id": 23,
       "name": "怜悯",
-      "type": ["功能"],
+      "type": [4],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/23.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/23_blur.png",
       "effect": [
         {
-          "type": "冷却缩减",
+          "type": 15,
           "num": "1%"
         }
       ]
@@ -370,12 +370,12 @@
     {
       "id": 24,
       "name": "霸者",
-      "type": ["防御"],
+      "type": [3],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/24.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/24_blur.png",
       "effect": [
         {
-          "type": "物理防御",
+          "type": 9,
           "num": "9"
         }
       ]
@@ -383,16 +383,16 @@
     {
       "id": 25,
       "name": "均衡",
-      "type": ["防御"],
+      "type": [3],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/25.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/25_blur.png",
       "effect": [
         {
-          "type": "物理防御",
+          "type": 9,
           "num": "5"
         },
         {
-          "type": "法术防御",
+          "type": 14,
           "num": "5"
         }
       ]
@@ -400,16 +400,16 @@
     {
       "id": 26,
       "name": "虚空",
-      "type": ["生命", "功能"],
+      "type": [2, 4],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/26.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/26_blur.png",
       "effect": [
         {
-          "type": "最大生命",
+          "type": 8,
           "num": "37.5"
         },
         {
-          "type": "冷却缩减",
+          "type": 15,
           "num": "0.6%"
         }
       ]
@@ -417,12 +417,12 @@
     {
       "id": 27,
       "name": "灵山",
-      "type": ["防御"],
+      "type": [3],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/27.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/27_blur.png",
       "effect": [
         {
-          "type": "法术防御",
+          "type": 14,
           "num": "9"
         }
       ]
@@ -430,16 +430,16 @@
     {
       "id": 28,
       "name": "献祭",
-      "type": ["攻击", "功能"],
+      "type": [1, 4],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/28.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/28_blur.png",
       "effect": [
         {
-          "type": "法术攻击",
+          "type": 2,
           "num": "2.4"
         },
         {
-          "type": "冷却缩减",
+          "type": 15,
           "num": "0.7%"
         }
       ]
@@ -447,16 +447,16 @@
     {
       "id": 29,
       "name": "敬畏",
-      "type": ["防御", "吸血"],
+      "type": [3, 5],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/29.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/29_blur.png",
       "effect": [
         {
-          "type": "法术吸血",
+          "type": 13,
           "num": "0.7%"
         },
         {
-          "type": "物理防御",
+          "type": 9,
           "num": "5.9"
         }
       ]
@@ -464,20 +464,20 @@
     {
       "id": 30,
       "name": "回声",
-      "type": ["防御", "功能"],
+      "type": [3, 4],
       "img": "https://lyb.cbb.plus/wzry-material/epigraphs/30.png",
       "imgBlur": "https://lyb.cbb.plus/wzry-material/epigraphs/30_blur.png",
       "effect": [
         {
-          "type": "物理防御",
+          "type": 9,
           "num": "2.7"
         },
         {
-          "type": "法术防御",
+          "type": 14,
           "num": "2.7"
         },
         {
-          "type": "冷却缩减",
+          "type": 15,
           "num": "0.6%"
         }
       ]
