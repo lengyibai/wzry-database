@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 107,
-      "relationships": [
+      "value": [
         {
           "id": 190,
           "relation": "军师",
@@ -22,7 +22,7 @@
     },
     {
       "id": 109,
-      "relationships": [
+      "value": [
         {
           "id": 148,
           "relation": "师父",
@@ -32,7 +32,7 @@
     },
     {
       "id": 115,
-      "relationships": [
+      "value": [
         {
           "id": 116,
           "relation": "爱人",
@@ -47,7 +47,7 @@
     },
     {
       "id": 120,
-      "relationships": [
+      "value": [
         {
           "id": 110,
           "relation": "君主",
@@ -72,7 +72,7 @@
     },
     {
       "id": 136,
-      "relationships": [
+      "value": [
         {
           "id": 133,
           "relation": "臣子",
@@ -117,7 +117,7 @@
     },
     {
       "id": 146,
-      "relationships": [
+      "value": [
         {
           "id": 193,
           "relation": "哥哥",
@@ -132,7 +132,7 @@
     },
     {
       "id": 105,
-      "relationships": [
+      "value": [
         {
           "id": 117,
           "relation": "校友",
@@ -162,7 +162,7 @@
     },
     {
       "id": 110,
-      "relationships": [
+      "value": [
         {
           "id": 120,
           "relation": "臣子",
@@ -202,7 +202,7 @@
     },
     {
       "id": 116,
-      "relationships": [
+      "value": [
         {
           "id": 115,
           "relation": "爱人",
@@ -217,7 +217,7 @@
     },
     {
       "id": 127,
-      "relationships": [
+      "value": [
         {
           "id": 128,
           "relation": "主公",
@@ -227,7 +227,7 @@
     },
     {
       "id": 139,
-      "relationships": [
+      "value": [
         {
           "id": 148,
           "relation": "反目的朋友",
@@ -282,7 +282,7 @@
     },
     {
       "id": 148,
-      "relationships": [
+      "value": [
         {
           "id": 179,
           "relation": "统治神",
@@ -327,7 +327,7 @@
     },
     {
       "id": 106,
-      "relationships": [
+      "value": [
         {
           "id": 124,
           "relation": "爱人",
@@ -347,7 +347,7 @@
     },
     {
       "id": 112,
-      "relationships": [
+      "value": [
         {
           "id": 525,
           "relation": "父亲",
@@ -362,7 +362,7 @@
     },
     {
       "id": 117,
-      "relationships": [
+      "value": [
         {
           "id": 139,
           "relation": "武道老师",
@@ -377,7 +377,7 @@
     },
     {
       "id": 133,
-      "relationships": [
+      "value": [
         {
           "id": 173,
           "relation": "助手",
@@ -417,7 +417,7 @@
     },
     {
       "id": 156,
-      "relationships": [
+      "value": [
         {
           "id": 148,
           "relation": "师父",
@@ -442,7 +442,7 @@
     },
     {
       "id": 108,
-      "relationships": [
+      "value": [
         {
           "id": 139,
           "relation": "同事",
@@ -482,7 +482,7 @@
     },
     {
       "id": 113,
-      "relationships": [
+      "value": [
         {
           "id": 139,
           "relation": "同事",
@@ -522,7 +522,7 @@
     },
     {
       "id": 118,
-      "relationships": [
+      "value": [
         {
           "id": 108,
           "relation": "机关老师",
@@ -552,7 +552,7 @@
     },
     {
       "id": 129,
-      "relationships": [
+      "value": [
         {
           "id": 184,
           "relation": "被守护者",
@@ -567,7 +567,7 @@
     },
     {
       "id": 134,
-      "relationships": [
+      "value": [
         {
           "id": 540,
           "relation": "相救之人",
@@ -577,7 +577,7 @@
     },
     {
       "id": 150,
-      "relationships": [
+      "value": [
         {
           "id": 135,
           "relation": "敌人",
@@ -592,7 +592,7 @@
     },
     {
       "id": 166,
-      "relationships": [
+      "value": [
         {
           "id": 142,
           "relation": "部下",
@@ -607,7 +607,7 @@
     },
     {
       "id": 111,
-      "relationships": [
+      "value": [
         {
           "id": 170,
           "relation": "钦慕之人",
@@ -632,7 +632,7 @@
     },
     {
       "id": 114,
-      "relationships": [
+      "value": [
         {
           "id": 170,
           "relation": "父亲",
@@ -657,7 +657,7 @@
     },
     {
       "id": 119,
-      "relationships": [
+      "value": [
         {
           "id": 120,
           "relation": "病人",
@@ -667,7 +667,7 @@
     },
     {
       "id": 130,
-      "relationships": [
+      "value": [
         {
           "id": 131,
           "relation": "对手",
@@ -677,7 +677,7 @@
     },
     {
       "id": 135,
-      "relationships": [
+      "value": [
         {
           "id": 174,
           "relation": "爱人",
@@ -707,7 +707,7 @@
     },
     {
       "id": 144,
-      "relationships": [
+      "value": [
         {
           "id": 136,
           "relation": "君主",
@@ -727,11 +727,11 @@
     },
     {
       "id": 152,
-      "relationships": []
+      "value": []
     },
     {
       "id": 142,
-      "relationships": [
+      "value": [
         {
           "id": 166,
           "relation": "统帅",
@@ -746,7 +746,7 @@
     },
     {
       "id": 128,
-      "relationships": [
+      "value": [
         {
           "id": 123,
           "relation": "棋子",
@@ -801,7 +801,7 @@
     },
     {
       "id": 124,
-      "relationships": [
+      "value": [
         {
           "id": 106,
           "relation": "爱人",
@@ -836,7 +836,7 @@
     },
     {
       "id": 168,
-      "relationships": [
+      "value": [
         {
           "id": 167,
           "relation": "曾经的战友",
@@ -861,7 +861,7 @@
     },
     {
       "id": 167,
-      "relationships": [
+      "value": [
         {
           "id": 511,
           "relation": "战友",
@@ -886,7 +886,7 @@
     },
     {
       "id": 121,
-      "relationships": [
+      "value": [
         {
           "id": 110,
           "relation": "孙子",
@@ -901,7 +901,7 @@
     },
     {
       "id": 141,
-      "relationships": [
+      "value": [
         {
           "id": 123,
           "relation": "爱慕之人",
@@ -921,7 +921,7 @@
     },
     {
       "id": 123,
-      "relationships": [
+      "value": [
         {
           "id": 141,
           "relation": "爱慕之人",
@@ -936,7 +936,7 @@
     },
     {
       "id": 154,
-      "relationships": [
+      "value": [
         {
           "id": 153,
           "relation": "对手",
@@ -976,7 +976,7 @@
     },
     {
       "id": 169,
-      "relationships": [
+      "value": [
         {
           "id": 515,
           "relation": "爱人",
@@ -986,7 +986,7 @@
     },
     {
       "id": 171,
-      "relationships": [
+      "value": [
         {
           "id": 170,
           "relation": "结拜兄弟",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 170,
-      "relationships": [
+      "value": [
         {
           "id": 140,
           "relation": "结拜兄弟",
@@ -1061,7 +1061,7 @@
     },
     {
       "id": 153,
-      "relationships": [
+      "value": [
         {
           "id": 154,
           "relation": "对手",
@@ -1106,7 +1106,7 @@
     },
     {
       "id": 162,
-      "relationships": [
+      "value": [
         {
           "id": 130,
           "relation": "寻找之人",
@@ -1116,7 +1116,7 @@
     },
     {
       "id": 131,
-      "relationships": [
+      "value": [
         {
           "id": 194,
           "relation": "好友",
@@ -1146,11 +1146,11 @@
     },
     {
       "id": 175,
-      "relationships": []
+      "value": []
     },
     {
       "id": 173,
-      "relationships": [
+      "value": [
         {
           "id": 133,
           "relation": "长官",
@@ -1165,7 +1165,7 @@
     },
     {
       "id": 149,
-      "relationships": [
+      "value": [
         {
           "id": 135,
           "relation": "敌人",
@@ -1190,11 +1190,11 @@
     },
     {
       "id": 157,
-      "relationships": []
+      "value": []
     },
     {
       "id": 174,
-      "relationships": [
+      "value": [
         {
           "id": 135,
           "relation": "爱人",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": 140,
-      "relationships": [
+      "value": [
         {
           "id": 170,
           "relation": "结拜兄弟",
@@ -1239,7 +1239,7 @@
     },
     {
       "id": 184,
-      "relationships": [
+      "value": [
         {
           "id": 128,
           "relation": "义父",
@@ -1269,7 +1269,7 @@
     },
     {
       "id": 126,
-      "relationships": [
+      "value": [
         {
           "id": 128,
           "relation": "主公",
@@ -1289,11 +1289,11 @@
     },
     {
       "id": 183,
-      "relationships": []
+      "value": []
     },
     {
       "id": 132,
-      "relationships": [
+      "value": [
         {
           "id": 504,
           "relation": "执政者",
@@ -1313,15 +1313,15 @@
     },
     {
       "id": 163,
-      "relationships": []
+      "value": []
     },
     {
       "id": 177,
-      "relationships": []
+      "value": []
     },
     {
       "id": 178,
-      "relationships": [
+      "value": [
         {
           "id": 180,
           "relation": "挚友",
@@ -1341,7 +1341,7 @@
     },
     {
       "id": 186,
-      "relationships": [
+      "value": [
         {
           "id": 180,
           "relation": "徒弟",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 180,
-      "relationships": [
+      "value": [
         {
           "id": 186,
           "relation": "师父",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": 190,
-      "relationships": [
+      "value": [
         {
           "id": 137,
           "relation": "敌对",
@@ -1426,7 +1426,7 @@
     },
     {
       "id": 192,
-      "relationships": [
+      "value": [
         {
           "id": 170,
           "relation": "主公",
@@ -1451,7 +1451,7 @@
     },
     {
       "id": 191,
-      "relationships": [
+      "value": [
         {
           "id": 510,
           "relation": "爱人",
@@ -1476,7 +1476,7 @@
     },
     {
       "id": 187,
-      "relationships": [
+      "value": [
         {
           "id": 189,
           "relation": "师父",
@@ -1506,7 +1506,7 @@
     },
     {
       "id": 182,
-      "relationships": [
+      "value": [
         {
           "id": 187,
           "relation": "敌人",
@@ -1516,7 +1516,7 @@
     },
     {
       "id": 189,
-      "relationships": [
+      "value": [
         {
           "id": 505,
           "relation": "徒弟",
@@ -1536,7 +1536,7 @@
     },
     {
       "id": 193,
-      "relationships": [
+      "value": [
         {
           "id": 146,
           "relation": "妹妹",
@@ -1571,7 +1571,7 @@
     },
     {
       "id": 196,
-      "relationships": [
+      "value": [
         {
           "id": 195,
           "relation": "弟弟",
@@ -1606,7 +1606,7 @@
     },
     {
       "id": 195,
-      "relationships": [
+      "value": [
         {
           "id": 196,
           "relation": "哥哥",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 194,
-      "relationships": [
+      "value": [
         {
           "id": 508,
           "relation": "知己",
@@ -1686,11 +1686,11 @@
     },
     {
       "id": 198,
-      "relationships": []
+      "value": []
     },
     {
       "id": 179,
-      "relationships": [
+      "value": [
         {
           "id": 178,
           "relation": "继承人",
@@ -1720,7 +1720,7 @@
     },
     {
       "id": 501,
-      "relationships": [
+      "value": [
         {
           "id": 197,
           "relation": "徒弟",
@@ -1770,7 +1770,7 @@
     },
     {
       "id": 199,
-      "relationships": [
+      "value": [
         {
           "id": 502,
           "relation": "同伴",
@@ -1800,7 +1800,7 @@
     },
     {
       "id": 176,
-      "relationships": [
+      "value": [
         {
           "id": 199,
           "relation": "同伴",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": 502,
-      "relationships": [
+      "value": [
         {
           "id": 199,
           "relation": "同伴",
@@ -1860,7 +1860,7 @@
     },
     {
       "id": 197,
-      "relationships": [
+      "value": [
         {
           "id": 501,
           "relation": "首领",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": 503,
-      "relationships": [
+      "value": [
         {
           "id": 545,
           "relation": "患难与共的兄弟",
@@ -1920,7 +1920,7 @@
     },
     {
       "id": 504,
-      "relationships": [
+      "value": [
         {
           "id": 503,
           "relation": "反抗者",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 125,
-      "relationships": [
+      "value": [
         {
           "id": 190,
           "relation": "学长",
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 510,
-      "relationships": [
+      "value": [
         {
           "id": 191,
           "relation": "爱人",
@@ -1990,7 +1990,7 @@
     },
     {
       "id": 137,
-      "relationships": [
+      "value": [
         {
           "id": 190,
           "relation": "对手",
@@ -2030,7 +2030,7 @@
     },
     {
       "id": 509,
-      "relationships": [
+      "value": [
         {
           "id": 196,
           "relation": "长城守卫军队友",
@@ -2040,7 +2040,7 @@
     },
     {
       "id": 508,
-      "relationships": [
+      "value": [
         {
           "id": 194,
           "relation": "知己",
@@ -2075,7 +2075,7 @@
     },
     {
       "id": 312,
-      "relationships": [
+      "value": [
         {
           "id": 501,
           "relation": "恩人",
@@ -2095,7 +2095,7 @@
     },
     {
       "id": 507,
-      "relationships": [
+      "value": [
         {
           "id": 501,
           "relation": "交易之人",
@@ -2115,7 +2115,7 @@
     },
     {
       "id": 513,
-      "relationships": [
+      "value": [
         {
           "id": 501,
           "relation": "仇敌",
@@ -2135,7 +2135,7 @@
     },
     {
       "id": 515,
-      "relationships": [
+      "value": [
         {
           "id": 169,
           "relation": "爱人",
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 511,
-      "relationships": [
+      "value": [
         {
           "id": 167,
           "relation": "战友",
@@ -2165,7 +2165,7 @@
     },
     {
       "id": 529,
-      "relationships": [
+      "value": [
         {
           "id": 179,
           "relation": "战友",
@@ -2175,7 +2175,7 @@
     },
     {
       "id": 505,
-      "relationships": [
+      "value": [
         {
           "id": 506,
           "relation": "爱慕之人",
@@ -2190,7 +2190,7 @@
     },
     {
       "id": 506,
-      "relationships": [
+      "value": [
         {
           "id": 505,
           "relation": "爱慕之人",
@@ -2210,7 +2210,7 @@
     },
     {
       "id": 522,
-      "relationships": [
+      "value": [
         {
           "id": 531,
           "relation": "姐姐",
@@ -2265,7 +2265,7 @@
     },
     {
       "id": 518,
-      "relationships": [
+      "value": [
         {
           "id": 137,
           "relation": "老师",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": 523,
-      "relationships": [
+      "value": [
         {
           "id": 522,
           "relation": "星之队队长",
@@ -2315,7 +2315,7 @@
     },
     {
       "id": 525,
-      "relationships": [
+      "value": [
         {
           "id": 112,
           "relation": "儿子",
@@ -2355,7 +2355,7 @@
     },
     {
       "id": 524,
-      "relationships": [
+      "value": [
         {
           "id": 527,
           "relation": "父亲",
@@ -2405,7 +2405,7 @@
     },
     {
       "id": 531,
-      "relationships": [
+      "value": [
         {
           "id": 522,
           "relation": "弟弟",
@@ -2435,7 +2435,7 @@
     },
     {
       "id": 527,
-      "relationships": [
+      "value": [
         {
           "id": 524,
           "relation": "儿子",
@@ -2460,7 +2460,7 @@
     },
     {
       "id": 533,
-      "relationships": [
+      "value": [
         {
           "id": 190,
           "relation": "带头大哥",
@@ -2490,7 +2490,7 @@
     },
     {
       "id": 536,
-      "relationships": [
+      "value": [
         {
           "id": 155,
           "relation": "偶遇",
@@ -2500,7 +2500,7 @@
     },
     {
       "id": 528,
-      "relationships": [
+      "value": [
         {
           "id": 184,
           "relation": "值得保护之人",
@@ -2525,7 +2525,7 @@
     },
     {
       "id": 537,
-      "relationships": [
+      "value": [
         {
           "id": 136,
           "relation": "君主",
@@ -2560,7 +2560,7 @@
     },
     {
       "id": 155,
-      "relationships": [
+      "value": [
         {
           "id": 142,
           "relation": "闺蜜",
@@ -2580,7 +2580,7 @@
     },
     {
       "id": 538,
-      "relationships": [
+      "value": [
         {
           "id": 544,
           "relation": "青梅竹马",
@@ -2615,7 +2615,7 @@
     },
     {
       "id": 540,
-      "relationships": [
+      "value": [
         {
           "id": 167,
           "relation": "徒弟",
@@ -2655,7 +2655,7 @@
     },
     {
       "id": 542,
-      "relationships": [
+      "value": [
         {
           "id": 508,
           "relation": "发小与盟友",
@@ -2695,7 +2695,7 @@
     },
     {
       "id": 534,
-      "relationships": [
+      "value": [
         {
           "id": 508,
           "relation": "沙之盟伙伴",
@@ -2725,7 +2725,7 @@
     },
     {
       "id": 548,
-      "relationships": [
+      "value": [
         {
           "id": 542,
           "relation": "盟友",
@@ -2760,7 +2760,7 @@
     },
     {
       "id": 521,
-      "relationships": [
+      "value": [
         {
           "id": 542,
           "relation": "敌对",
@@ -2790,7 +2790,7 @@
     },
     {
       "id": 544,
-      "relationships": [
+      "value": [
         {
           "id": 538,
           "relation": "青梅竹马",
@@ -2815,7 +2815,7 @@
     },
     {
       "id": 545,
-      "relationships": [
+      "value": [
         {
           "id": 503,
           "relation": "患难与共的兄弟",
@@ -2850,7 +2850,7 @@
     },
     {
       "id": 564,
-      "relationships": [
+      "value": [
         {
           "id": 139,
           "relation": "武道老师",
@@ -2900,7 +2900,7 @@
     },
     {
       "id": 514,
-      "relationships": [
+      "value": [
         {
           "id": 504,
           "relation": "上司",
@@ -2910,7 +2910,7 @@
     },
     {
       "id": 159,
-      "relationships": [
+      "value": [
         {
           "id": 564,
           "relation": "伙伴",
