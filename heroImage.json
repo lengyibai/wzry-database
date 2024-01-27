@@ -927,6 +927,14 @@
       "posterBig": "https://lyb.cbb.plus/wzry-material/heros/duoliya_haibao_0_big.jpg",
       "cover": "https://lyb.cbb.plus/wzry-material/heros/duoliya_haibao_cover.jpg",
       "coverBlur": "https://lyb.cbb.plus/wzry-material/heros/duoliya_haibao_cover_blur.jpg"
+    },
+    {
+      "id": 563,
+      "poster": "https://lyb.cbb.plus/wzry-material/heros/hainuo_haibao_0.jpg",
+      "posterBlur": "https://lyb.cbb.plus/wzry-material/heros/hainuo_haibao_0_blur.jpg",
+      "posterBig": "https://lyb.cbb.plus/wzry-material/heros/hainuo_haibao_0_big.jpg",
+      "cover": "https://lyb.cbb.plus/wzry-material/heros/hainuo_haibao_cover.jpg",
+      "coverBlur": "https://lyb.cbb.plus/wzry-material/heros/hainuo_haibao_cover_blur.jpg"
     }
   ]
 }
