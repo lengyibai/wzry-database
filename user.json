@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "123456",
-      "avatar": "https://lyb.cbb.plus/wzry-material/image/head.jpg",
+      "avatar": "head",
       "nickname": "召唤师",
       "password": "lengyibai",
       "role": 0

@@ -2,608 +2,608 @@
   "data": [
     {
       "id": 111,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_1_blur.jpg"
+      "icon": "/equips/physical_1_1.jpg",
+      "iconBlur": "/equips/physical_1_1_blur.jpg"
     },
     {
       "id": 112,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_2_blur.jpg"
+      "icon": "/equips/physical_1_2.jpg",
+      "iconBlur": "/equips/physical_1_2_blur.jpg"
     },
     {
       "id": 113,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_3_blur.jpg"
+      "icon": "/equips/physical_1_3.jpg",
+      "iconBlur": "/equips/physical_1_3_blur.jpg"
     },
     {
       "id": 114,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_4_blur.jpg"
+      "icon": "/equips/physical_1_4.jpg",
+      "iconBlur": "/equips/physical_1_4_blur.jpg"
     },
     {
       "id": 115,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_5_blur.jpg"
+      "icon": "/equips/physical_1_5.jpg",
+      "iconBlur": "/equips/physical_1_5_blur.jpg"
     },
     {
       "id": 116,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_6_blur.jpg"
+      "icon": "/equips/physical_1_6.jpg",
+      "iconBlur": "/equips/physical_1_6_blur.jpg"
     },
     {
       "id": 117,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_1_7.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_1_7_blur.jpg"
+      "icon": "/equips/physical_1_7.jpg",
+      "iconBlur": "/equips/physical_1_7_blur.jpg"
     },
     {
       "id": 121,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_1_blur.jpg"
+      "icon": "/equips/physical_2_1.jpg",
+      "iconBlur": "/equips/physical_2_1_blur.jpg"
     },
     {
       "id": 122,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_2_blur.jpg"
+      "icon": "/equips/physical_2_2.jpg",
+      "iconBlur": "/equips/physical_2_2_blur.jpg"
     },
     {
       "id": 123,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_3_blur.jpg"
+      "icon": "/equips/physical_2_3.jpg",
+      "iconBlur": "/equips/physical_2_3_blur.jpg"
     },
     {
       "id": 124,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_4_blur.jpg"
+      "icon": "/equips/physical_2_4.jpg",
+      "iconBlur": "/equips/physical_2_4_blur.jpg"
     },
     {
       "id": 125,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_5_blur.jpg"
+      "icon": "/equips/physical_2_5.jpg",
+      "iconBlur": "/equips/physical_2_5_blur.jpg"
     },
     {
       "id": 126,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_6_blur.jpg"
+      "icon": "/equips/physical_2_6.jpg",
+      "iconBlur": "/equips/physical_2_6_blur.jpg"
     },
     {
       "id": 127,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_7.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_7_blur.jpg"
+      "icon": "/equips/physical_2_7.jpg",
+      "iconBlur": "/equips/physical_2_7_blur.jpg"
     },
     {
       "id": 128,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_8.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_8_blur.jpg"
+      "icon": "/equips/physical_2_8.jpg",
+      "iconBlur": "/equips/physical_2_8_blur.jpg"
     },
     {
       "id": 129,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_9.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_9_blur.jpg"
+      "icon": "/equips/physical_2_9.jpg",
+      "iconBlur": "/equips/physical_2_9_blur.jpg"
     },
     {
       "id": 1210,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_10.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_10_blur.jpg"
+      "icon": "/equips/physical_2_10.jpg",
+      "iconBlur": "/equips/physical_2_10_blur.jpg"
     },
     {
       "id": 1211,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_11.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_11_blur.jpg"
+      "icon": "/equips/physical_2_11.jpg",
+      "iconBlur": "/equips/physical_2_11_blur.jpg"
     },
     {
       "id": 1212,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_12.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_12_blur.jpg"
+      "icon": "/equips/physical_2_12.jpg",
+      "iconBlur": "/equips/physical_2_12_blur.jpg"
     },
     {
       "id": 1213,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_2_13.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_2_13_blur.jpg"
+      "icon": "/equips/physical_2_13.jpg",
+      "iconBlur": "/equips/physical_2_13_blur.jpg"
     },
     {
       "id": 131,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_1_blur.jpg"
+      "icon": "/equips/physical_3_1.jpg",
+      "iconBlur": "/equips/physical_3_1_blur.jpg"
     },
     {
       "id": 132,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_2_blur.jpg"
+      "icon": "/equips/physical_3_2.jpg",
+      "iconBlur": "/equips/physical_3_2_blur.jpg"
     },
     {
       "id": 133,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_3_blur.jpg"
+      "icon": "/equips/physical_3_3.jpg",
+      "iconBlur": "/equips/physical_3_3_blur.jpg"
     },
     {
       "id": 134,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_4_blur.jpg"
+      "icon": "/equips/physical_3_4.jpg",
+      "iconBlur": "/equips/physical_3_4_blur.jpg"
     },
     {
       "id": 135,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_5_blur.jpg"
+      "icon": "/equips/physical_3_5.jpg",
+      "iconBlur": "/equips/physical_3_5_blur.jpg"
     },
     {
       "id": 136,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_6_blur.jpg"
+      "icon": "/equips/physical_3_6.jpg",
+      "iconBlur": "/equips/physical_3_6_blur.jpg"
     },
     {
       "id": 137,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_7.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_7_blur.jpg"
+      "icon": "/equips/physical_3_7.jpg",
+      "iconBlur": "/equips/physical_3_7_blur.jpg"
     },
     {
       "id": 138,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_8.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_8_blur.jpg"
+      "icon": "/equips/physical_3_8.jpg",
+      "iconBlur": "/equips/physical_3_8_blur.jpg"
     },
     {
       "id": 139,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_9.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_9_blur.jpg"
+      "icon": "/equips/physical_3_9.jpg",
+      "iconBlur": "/equips/physical_3_9_blur.jpg"
     },
     {
       "id": 1310,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_10.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_10_blur.jpg"
+      "icon": "/equips/physical_3_10.jpg",
+      "iconBlur": "/equips/physical_3_10_blur.jpg"
     },
     {
       "id": 1311,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_11.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_11_blur.jpg"
+      "icon": "/equips/physical_3_11.jpg",
+      "iconBlur": "/equips/physical_3_11_blur.jpg"
     },
     {
       "id": 1312,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_12.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_12_blur.jpg"
+      "icon": "/equips/physical_3_12.jpg",
+      "iconBlur": "/equips/physical_3_12_blur.jpg"
     },
     {
       "id": 1313,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_13.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_13_blur.jpg"
+      "icon": "/equips/physical_3_13.jpg",
+      "iconBlur": "/equips/physical_3_13_blur.jpg"
     },
     {
       "id": 1314,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/physical_3_14.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/physical_3_14_blur.jpg"
+      "icon": "/equips/physical_3_14.jpg",
+      "iconBlur": "/equips/physical_3_14_blur.jpg"
     },
     {
       "id": 211,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_1_blur.jpg"
+      "icon": "/equips/magic_1_1.jpg",
+      "iconBlur": "/equips/magic_1_1_blur.jpg"
     },
     {
       "id": 212,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_2_blur.jpg"
+      "icon": "/equips/magic_1_2.jpg",
+      "iconBlur": "/equips/magic_1_2_blur.jpg"
     },
     {
       "id": 213,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_3_blur.jpg"
+      "icon": "/equips/magic_1_3.jpg",
+      "iconBlur": "/equips/magic_1_3_blur.jpg"
     },
     {
       "id": 214,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_4_blur.jpg"
+      "icon": "/equips/magic_1_4.jpg",
+      "iconBlur": "/equips/magic_1_4_blur.jpg"
     },
     {
       "id": 215,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_1_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_1_5_blur.jpg"
+      "icon": "/equips/magic_1_5.jpg",
+      "iconBlur": "/equips/magic_1_5_blur.jpg"
     },
     {
       "id": 221,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_1_blur.jpg"
+      "icon": "/equips/magic_2_1.jpg",
+      "iconBlur": "/equips/magic_2_1_blur.jpg"
     },
     {
       "id": 222,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_2_blur.jpg"
+      "icon": "/equips/magic_2_2.jpg",
+      "iconBlur": "/equips/magic_2_2_blur.jpg"
     },
     {
       "id": 223,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_3_blur.jpg"
+      "icon": "/equips/magic_2_3.jpg",
+      "iconBlur": "/equips/magic_2_3_blur.jpg"
     },
     {
       "id": 224,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_4_blur.jpg"
+      "icon": "/equips/magic_2_4.jpg",
+      "iconBlur": "/equips/magic_2_4_blur.jpg"
     },
     {
       "id": 225,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_5_blur.jpg"
+      "icon": "/equips/magic_2_5.jpg",
+      "iconBlur": "/equips/magic_2_5_blur.jpg"
     },
     {
       "id": 226,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_6_blur.jpg"
+      "icon": "/equips/magic_2_6.jpg",
+      "iconBlur": "/equips/magic_2_6_blur.jpg"
     },
     {
       "id": 227,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_7.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_7_blur.jpg"
+      "icon": "/equips/magic_2_7.jpg",
+      "iconBlur": "/equips/magic_2_7_blur.jpg"
     },
     {
       "id": 228,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_8.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_8_blur.jpg"
+      "icon": "/equips/magic_2_8.jpg",
+      "iconBlur": "/equips/magic_2_8_blur.jpg"
     },
     {
       "id": 229,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_9.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_9_blur.jpg"
+      "icon": "/equips/magic_2_9.jpg",
+      "iconBlur": "/equips/magic_2_9_blur.jpg"
     },
     {
       "id": 2210,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_10.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_10_blur.jpg"
+      "icon": "/equips/magic_2_10.jpg",
+      "iconBlur": "/equips/magic_2_10_blur.jpg"
     },
     {
       "id": 2211,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_11.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_11_blur.jpg"
+      "icon": "/equips/magic_2_11.jpg",
+      "iconBlur": "/equips/magic_2_11_blur.jpg"
     },
     {
       "id": 2212,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_2_12.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_2_12_blur.jpg"
+      "icon": "/equips/magic_2_12.jpg",
+      "iconBlur": "/equips/magic_2_12_blur.jpg"
     },
     {
       "id": 231,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_1_blur.jpg"
+      "icon": "/equips/magic_3_1.jpg",
+      "iconBlur": "/equips/magic_3_1_blur.jpg"
     },
     {
       "id": 232,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_2_blur.jpg"
+      "icon": "/equips/magic_3_2.jpg",
+      "iconBlur": "/equips/magic_3_2_blur.jpg"
     },
     {
       "id": 233,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_3_blur.jpg"
+      "icon": "/equips/magic_3_3.jpg",
+      "iconBlur": "/equips/magic_3_3_blur.jpg"
     },
     {
       "id": 234,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_4_blur.jpg"
+      "icon": "/equips/magic_3_4.jpg",
+      "iconBlur": "/equips/magic_3_4_blur.jpg"
     },
     {
       "id": 235,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_5_blur.jpg"
+      "icon": "/equips/magic_3_5.jpg",
+      "iconBlur": "/equips/magic_3_5_blur.jpg"
     },
     {
       "id": 236,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_6_blur.jpg"
+      "icon": "/equips/magic_3_6.jpg",
+      "iconBlur": "/equips/magic_3_6_blur.jpg"
     },
     {
       "id": 237,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_7.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_7_blur.jpg"
+      "icon": "/equips/magic_3_7.jpg",
+      "iconBlur": "/equips/magic_3_7_blur.jpg"
     },
     {
       "id": 238,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_8.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_8_blur.jpg"
+      "icon": "/equips/magic_3_8.jpg",
+      "iconBlur": "/equips/magic_3_8_blur.jpg"
     },
     {
       "id": 239,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_9.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_9_blur.jpg"
+      "icon": "/equips/magic_3_9.jpg",
+      "iconBlur": "/equips/magic_3_9_blur.jpg"
     },
     {
       "id": 2310,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_10.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_10_blur.jpg"
+      "icon": "/equips/magic_3_10.jpg",
+      "iconBlur": "/equips/magic_3_10_blur.jpg"
     },
     {
       "id": 2311,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_11.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_11_blur.jpg"
+      "icon": "/equips/magic_3_11.jpg",
+      "iconBlur": "/equips/magic_3_11_blur.jpg"
     },
     {
       "id": 2312,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/magic_3_12.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/magic_3_12_blur.jpg"
+      "icon": "/equips/magic_3_12.jpg",
+      "iconBlur": "/equips/magic_3_12_blur.jpg"
     },
     {
       "id": 311,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_1_blur.jpg"
+      "icon": "/equips/defense_1_1.jpg",
+      "iconBlur": "/equips/defense_1_1_blur.jpg"
     },
     {
       "id": 312,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_2_blur.jpg"
+      "icon": "/equips/defense_1_2.jpg",
+      "iconBlur": "/equips/defense_1_2_blur.jpg"
     },
     {
       "id": 313,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_3_blur.jpg"
+      "icon": "/equips/defense_1_3.jpg",
+      "iconBlur": "/equips/defense_1_3_blur.jpg"
     },
     {
       "id": 314,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_1_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_1_4_blur.jpg"
+      "icon": "/equips/defense_1_4.jpg",
+      "iconBlur": "/equips/defense_1_4_blur.jpg"
     },
     {
       "id": 321,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_1_blur.jpg"
+      "icon": "/equips/defense_2_1.jpg",
+      "iconBlur": "/equips/defense_2_1_blur.jpg"
     },
     {
       "id": 322,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_2_blur.jpg"
+      "icon": "/equips/defense_2_2.jpg",
+      "iconBlur": "/equips/defense_2_2_blur.jpg"
     },
     {
       "id": 323,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_3_blur.jpg"
+      "icon": "/equips/defense_2_3.jpg",
+      "iconBlur": "/equips/defense_2_3_blur.jpg"
     },
     {
       "id": 324,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_4_blur.jpg"
+      "icon": "/equips/defense_2_4.jpg",
+      "iconBlur": "/equips/defense_2_4_blur.jpg"
     },
     {
       "id": 325,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_5_blur.jpg"
+      "icon": "/equips/defense_2_5.jpg",
+      "iconBlur": "/equips/defense_2_5_blur.jpg"
     },
     {
       "id": 326,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_6_blur.jpg"
+      "icon": "/equips/defense_2_6.jpg",
+      "iconBlur": "/equips/defense_2_6_blur.jpg"
     },
     {
       "id": 327,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_7.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_7_blur.jpg"
+      "icon": "/equips/defense_2_7.jpg",
+      "iconBlur": "/equips/defense_2_7_blur.jpg"
     },
     {
       "id": 3212,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_12.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_12_blur.jpg"
+      "icon": "/equips/defense_2_12.jpg",
+      "iconBlur": "/equips/defense_2_12_blur.jpg"
     },
     {
       "id": 328,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_8.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_8_blur.jpg"
+      "icon": "/equips/defense_2_8.jpg",
+      "iconBlur": "/equips/defense_2_8_blur.jpg"
     },
     {
       "id": 329,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_9.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_9_blur.jpg"
+      "icon": "/equips/defense_2_9.jpg",
+      "iconBlur": "/equips/defense_2_9_blur.jpg"
     },
     {
       "id": 3210,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_10.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_10_blur.jpg"
+      "icon": "/equips/defense_2_10.jpg",
+      "iconBlur": "/equips/defense_2_10_blur.jpg"
     },
     {
       "id": 3211,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_2_11.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_2_11_blur.jpg"
+      "icon": "/equips/defense_2_11.jpg",
+      "iconBlur": "/equips/defense_2_11_blur.jpg"
     },
     {
       "id": 331,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_1_blur.jpg"
+      "icon": "/equips/defense_3_1.jpg",
+      "iconBlur": "/equips/defense_3_1_blur.jpg"
     },
     {
       "id": 332,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_2_blur.jpg"
+      "icon": "/equips/defense_3_2.jpg",
+      "iconBlur": "/equips/defense_3_2_blur.jpg"
     },
     {
       "id": 333,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_3_blur.jpg"
+      "icon": "/equips/defense_3_3.jpg",
+      "iconBlur": "/equips/defense_3_3_blur.jpg"
     },
     {
       "id": 334,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_4_blur.jpg"
+      "icon": "/equips/defense_3_4.jpg",
+      "iconBlur": "/equips/defense_3_4_blur.jpg"
     },
     {
       "id": 335,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_5_blur.jpg"
+      "icon": "/equips/defense_3_5.jpg",
+      "iconBlur": "/equips/defense_3_5_blur.jpg"
     },
     {
       "id": 336,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_6_blur.jpg"
+      "icon": "/equips/defense_3_6.jpg",
+      "iconBlur": "/equips/defense_3_6_blur.jpg"
     },
     {
       "id": 337,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_7.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_7_blur.jpg"
+      "icon": "/equips/defense_3_7.jpg",
+      "iconBlur": "/equips/defense_3_7_blur.jpg"
     },
     {
       "id": 338,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_8.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_8_blur.jpg"
+      "icon": "/equips/defense_3_8.jpg",
+      "iconBlur": "/equips/defense_3_8_blur.jpg"
     },
     {
       "id": 339,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_9.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_9_blur.jpg"
+      "icon": "/equips/defense_3_9.jpg",
+      "iconBlur": "/equips/defense_3_9_blur.jpg"
     },
     {
       "id": 3310,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_10.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_10_blur.jpg"
+      "icon": "/equips/defense_3_10.jpg",
+      "iconBlur": "/equips/defense_3_10_blur.jpg"
     },
     {
       "id": 3311,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_11.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_11_blur.jpg"
+      "icon": "/equips/defense_3_11.jpg",
+      "iconBlur": "/equips/defense_3_11_blur.jpg"
     },
     {
       "id": 3312,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/defense_3_12.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/defense_3_12_blur.jpg"
+      "icon": "/equips/defense_3_12.jpg",
+      "iconBlur": "/equips/defense_3_12_blur.jpg"
     },
     {
       "id": 411,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/move_1_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_1_1_blur.jpg"
+      "icon": "/equips/move_1_1.jpg",
+      "iconBlur": "/equips/move_1_1_blur.jpg"
     },
     {
       "id": 421,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_1_blur.jpg"
+      "icon": "/equips/move_2_1.jpg",
+      "iconBlur": "/equips/move_2_1_blur.jpg"
     },
     {
       "id": 422,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_2_blur.jpg"
+      "icon": "/equips/move_2_2.jpg",
+      "iconBlur": "/equips/move_2_2_blur.jpg"
     },
     {
       "id": 423,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_3_blur.jpg"
+      "icon": "/equips/move_2_3.jpg",
+      "iconBlur": "/equips/move_2_3_blur.jpg"
     },
     {
       "id": 424,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_4_blur.jpg"
+      "icon": "/equips/move_2_4.jpg",
+      "iconBlur": "/equips/move_2_4_blur.jpg"
     },
     {
       "id": 425,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_5_blur.jpg"
+      "icon": "/equips/move_2_5.jpg",
+      "iconBlur": "/equips/move_2_5_blur.jpg"
     },
     {
       "id": 426,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/move_2_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/move_2_6_blur.jpg"
+      "icon": "/equips/move_2_6.jpg",
+      "iconBlur": "/equips/move_2_6_blur.jpg"
     },
     {
       "id": 511,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_1_blur.jpg"
+      "icon": "/equips/jungle_1_1.jpg",
+      "iconBlur": "/equips/jungle_1_1_blur.jpg"
     },
     {
       "id": 512,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_1_2_blur.jpg"
+      "icon": "/equips/jungle_1_2.jpg",
+      "iconBlur": "/equips/jungle_1_2_blur.jpg"
     },
     {
       "id": 521,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_1_blur.jpg"
+      "icon": "/equips/jungle_2_1.jpg",
+      "iconBlur": "/equips/jungle_2_1_blur.jpg"
     },
     {
       "id": 522,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_2_blur.jpg"
+      "icon": "/equips/jungle_2_2.jpg",
+      "iconBlur": "/equips/jungle_2_2_blur.jpg"
     },
     {
       "id": 523,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_3_blur.jpg"
+      "icon": "/equips/jungle_2_3.jpg",
+      "iconBlur": "/equips/jungle_2_3_blur.jpg"
     },
     {
       "id": 524,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_2_4_blur.jpg"
+      "icon": "/equips/jungle_2_4.jpg",
+      "iconBlur": "/equips/jungle_2_4_blur.jpg"
     },
     {
       "id": 531,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_1_blur.jpg"
+      "icon": "/equips/jungle_3_1.jpg",
+      "iconBlur": "/equips/jungle_3_1_blur.jpg"
     },
     {
       "id": 532,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_2_blur.jpg"
+      "icon": "/equips/jungle_3_2.jpg",
+      "iconBlur": "/equips/jungle_3_2_blur.jpg"
     },
     {
       "id": 533,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_3_blur.jpg"
+      "icon": "/equips/jungle_3_3.jpg",
+      "iconBlur": "/equips/jungle_3_3_blur.jpg"
     },
     {
       "id": 534,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/jungle_3_4_blur.jpg"
+      "icon": "/equips/jungle_3_4.jpg",
+      "iconBlur": "/equips/jungle_3_4_blur.jpg"
     },
     {
       "id": 611,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_1_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_1_1_blur.jpg"
+      "icon": "/equips/wander_1_1.jpg",
+      "iconBlur": "/equips/wander_1_1_blur.jpg"
     },
     {
       "id": 621,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_1_blur.jpg"
+      "icon": "/equips/wander_2_1.jpg",
+      "iconBlur": "/equips/wander_2_1_blur.jpg"
     },
     {
       "id": 622,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_2_blur.jpg"
+      "icon": "/equips/wander_2_2.jpg",
+      "iconBlur": "/equips/wander_2_2_blur.jpg"
     },
     {
       "id": 623,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_3_blur.jpg"
+      "icon": "/equips/wander_2_3.jpg",
+      "iconBlur": "/equips/wander_2_3_blur.jpg"
     },
     {
       "id": 624,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_4_blur.jpg"
+      "icon": "/equips/wander_2_4.jpg",
+      "iconBlur": "/equips/wander_2_4_blur.jpg"
     },
     {
       "id": 625,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_5_blur.jpg"
+      "icon": "/equips/wander_2_5.jpg",
+      "iconBlur": "/equips/wander_2_5_blur.jpg"
     },
     {
       "id": 626,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_2_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_2_6_blur.jpg"
+      "icon": "/equips/wander_2_6.jpg",
+      "iconBlur": "/equips/wander_2_6_blur.jpg"
     },
     {
       "id": 631,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_1.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_1_blur.jpg"
+      "icon": "/equips/wander_3_1.jpg",
+      "iconBlur": "/equips/wander_3_1_blur.jpg"
     },
     {
       "id": 632,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_2.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_2_blur.jpg"
+      "icon": "/equips/wander_3_2.jpg",
+      "iconBlur": "/equips/wander_3_2_blur.jpg"
     },
     {
       "id": 633,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_3.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_3_blur.jpg"
+      "icon": "/equips/wander_3_3.jpg",
+      "iconBlur": "/equips/wander_3_3_blur.jpg"
     },
     {
       "id": 634,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_4.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_4_blur.jpg"
+      "icon": "/equips/wander_3_4.jpg",
+      "iconBlur": "/equips/wander_3_4_blur.jpg"
     },
     {
       "id": 635,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_5.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_5_blur.jpg"
+      "icon": "/equips/wander_3_5.jpg",
+      "iconBlur": "/equips/wander_3_5_blur.jpg"
     },
     {
       "id": 636,
-      "icon": "https://lyb.cbb.plus/wzry-material/equips/wander_3_6.jpg",
-      "iconBlur": "https://lyb.cbb.plus/wzry-material/equips/wander_3_6_blur.jpg"
+      "icon": "/equips/wander_3_6.jpg",
+      "iconBlur": "/equips/wander_3_6_blur.jpg"
     }
   ]
 }

@@ -1,68 +1,20 @@
 {
   "data": [
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w0.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w0_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w1.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w1_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w2.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w2_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w3.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w3_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w4.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w4_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w5.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w5_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w6.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w6_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w7.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w7_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w8.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w8_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w9.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w9_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w10.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w10_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/w11.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/w11_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/h1.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/h1_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/h2.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/h2_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/h3.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/h3_blur.jpg"
-    ],
-    [
-      "https://lyb.cbb.plus/wzry-material/teams/h4.jpg",
-      "https://lyb.cbb.plus/wzry-material/teams/h4_blur.jpg"
-    ]
+    ["/teams/w0.jpg", "/teams/w0_v.jpg"],
+    ["/teams/w1.jpg", "/teams/w1_v.jpg"],
+    ["/teams/w2.jpg", "/teams/w2_v.jpg"],
+    ["/teams/w3.jpg", "/teams/w3_v.jpg"],
+    ["/teams/w4.jpg", "/teams/w4_v.jpg"],
+    ["/teams/w5.jpg", "/teams/w5_v.jpg"],
+    ["/teams/w6.jpg", "/teams/w6_v.jpg"],
+    ["/teams/w7.jpg", "/teams/w7_v.jpg"],
+    ["/teams/w8.jpg", "/teams/w8_v.jpg"],
+    ["/teams/w9.jpg", "/teams/w9_v.jpg"],
+    ["/teams/w10.jpg", "/teams/w10_v.jpg"],
+    ["/teams/w11.jpg", "/teams/w11_v.jpg"],
+    ["/teams/h1.jpg", "/teams/h1_v.jpg"],
+    ["/teams/h2.jpg", "/teams/h2_v.jpg"],
+    ["/teams/h3.jpg", "/teams/h3_v.jpg"],
+    ["/teams/h4.jpg", "/teams/h4_v.jpg"]
   ]
 }
