@@ -935,6 +935,14 @@
       "posterBig": "/heros/hainuo_hb_0_b.jpg",
       "cover": "/heros/hainuo_c.jpg",
       "coverBlur": "/heros/hainuo_c_v.jpg"
+    },
+    {
+      "id": 519,
+      "poster": "/heros/aoyin_hb_0.jpg",
+      "posterBlur": "/heros/aoyin_hb_0_v.jpg",
+      "posterBig": "/heros/aoyin_hb_0_b.jpg",
+      "cover": "/heros/aoyin_c.jpg",
+      "coverBlur": "/heros/aoyin_c_v.jpg"
     }
   ]
 }

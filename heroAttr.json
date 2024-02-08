@@ -818,6 +818,13 @@
       "difficulty": 20,
       "effect": 80,
       "survival": 60
+    },
+    {
+      "id": 519,
+      "attack": 70,
+      "difficulty": 40,
+      "effect": 50,
+      "survival": 40
     }
   ]
 }
