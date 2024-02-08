@@ -3937,6 +3937,14 @@
       "cover": "/heros/machao_hb_3_s.jpg"
     },
     {
+      "id": 5184,
+      "avatar": "/heros/machao_tx_4.jpg",
+      "poster": "/heros/machao_hb_4.jpg",
+      "posterBlur": "/heros/machao_hb_4_v.jpg",
+      "posterBig": "/heros/machao_hb_4_b.jpg",
+      "cover": "/heros/machao_hb_4_s.jpg"
+    },
+    {
       "id": 5231,
       "avatar": "/heros/xishi_tx_1.jpg",
       "poster": "/heros/xishi_hb_1.jpg",
@@ -4487,6 +4495,14 @@
       "posterBlur": "/heros/kai_hb_6_v.jpg",
       "posterBig": "/heros/kai_hb_6_b.jpg",
       "cover": "/heros/kai_hb_6_s.jpg"
+    },
+    {
+      "id": 5642,
+      "avatar": "/heros/jixiaoman_tx_2.jpg",
+      "poster": "/heros/jixiaoman_hb_2.jpg",
+      "posterBlur": "/heros/jixiaoman_hb_2_v.jpg",
+      "posterBig": "/heros/jixiaoman_hb_2_b.jpg",
+      "cover": "/heros/jixiaoman_hb_2_s.jpg"
     }
   ]
 }

@@ -867,6 +867,13 @@
       "link": "/skinType/126.png",
       "alias": "其他限定",
       "sort": 19
+    },
+    {
+      "id": 127,
+      "name": "珍宝阁",
+      "link": "/skinType/127.png",
+      "alias": "珍宝阁",
+      "sort": 22
     }
   ]
 }
