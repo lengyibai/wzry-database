@@ -4,876 +4,757 @@
       "id": 0,
       "name": "伴生",
       "link": "",
-      "alias": "伴生",
-      "sort": 1
+      "alias": "伴生"
     },
     {
       "id": 1,
       "name": "勇者",
       "link": "/skinType/1.png",
-      "alias": "勇者",
-      "sort": 2
+      "alias": "勇者"
     },
     {
       "id": 2,
       "name": "猴年限定",
       "link": "/skinType/2.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖猴限定"
     },
     {
       "id": 3,
       "name": "成就限定",
       "link": "/skinType/3.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 4,
       "name": "圣诞限定",
       "link": "/skinType/4.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 5,
       "name": "唯一限定",
       "link": "/skinType/5.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "限定"
     },
     {
       "id": 6,
       "name": "贵族5限定",
       "link": "/skinType/6.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 7,
       "name": "会员限定",
       "link": "/skinType/7.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 8,
       "name": "赏金赛限定",
       "link": "/skinType/8.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 9,
       "name": "战队赛限定",
       "link": "/skinType/9.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 10,
       "name": "必胜客专属",
       "link": "/skinType/10.png",
-      "alias": "其他专属",
-      "sort": 21
+      "alias": "其他专属"
     },
     {
       "id": 11,
       "name": "情人节限定(zx)",
       "link": "/skinType/11.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 12,
       "name": "史诗",
       "link": "/skinType/12.png",
-      "alias": "史诗",
-      "sort": 3
+      "alias": "史诗"
     },
     {
       "id": 13,
       "name": "S3赛季专属",
       "link": "/skinType/13.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 14,
       "name": "S4赛季专属",
       "link": "/skinType/14.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 15,
       "name": "传说",
       "link": "/skinType/15.png",
-      "alias": "传说",
-      "sort": 4
+      "alias": "传说"
     },
     {
       "id": 16,
       "name": "新春专属",
       "link": "/skinType/16.png",
-      "alias": "其他专属",
-      "sort": 21
+      "alias": "其他专属"
     },
     {
       "id": 17,
       "name": "御龙在天",
       "link": "/skinType/17.png",
-      "alias": "特殊标志",
-      "sort": 22
+      "alias": "特殊标志"
     },
     {
       "id": 18,
       "name": "1周年限定",
       "link": "/skinType/18.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 19,
       "name": "KPL限定",
       "link": "/skinType/19.png",
-      "alias": "KPL限定",
-      "sort": 15
+      "alias": "KPL限定"
     },
     {
       "id": 20,
       "name": "鸡年限定",
       "link": "/skinType/20.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖鸡限定"
     },
     {
       "id": 21,
       "name": "情人节限定(zz)",
       "link": "/skinType/21.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 22,
       "name": "五五开黑节",
       "link": "/skinType/22.png",
-      "alias": "五五节",
-      "sort": 17
+      "alias": "五五节"
     },
     {
       "id": 23,
       "name": "2周年限定",
       "link": "/skinType/23.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 24,
       "name": "情人节限定(z)",
       "link": "/skinType/24.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 25,
       "name": "狗年限定",
       "link": "/skinType/25.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖狗限定"
     },
     {
       "id": 26,
       "name": "荣耀典藏",
       "link": "/skinType/26.png",
-      "alias": "荣耀典藏",
-      "sort": 6
+      "alias": "荣耀典藏"
     },
     {
       "id": 27,
       "name": "沉稳",
       "link": "/skinType/27.png",
-      "alias": "团战精神",
-      "sort": 9
+      "alias": "团战精神"
     },
     {
       "id": 28,
       "name": "梅西正版授权",
       "link": "/skinType/28.png",
-      "alias": "正版授权",
-      "sort": 8
+      "alias": "正版授权"
     },
     {
       "id": 29,
       "name": "浪一夏限定",
       "link": "/skinType/29.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 30,
       "name": "敏锐",
       "link": "/skinType/30.png",
-      "alias": "团战精神",
-      "sort": 9
+      "alias": "团战精神"
     },
     {
       "id": 31,
       "name": "掌控",
       "link": "/skinType/31.png",
-      "alias": "团战精神",
-      "sort": 9
+      "alias": "团战精神"
     },
     {
       "id": 32,
       "name": "DC正版授权",
       "link": "/skinType/32.png",
-      "alias": "正版授权",
-      "sort": 8
+      "alias": "正版授权"
     },
     {
       "id": 33,
       "name": "圣斗士星矢正版授权",
       "link": "/skinType/33.png",
-      "alias": "正版授权",
-      "sort": 8
+      "alias": "正版授权"
     },
     {
       "id": 34,
       "name": "守护",
       "link": "/skinType/34.png",
-      "alias": "团战精神",
-      "sort": 9
+      "alias": "团战精神"
     },
     {
       "id": 35,
       "name": "坚韧",
       "link": "/skinType/35.png",
-      "alias": "团战精神",
-      "sort": 9
+      "alias": "团战精神"
     },
     {
       "id": 36,
       "name": "3周年限定",
       "link": "/skinType/36.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 37,
       "name": "圣诞限定",
       "link": "/skinType/37.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 38,
       "name": "FMVP/gold",
       "link": "/skinType/38.png",
-      "alias": "FMVP",
-      "sort": 16
+      "alias": "FMVP"
     },
     {
       "id": 39,
       "name": "S14赛季专属",
       "link": "/skinType/39.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 40,
       "name": "战令限定",
       "link": "/skinType/40.png",
-      "alias": "战令限定",
-      "sort": 20
+      "alias": "战令限定"
     },
     {
       "id": 41,
       "name": "国家宝藏",
       "link": "/skinType/41.png",
-      "alias": "特殊标志",
-      "sort": 22
+      "alias": "特殊标志"
     },
     {
       "id": 42,
       "name": "星传说",
       "link": "/skinType/42.png",
-      "alias": "星传说",
-      "sort": 5
+      "alias": "星传说"
     },
     {
       "id": 43,
       "name": "猪年限定",
       "link": "/skinType/43.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖猪限定"
     },
     {
       "id": 44,
       "name": "情人节限定(dy)",
       "link": "/skinType/44.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 45,
       "name": "情人节限定(dy)",
       "link": "/skinType/45.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 46,
       "name": "S15赛季专属",
       "link": "/skinType/46.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 47,
       "name": "信誉专属",
       "link": "/skinType/47.png",
-      "alias": "其他专属",
-      "sort": 21
+      "alias": "其他专属"
     },
     {
       "id": 48,
       "name": "S16赛季专属",
       "link": "/skinType/48.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 49,
       "name": "世冠2019",
       "link": "/skinType/49.png",
-      "alias": "世冠",
-      "sort": 14
+      "alias": "世冠"
     },
     {
       "id": 50,
       "name": "活动专属",
       "link": "/skinType/50.png",
-      "alias": "其他专属",
-      "sort": 21
+      "alias": "其他专属"
     },
     {
       "id": 51,
       "name": "FMVP/blue",
       "link": "/skinType/51.png",
-      "alias": "FMVP",
-      "sort": 16
+      "alias": "FMVP"
     },
     {
       "id": 52,
       "name": "S17赛季专属",
       "link": "/skinType/52.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 53,
       "name": "4周年限定",
       "link": "/skinType/53.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 54,
       "name": "S13赛季专属",
       "link": "/skinType/54.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 55,
       "name": "圣诞限定",
       "link": "/skinType/55.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 56,
       "name": "S5赛季专属",
       "link": "/skinType/56.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 57,
       "name": "S6赛季专属",
       "link": "/skinType/57.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 58,
       "name": "S7赛季专属",
       "link": "/skinType/58.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 59,
       "name": "S8赛季专属",
       "link": "/skinType/59.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 60,
       "name": "S9赛季专属",
       "link": "/skinType/60.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 61,
       "name": "S10赛季专属",
       "link": "/skinType/61.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 62,
       "name": "S11赛季专属",
       "link": "/skinType/62.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 63,
       "name": "S12赛季专属",
       "link": "/skinType/63.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 64,
       "name": "SNK正版授权",
       "link": "/skinType/64.png",
-      "alias": "正版授权",
-      "sort": 8
+      "alias": "正版授权"
     },
     {
       "id": 65,
       "name": "源梦",
       "link": "/skinType/65.png",
-      "alias": "其他专属",
-      "sort": 21
+      "alias": "其他专属"
     },
     {
       "id": 66,
       "name": "S18赛季专属",
       "link": "/skinType/66.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 67,
       "name": "鼠年限定",
       "link": "/skinType/67.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖鼠限定"
     },
     {
       "id": 68,
       "name": "情人节限定(hc)",
       "link": "/skinType/68.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 69,
       "name": "情人节限定(hc)",
       "link": "/skinType/69.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 70,
       "name": "S19赛季专属",
       "link": "/skinType/70.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 71,
       "name": "五五开黑节",
       "link": "/skinType/71.png",
-      "alias": "五五节",
-      "sort": 17
+      "alias": "五五节"
     },
     {
       "id": 72,
       "name": "五虎上将",
       "link": "/skinType/72.png",
-      "alias": "五虎上将",
-      "sort": 10
+      "alias": "五虎上将"
     },
     {
       "id": 73,
       "name": "S20赛季专属",
       "link": "/skinType/73.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 74,
       "name": "世冠2020",
       "link": "/skinType/74.png",
-      "alias": "世冠",
-      "sort": 14
+      "alias": "世冠"
     },
     {
       "id": 75,
       "name": "2020王者之证",
       "link": "/skinType/75.png",
-      "alias": "王者之证",
-      "sort": 12
+      "alias": "王者之证"
     },
     {
       "id": 76,
       "name": "5周年限定",
       "link": "/skinType/76.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 77,
       "name": "S21赛季专属",
       "link": "/skinType/77.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 78,
       "name": "贵族8限定",
       "link": "/skinType/78.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 79,
       "name": "S22赛季专属",
       "link": "/skinType/79.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 80,
       "name": "牛年限定",
       "link": "/skinType/80.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖牛限定"
     },
     {
       "id": 81,
       "name": "情人节限定(m)",
       "link": "/skinType/81.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 82,
       "name": "S23赛季专属",
       "link": "/skinType/82.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 83,
       "name": "仙剑限定",
       "link": "/skinType/83.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 84,
       "name": "S24赛季专属",
       "link": "/skinType/84.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 85,
       "name": "世冠2021",
       "link": "/skinType/85.png",
-      "alias": "世冠",
-      "sort": 14
+      "alias": "世冠"
     },
     {
       "id": 86,
       "name": "S25赛季专属",
       "link": "/skinType/86.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 87,
       "name": "敦煌研究院",
       "link": "/skinType/87.png",
-      "alias": "特殊标志",
-      "sort": 22
+      "alias": "特殊标志"
     },
     {
       "id": 88,
       "name": "西游记86版正版授权",
       "link": "/skinType/88.png",
-      "alias": "正版授权",
-      "sort": 8
+      "alias": "正版授权"
     },
     {
       "id": 89,
       "name": "6周年限定",
       "link": "/skinType/89.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 90,
       "name": "S28赛季专属",
       "link": "/skinType/90.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 91,
       "name": "2021王者之证",
       "link": "/skinType/91.png",
-      "alias": "王者之证",
-      "sort": 12
+      "alias": "王者之证"
     },
     {
       "id": 92,
       "name": "虎年限定",
       "link": "/skinType/92.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖虎限定"
     },
     {
       "id": 93,
       "name": "情人节限定(yy)",
       "link": "/skinType/93.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 94,
       "name": "情人节限定(yy)",
       "link": "/skinType/94.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 95,
       "name": "五五朋友节",
       "link": "/skinType/95.png",
-      "alias": "五五节",
-      "sort": 17
+      "alias": "五五节"
     },
     {
       "id": 96,
       "name": "520限定(sd)",
       "link": "/skinType/96.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 97,
       "name": "520限定(sd)",
       "link": "/skinType/97.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 98,
       "name": "S29赛季专属",
       "link": "/skinType/98.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 99,
       "name": "7周年限定",
       "link": "/skinType/99.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 100,
       "name": "星会员专属",
       "link": "/skinType/100.png",
-      "alias": "其他专属",
-      "sort": 21
+      "alias": "其他专属"
     },
     {
       "id": 101,
       "name": "航天限定",
       "link": "/skinType/101.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 102,
       "name": "永宁纪（限定）",
       "link": "/skinType/102.png",
-      "alias": "特殊标志",
-      "sort": 22
+      "alias": "特殊标志"
     },
     {
       "id": 103,
       "name": "世冠2022",
       "link": "/skinType/103.png",
-      "alias": "世冠",
-      "sort": 14
+      "alias": "世冠"
     },
     {
       "id": 104,
       "name": "S30赛季专属",
       "link": "/skinType/104.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 105,
       "name": "2022王者之证",
       "link": "/skinType/105.png",
-      "alias": "王者之证",
-      "sort": 12
+      "alias": "王者之证"
     },
     {
       "id": 106,
       "name": "永宁纪（至尊）",
       "link": "/skinType/106.png",
-      "alias": "特殊标志",
-      "sort": 22
+      "alias": "特殊标志"
     },
     {
       "id": 107,
       "name": "兔年限定",
       "link": "/skinType/107.png",
-      "alias": "限定",
-      "sort": 18
+      "alias": "生肖兔限定"
     },
     {
       "id": 108,
       "name": "情人节限定(无限倾心-项羽/虞姬)",
       "link": "/skinType/108.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 109,
       "name": "S31赛季专属",
       "link": "/skinType/109.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 110,
       "name": "五五朋友节1",
       "link": "/skinType/110.png",
-      "alias": "五五节",
-      "sort": 17
+      "alias": "五五节"
     },
     {
       "id": 111,
       "name": "九尾",
       "link": "/skinType/111.png",
-      "alias": "特殊标志",
-      "sort": 22
+      "alias": "特殊标志"
     },
     {
       "id": 112,
       "name": "520限定(逃逸游戏-亚瑟)",
       "link": "/skinType/112.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 113,
       "name": "520限定(逃逸游戏-安琪拉)",
       "link": "/skinType/113.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 114,
       "name": "S32赛季专属",
       "link": "/skinType/114.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 115,
       "name": "无双限定",
       "link": "/skinType/115.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 116,
       "name": "七夕限定(鹤归松栖-赵怀真)",
       "link": "/skinType/116.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 117,
       "name": "七夕限定(鹤归松栖-云缨)",
       "link": "/skinType/117.png",
-      "alias": "情侣",
-      "sort": 7
+      "alias": "情侣"
     },
     {
       "id": 118,
       "name": "S33赛季专属",
       "link": "/skinType/118.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 119,
       "name": "8周年限定",
       "link": "/skinType/119.png",
-      "alias": "周年限定",
-      "sort": 13
+      "alias": "周年限定"
     },
     {
       "id": 122,
       "name": "世冠2023",
       "link": "/skinType/122.png",
-      "alias": "世冠",
-      "sort": 14
+      "alias": "世冠"
     },
     {
       "id": 124,
       "name": "S34赛季专属",
       "link": "/skinType/124.png",
-      "alias": "赛季专属",
-      "sort": 11
+      "alias": "赛季专属"
     },
     {
       "id": 125,
       "name": "2023王者之证",
       "link": "/skinType/125.png",
-      "alias": "王者之证",
-      "sort": 12
+      "alias": "王者之证"
     },
     {
       "id": 126,
       "name": "贵族10限定",
       "link": "/skinType/126.png",
-      "alias": "其他限定",
-      "sort": 19
+      "alias": "其他限定"
     },
     {
       "id": 127,
       "name": "珍宝阁",
       "link": "/skinType/127.png",
-      "alias": "珍宝阁",
-      "sort": 22
+      "alias": "珍宝阁"
+    },
+    {
+      "id": 128,
+      "name": "龙年限定",
+      "link": "/skinType/128.png",
+      "alias": "生肖龙限定"
     }
   ]
 }

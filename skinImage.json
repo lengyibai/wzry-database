@@ -4503,6 +4503,78 @@
       "posterBlur": "/heros/jixiaoman_hb_2_v.jpg",
       "posterBig": "/heros/jixiaoman_hb_2_b.jpg",
       "cover": "/heros/jixiaoman_hb_2_s.jpg"
+    },
+    {
+      "id": 1054,
+      "avatar": "/heros/lianpo_tx_4.jpg",
+      "poster": "/heros/lianpo_hb_4.jpg",
+      "posterBlur": "/heros/lianpo_hb_4_v.jpg",
+      "posterBig": "/heros/lianpo_hb_4_b.jpg",
+      "cover": "/heros/lianpo_hb_4_s.jpg"
+    },
+    {
+      "id": 1666,
+      "avatar": "/heros/yase_tx_6.jpg",
+      "poster": "/heros/yase_hb_6.jpg",
+      "posterBlur": "/heros/yase_hb_6_v.jpg",
+      "posterBig": "/heros/yase_hb_6_b.jpg",
+      "cover": "/heros/yase_hb_6_s.jpg"
+    },
+    {
+      "id": 1591,
+      "avatar": "/heros/duoliya_tx_1.jpg",
+      "poster": "/heros/duoliya_hb_1.jpg",
+      "posterBlur": "/heros/duoliya_hb_1_v.jpg",
+      "posterBig": "/heros/duoliya_hb_1_b.jpg",
+      "cover": "/heros/duoliya_hb_1_s.jpg"
+    },
+    {
+      "id": 1955,
+      "avatar": "/heros/bailixuance_tx_5.jpg",
+      "poster": "/heros/bailixuance_hb_5.jpg",
+      "posterBlur": "/heros/bailixuance_hb_5_v.jpg",
+      "posterBig": "/heros/bailixuance_hb_5_b.jpg",
+      "cover": "/heros/bailixuance_hb_5_s.jpg"
+    },
+    {
+      "id": 1918,
+      "avatar": "/heros/daqiao_tx_8.jpg",
+      "poster": "/heros/daqiao_hb_8.jpg",
+      "posterBlur": "/heros/daqiao_hb_8_v.jpg",
+      "posterBig": "/heros/daqiao_hb_8_b.jpg",
+      "cover": "/heros/daqiao_hb_8_s.jpg"
+    },
+    {
+      "id": 1427,
+      "avatar": "/heros/anqila_tx_7.jpg",
+      "poster": "/heros/anqila_hb_7.jpg",
+      "posterBlur": "/heros/anqila_hb_7_v.jpg",
+      "posterBig": "/heros/anqila_hb_7_b.jpg",
+      "cover": "/heros/anqila_hb_7_s.jpg"
+    },
+    {
+      "id": 10710,
+      "avatar": "/heros/zhaoyun_tx_10.jpg",
+      "poster": "/heros/zhaoyun_hb_10.jpg",
+      "posterBlur": "/heros/zhaoyun_hb_10_v.jpg",
+      "posterBig": "/heros/zhaoyun_hb_10_b.jpg",
+      "cover": "/heros/zhaoyun_hb_10_s.jpg"
+    },
+    {
+      "id": 11110,
+      "avatar": "/heros/sunshangxiang_tx_10.jpg",
+      "poster": "/heros/sunshangxiang_hb_10.jpg",
+      "posterBlur": "/heros/sunshangxiang_hb_10_v.jpg",
+      "posterBig": "/heros/sunshangxiang_hb_10_b.jpg",
+      "cover": "/heros/sunshangxiang_hb_10_s.jpg"
+    },
+    {
+      "id": 5105,
+      "avatar": "/heros/sunce_tx_5.jpg",
+      "poster": "/heros/sunce_hb_5.jpg",
+      "posterBlur": "/heros/sunce_hb_5_v.jpg",
+      "posterBig": "/heros/sunce_hb_5_b.jpg",
+      "cover": "/heros/sunce_hb_5_s.jpg"
     }
   ]
 }
