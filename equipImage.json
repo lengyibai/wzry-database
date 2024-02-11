@@ -556,26 +556,6 @@
       "iconBlur": "/equips/wander_2_2_blur.jpg"
     },
     {
-      "id": 623,
-      "icon": "/equips/wander_2_3.jpg",
-      "iconBlur": "/equips/wander_2_3_blur.jpg"
-    },
-    {
-      "id": 624,
-      "icon": "/equips/wander_2_4.jpg",
-      "iconBlur": "/equips/wander_2_4_blur.jpg"
-    },
-    {
-      "id": 625,
-      "icon": "/equips/wander_2_5.jpg",
-      "iconBlur": "/equips/wander_2_5_blur.jpg"
-    },
-    {
-      "id": 626,
-      "icon": "/equips/wander_2_6.jpg",
-      "iconBlur": "/equips/wander_2_6_blur.jpg"
-    },
-    {
       "id": 631,
       "icon": "/equips/wander_3_1.jpg",
       "iconBlur": "/equips/wander_3_1_blur.jpg"
@@ -604,6 +584,16 @@
       "id": 636,
       "icon": "/equips/wander_3_6.jpg",
       "iconBlur": "/equips/wander_3_6_blur.jpg"
+    },
+    {
+      "id": 637,
+      "icon": "/equips/wander_3_7.jpg",
+      "iconBlur": "/equips/wander_3_7_blur.jpg"
+    },
+    {
+      "id": 638,
+      "icon": "/equips/wander_3_8.jpg",
+      "iconBlur": "/equips/wander_3_8_blur.jpg"
     }
   ]
 }
