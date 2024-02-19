@@ -745,14 +745,6 @@
       "cover": "/heros/direnjie_hb_7_s.jpg"
     },
     {
-      "id": 1338,
-      "avatar": "/heros/direnjie_tx_8.jpg",
-      "poster": "/heros/direnjie_hb_8.jpg",
-      "posterBlur": "/heros/direnjie_hb_8_v.jpg",
-      "posterBig": "/heros/direnjie_hb_8_b.jpg",
-      "cover": "/heros/direnjie_hb_8_s.jpg"
-    },
-    {
       "id": 1561,
       "avatar": "/heros/zhangliang_tx_1.jpg",
       "poster": "/heros/zhangliang_hb_1.jpg",
@@ -3847,14 +3839,6 @@
       "posterBlur": "/heros/yao1_hb_5_v.jpg",
       "posterBig": "/heros/yao1_hb_5_b.jpg",
       "cover": "/heros/yao1_hb_5_s.jpg"
-    },
-    {
-      "id": 5056,
-      "avatar": "/heros/yao1_tx_6.jpg",
-      "poster": "/heros/yao1_hb_6.jpg",
-      "posterBlur": "/heros/yao1_hb_6_v.jpg",
-      "posterBig": "/heros/yao1_hb_6_b.jpg",
-      "cover": "/heros/yao1_hb_6_s.jpg"
     },
     {
       "id": 5061,
