@@ -4609,6 +4609,14 @@
       "cover": "/heros/yalian_hb_2_s.jpg"
     },
     {
+      "id": 3127,
+      "avatar": "/heros/shenmengxi_tx_7.jpg",
+      "poster": "/heros/shenmengxi_hb_7.jpg",
+      "posterBlur": "/heros/shenmengxi_hb_7_v.jpg",
+      "posterBig": "/heros/shenmengxi_hb_7_b.jpg",
+      "cover": "/heros/shenmengxi_hb_7_s.jpg"
+    },
+    {
       "id": 1176,
       "avatar": "/heros/zhongwuyan_tx_6.jpg",
       "poster": "/heros/zhongwuyan_hb_6.jpg",
@@ -4633,12 +4641,12 @@
       "cover": "/heros/lubanqihao_hb_10_s.jpg"
     },
     {
-      "id": 1196,
-      "avatar": "/heros/lubanqihao_tx_6.jpg",
-      "poster": "/heros/lubanqihao_hb_6.jpg",
-      "posterBlur": "/heros/lubanqihao_hb_6_v.jpg",
-      "posterBig": "/heros/lubanqihao_hb_6_b.jpg",
-      "cover": "/heros/lubanqihao_hb_6_s.jpg"
+      "id": 1195,
+      "avatar": "/heros/bianque_tx_5.jpg",
+      "poster": "/heros/bianque_hb_5.jpg",
+      "posterBlur": "/heros/bianque_hb_5_v.jpg",
+      "posterBig": "/heros/bianque_hb_5_b.jpg",
+      "cover": "/heros/bianque_hb_5_s.jpg"
     },
     {
       "id": 5214,
@@ -4698,11 +4706,11 @@
     },
     {
       "id": 5064,
-      "avatar": "/heros/shangguanwaner_tx_4.jpg",
-      "poster": "/heros/shangguanwaner_hb_4.jpg",
-      "posterBlur": "/heros/shangguanwaner_hb_4_v.jpg",
-      "posterBig": "/heros/shangguanwaner_hb_4_b.jpg",
-      "cover": "/heros/shangguanwaner_hb_4_s.jpg"
+      "avatar": "/heros/yunzhongjun_tx_4.jpg",
+      "poster": "/heros/yunzhongjun_hb_4.jpg",
+      "posterBlur": "/heros/yunzhongjun_hb_4_v.jpg",
+      "posterBig": "/heros/yunzhongjun_hb_4_b.jpg",
+      "cover": "/heros/yunzhongjun_hb_4_s.jpg"
     },
     {
       "id": 1508,
@@ -4721,12 +4729,12 @@
       "cover": "/heros/xiangyu_hb_8_s.jpg"
     },
     {
-      "id": 1537,
-      "avatar": "/heros/jing_tx_7.jpg",
-      "poster": "/heros/jing_hb_7.jpg",
-      "posterBlur": "/heros/jing_hb_7_v.jpg",
-      "posterBig": "/heros/jing_hb_7_b.jpg",
-      "cover": "/heros/jing_hb_7_s.jpg"
+      "id": 5316,
+      "avatar": "/heros/jing_tx_6.jpg",
+      "poster": "/heros/jing_hb_6.jpg",
+      "posterBlur": "/heros/jing_hb_6_v.jpg",
+      "posterBig": "/heros/jing_hb_6_b.jpg",
+      "cover": "/heros/jing_hb_6_s.jpg"
     },
     {
       "id": 1406,
