@@ -825,6 +825,13 @@
       "difficulty": 40,
       "effect": 50,
       "survival": 40
+    },
+    {
+      "id": 517,
+      "attack": 70,
+      "difficulty": 50,
+      "effect": 40,
+      "survival": 50
     }
   ]
 }

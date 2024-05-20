@@ -749,6 +749,48 @@
       "name": "龙年限定",
       "link": "/skinType/128.png",
       "alias": "生肖龙限定"
+    },
+    {
+      "id": 129,
+      "name": "情人节限定(曦玄引-吕布)",
+      "link": "/skinType/129.png",
+      "alias": "情侣"
+    },
+    {
+      "id": 130,
+      "name": "情人节限定(曦玄引-貂蝉)",
+      "link": "/skinType/130.png",
+      "alias": "情侣"
+    },
+    {
+      "id": 131,
+      "name": "蔬菜精灵",
+      "link": "/skinType/131.png",
+      "alias": "特殊标志"
+    },
+    {
+      "id": 132,
+      "name": "S35赛季专属",
+      "link": "/skinType/132.png",
+      "alias": "赛季专属"
+    },
+    {
+      "id": 133,
+      "name": "战令限定1",
+      "link": "/skinType/133.png",
+      "alias": "战令限定"
+    },
+    {
+      "id": 134,
+      "name": "KPL限定1",
+      "link": "/skinType/134.png",
+      "alias": "KPL限定"
+    },
+    {
+      "id": 135,
+      "name": "520限定(心动手记-海诺/朵莉亚)",
+      "link": "/skinType/135.png",
+      "alias": "情侣"
     }
   ]
 }

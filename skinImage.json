@@ -4559,6 +4559,206 @@
       "posterBlur": "/heros/sunce_hb_5_v.jpg",
       "posterBig": "/heros/sunce_hb_5_b.jpg",
       "cover": "/heros/sunce_hb_5_s.jpg"
+    },
+    {
+      "id": 1296,
+      "avatar": "/heros/dianwei_tx_6.jpg",
+      "poster": "/heros/dianwei_hb_6.jpg",
+      "posterBlur": "/heros/dianwei_hb_6_v.jpg",
+      "posterBig": "/heros/dianwei_hb_6_b.jpg",
+      "cover": "/heros/dianwei_hb_6_s.jpg"
+    },
+    {
+      "id": 1069,
+      "avatar": "/heros/xiaoqiao_tx_9.jpg",
+      "poster": "/heros/xiaoqiao_hb_9.jpg",
+      "posterBlur": "/heros/xiaoqiao_hb_9_v.jpg",
+      "posterBig": "/heros/xiaoqiao_hb_9_b.jpg",
+      "cover": "/heros/xiaoqiao_hb_9_s.jpg"
+    },
+    {
+      "id": 1747,
+      "avatar": "/heros/yuji_tx_7.jpg",
+      "poster": "/heros/yuji_hb_7.jpg",
+      "posterBlur": "/heros/yuji_hb_7_v.jpg",
+      "posterBig": "/heros/yuji_hb_7_b.jpg",
+      "cover": "/heros/yuji_hb_7_s.jpg"
+    },
+    {
+      "id": 1239,
+      "avatar": "/heros/lvbu_tx_9.jpg",
+      "poster": "/heros/lvbu_hb_9.jpg",
+      "posterBlur": "/heros/lvbu_hb_9_v.jpg",
+      "posterBig": "/heros/lvbu_hb_9_b.jpg",
+      "cover": "/heros/lvbu_hb_9_s.jpg"
+    },
+    {
+      "id": 1419,
+      "avatar": "/heros/diaochan_tx_9.jpg",
+      "poster": "/heros/diaochan_hb_9.jpg",
+      "posterBlur": "/heros/diaochan_hb_9_v.jpg",
+      "posterBig": "/heros/diaochan_hb_9_b.jpg",
+      "cover": "/heros/diaochan_hb_9_s.jpg"
+    },
+    {
+      "id": 5142,
+      "avatar": "/heros/yalian_tx_2.jpg",
+      "poster": "/heros/yalian_hb_2.jpg",
+      "posterBlur": "/heros/yalian_hb_2_v.jpg",
+      "posterBig": "/heros/yalian_hb_2_b.jpg",
+      "cover": "/heros/yalian_hb_2_s.jpg"
+    },
+    {
+      "id": 1176,
+      "avatar": "/heros/zhongwuyan_tx_6.jpg",
+      "poster": "/heros/zhongwuyan_hb_6.jpg",
+      "posterBlur": "/heros/zhongwuyan_hb_6_v.jpg",
+      "posterBig": "/heros/zhongwuyan_hb_6_b.jpg",
+      "cover": "/heros/zhongwuyan_hb_6_s.jpg"
+    },
+    {
+      "id": 1739,
+      "avatar": "/heros/liyuanfang_tx_9.jpg",
+      "poster": "/heros/liyuanfang_hb_9.jpg",
+      "posterBlur": "/heros/liyuanfang_hb_9_v.jpg",
+      "posterBig": "/heros/liyuanfang_hb_9_b.jpg",
+      "cover": "/heros/liyuanfang_hb_9_s.jpg"
+    },
+    {
+      "id": 11210,
+      "avatar": "/heros/lubanqihao_tx_10.jpg",
+      "poster": "/heros/lubanqihao_hb_10.jpg",
+      "posterBlur": "/heros/lubanqihao_hb_10_v.jpg",
+      "posterBig": "/heros/lubanqihao_hb_10_b.jpg",
+      "cover": "/heros/lubanqihao_hb_10_s.jpg"
+    },
+    {
+      "id": 1196,
+      "avatar": "/heros/lubanqihao_tx_6.jpg",
+      "poster": "/heros/lubanqihao_hb_6.jpg",
+      "posterBlur": "/heros/lubanqihao_hb_6_v.jpg",
+      "posterBig": "/heros/lubanqihao_hb_6_b.jpg",
+      "cover": "/heros/lubanqihao_hb_6_s.jpg"
+    },
+    {
+      "id": 5214,
+      "avatar": "/heros/haiyue_tx_4.jpg",
+      "poster": "/heros/haiyue_hb_4.jpg",
+      "posterBlur": "/heros/haiyue_hb_4_v.jpg",
+      "posterBig": "/heros/haiyue_hb_4_b.jpg",
+      "cover": "/heros/haiyue_hb_4_s.jpg"
+    },
+    {
+      "id": 1495,
+      "avatar": "/heros/liubang_tx_5.jpg",
+      "poster": "/heros/liubang_hb_5.jpg",
+      "posterBlur": "/heros/liubang_hb_5_v.jpg",
+      "posterBig": "/heros/liubang_hb_5_b.jpg",
+      "cover": "/heros/liubang_hb_5_s.jpg"
+    },
+    {
+      "id": 5294,
+      "avatar": "/heros/pangu_tx_4.jpg",
+      "poster": "/heros/pangu_hb_4.jpg",
+      "posterBlur": "/heros/pangu_hb_4_v.jpg",
+      "posterBig": "/heros/pangu_hb_4_b.jpg",
+      "cover": "/heros/pangu_hb_4_s.jpg"
+    },
+    {
+      "id": 5343,
+      "avatar": "/heros/sangqi_tx_3.jpg",
+      "poster": "/heros/sangqi_hb_3.jpg",
+      "posterBlur": "/heros/sangqi_hb_3_v.jpg",
+      "posterBig": "/heros/sangqi_hb_3_b.jpg",
+      "cover": "/heros/sangqi_hb_3_s.jpg"
+    },
+    {
+      "id": 1086,
+      "avatar": "/heros/mozi_tx_6.jpg",
+      "poster": "/heros/mozi_hb_6.jpg",
+      "posterBlur": "/heros/mozi_hb_6_v.jpg",
+      "posterBig": "/heros/mozi_hb_6_b.jpg",
+      "cover": "/heros/mozi_hb_6_s.jpg"
+    },
+    {
+      "id": 1449,
+      "avatar": "/heros/chengyaojin_tx_9.jpg",
+      "poster": "/heros/chengyaojin_hb_9.jpg",
+      "posterBlur": "/heros/chengyaojin_hb_9_v.jpg",
+      "posterBig": "/heros/chengyaojin_hb_9_b.jpg",
+      "cover": "/heros/chengyaojin_hb_9_s.jpg"
+    },
+    {
+      "id": 5136,
+      "avatar": "/heros/shangguanwaner_tx_6.jpg",
+      "poster": "/heros/shangguanwaner_hb_6.jpg",
+      "posterBlur": "/heros/shangguanwaner_hb_6_v.jpg",
+      "posterBig": "/heros/shangguanwaner_hb_6_b.jpg",
+      "cover": "/heros/shangguanwaner_hb_6_s.jpg"
+    },
+    {
+      "id": 5064,
+      "avatar": "/heros/shangguanwaner_tx_4.jpg",
+      "poster": "/heros/shangguanwaner_hb_4.jpg",
+      "posterBlur": "/heros/shangguanwaner_hb_4_v.jpg",
+      "posterBig": "/heros/shangguanwaner_hb_4_b.jpg",
+      "cover": "/heros/shangguanwaner_hb_4_s.jpg"
+    },
+    {
+      "id": 1508,
+      "avatar": "/heros/hanxin_tx_8.jpg",
+      "poster": "/heros/hanxin_hb_8.jpg",
+      "posterBlur": "/heros/hanxin_hb_8_v.jpg",
+      "posterBig": "/heros/hanxin_hb_8_b.jpg",
+      "cover": "/heros/hanxin_hb_8_s.jpg"
+    },
+    {
+      "id": 1358,
+      "avatar": "/heros/xiangyu_tx_8.jpg",
+      "poster": "/heros/xiangyu_hb_8.jpg",
+      "posterBlur": "/heros/xiangyu_hb_8_v.jpg",
+      "posterBig": "/heros/xiangyu_hb_8_b.jpg",
+      "cover": "/heros/xiangyu_hb_8_s.jpg"
+    },
+    {
+      "id": 1537,
+      "avatar": "/heros/jing_tx_7.jpg",
+      "poster": "/heros/jing_hb_7.jpg",
+      "posterBlur": "/heros/jing_hb_7_v.jpg",
+      "posterBig": "/heros/jing_hb_7_b.jpg",
+      "cover": "/heros/jing_hb_7_s.jpg"
+    },
+    {
+      "id": 1406,
+      "avatar": "/heros/guanyu_tx_6.jpg",
+      "poster": "/heros/guanyu_hb_6.jpg",
+      "posterBlur": "/heros/guanyu_hb_6_v.jpg",
+      "posterBig": "/heros/guanyu_hb_6_b.jpg",
+      "cover": "/heros/guanyu_hb_6_s.jpg"
+    },
+    {
+      "id": 5015,
+      "avatar": "/heros/mingshiyin_tx_5.jpg",
+      "poster": "/heros/mingshiyin_hb_5.jpg",
+      "posterBlur": "/heros/mingshiyin_hb_5_v.jpg",
+      "posterBig": "/heros/mingshiyin_hb_5_b.jpg",
+      "cover": "/heros/mingshiyin_hb_5_s.jpg"
+    },
+    {
+      "id": 5632,
+      "avatar": "/heros/hainuo_tx_2.jpg",
+      "poster": "/heros/hainuo_hb_2.jpg",
+      "posterBlur": "/heros/hainuo_hb_2_v.jpg",
+      "posterBig": "/heros/hainuo_hb_2_b.jpg",
+      "cover": "/heros/hainuo_hb_2_s.jpg"
+    },
+    {
+      "id": 1592,
+      "avatar": "/heros/duoliya_tx_2.jpg",
+      "poster": "/heros/duoliya_hb_2.jpg",
+      "posterBlur": "/heros/duoliya_hb_2_v.jpg",
+      "posterBig": "/heros/duoliya_hb_2_b.jpg",
+      "cover": "/heros/duoliya_hb_2_s.jpg"
     }
   ]
 }
